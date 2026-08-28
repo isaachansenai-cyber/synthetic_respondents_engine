@@ -1,0 +1,8 @@
+model,dem_var,q_id,cramers_v,label
+gpt4,age_group,q4_2,0.1334,age_x_BI
+gpt4,age_group,q4_3,0.1536,age_x_BI
+gpt4,sex,q7_1,0.0485,sex_x_PEOU
+claude,age_group,q4_1,0.2089,age_x_BI
+claude,age_group,q4_3,0.1662,age_x_BI
+claude,sex,q7_1,0.0519,sex_x_PEOU
+claude,sex,q7_3,0.0695,sex_x_PEOU

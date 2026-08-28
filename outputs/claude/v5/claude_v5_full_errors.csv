@@ -1,0 +1,12 @@
+synthetic_id,error
+S_4606,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqTCh8N7X9AwjtCgcEt'}"
+S_4607,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqTXzEbcjxZmuUZyZuo'}"
+S_4610,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqVCPaWbaQGf1y2ZBXh'}"
+S_4616,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqYpuNHmPoh87MGQaCG'}"
+S_4617,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqZDTvtFZ9WvEGBv4Gc'}"
+S_4621,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqbXYffwiGgr5VCY4eu'}"
+S_4625,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqdpkaEUEc5sUKVoSxR'}"
+S_4627,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqepMYCxuHFjK5NE87d'}"
+S_4635,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqjgE2wRSYwsYJzjtGt'}"
+S_4645,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqqpPaTqraCkvyTu29v'}"
+S_4651,"Error code: 500 - {'type': 'error', 'error': {'type': 'api_error', 'message': 'Internal server error'}, 'request_id': 'req_011CbWqujV1t34TwuAx7fuYS'}"

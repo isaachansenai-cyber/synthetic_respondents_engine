@@ -1,0 +1,5 @@
+model,conditioning_arm,n,behavioral_intention,perceived_usefulness,ease_of_use,ai_capability,attitude
+gpt4,demo_plus_traits,520,0.968,0.985,0.668,0.932,0.956
+gpt4,demo_only,520,0.928,0.97,0.651,0.756,0.922
+claude,demo_plus_traits,520,0.96,0.979,0.563,0.903,0.94
+claude,demo_only,520,0.927,0.968,0.618,0.303,0.887

@@ -1,0 +1,3 @@
+model,behavioral_intention,perceived_usefulness,ease_of_use,ai_capability,attitude
+gpt4,0.955,0.98,0.669,0.888,0.945
+claude,0.947,0.975,0.589,0.803,0.92

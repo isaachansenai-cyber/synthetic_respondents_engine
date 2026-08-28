@@ -1,0 +1,13 @@
+model,conditioning_arm,dem_var,q_id,cramers_v,label
+gpt4,demo_plus_traits,age_group,q4_1,0.0527,age_x_BI
+gpt4,demo_plus_traits,age_group,q4_2,0.0447,age_x_BI
+gpt4,demo_plus_traits,age_group,q4_3,0.0794,age_x_BI
+gpt4,demo_plus_traits,sex,q7_1,0.0415,sex_x_PEOU
+gpt4,demo_only,age_group,q4_3,0.2527,age_x_BI
+gpt4,demo_only,sex,q7_1,0.0603,sex_x_PEOU
+claude,demo_plus_traits,age_group,q4_3,0.0591,age_x_BI
+claude,demo_plus_traits,sex,q7_1,0.0489,sex_x_PEOU
+claude,demo_plus_traits,sex,q7_3,0.0774,sex_x_PEOU
+claude,demo_only,age_group,q4_3,0.3332,age_x_BI
+claude,demo_only,sex,q7_1,0.1007,sex_x_PEOU
+claude,demo_only,sex,q7_2,0.072,sex_x_PEOU

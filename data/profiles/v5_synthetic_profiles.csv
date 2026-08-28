@@ -1,0 +1,5001 @@
+synthetic_id,age,sex,country,city
+S_0001,18-21,Female,America,California
+S_0002,18-21,Female,United States,Texas
+S_0003,22-26,Female,United States,Colorado
+S_0004,22-26,Male,Philippines,Davao
+S_0005,22-26,Male,Usa,Spokane
+S_0006,22-26,Male,Canada,Alberta
+S_0007,22-26,Female,Thailand,Bangkok
+S_0008,22-26,Female,Philippines,Nueva Ecija
+S_0009,22-26,Male,Ghana,Accra
+S_0010,22-26,Female,US,HI
+S_0011,22-26,Female,Philippines,Laie
+S_0012,22-26,Female,Kiribati,Butaritari
+S_0013,22-26,Female,Philippines,Laie
+S_0014,43-49,Male,United States of America,"Draper, Utah"
+S_0015,32-36,Male,Fiji,Nadi
+S_0016,32-36,Male,Tonga,Fo'ui
+S_0017,27-31,Female,Tahiti,Papeete
+S_0018,27-31,Female,USA,Hawaii
+S_0019,18-21,Female,Philippines,Davao City
+S_0020,18-21,Male,Indonesia,Bogor
+S_0021,37-42,Female,United States,Texas
+S_0022,18-21,Female,USA,Minnesota
+S_0023,18-21,Male,United States,"Billings, Montana"
+S_0024,18-21,Female,United States of America,Minnesota
+S_0025,22-26,Female,United States of America,Georgia
+S_0026,22-26,Male,Philippines,Butuan
+S_0027,22-26,Female,United States,"Providence, UT"
+S_0028,27-31,Male,Philippines,Pangasinan
+S_0029,18-21,Male,Korea,Suwon
+S_0030,18-21,Female,USA,Kailua Hawaii
+S_0031,18-21,Male,America,Colorado
+S_0032,37-42,Female,Philippines,Pasig City
+S_0033,22-26,Male,China,Hebei
+S_0034,22-26,Male,United states,Laie
+S_0035,18-21,Female,Scotland,Aberdeen
+S_0036,22-26,Female,Canada,Alberta
+S_0037,22-26,Male,Mongolia,Ulaanbaatar
+S_0038,18-21,Female,US,Spokane Washington
+S_0039,50-58,Female,Canada,Langley
+S_0040,43-49,Female,Kiribati,Tarawa
+S_0041,18-21,Male,USA,Washington
+S_0042,22-26,Female,Indonesia,Jakarta
+S_0043,22-26,Female,Mexico,Puerto Vallarta
+S_0044,18-21,Female,United States,Florida
+S_0045,50-58,Female,philippines,tuguegarao
+S_0046,18-21,Male,PNG,Port Moresby
+S_0047,27-31,Male,Malaysia,Sarawak
+S_0048,18-21,Female,United States,Utah
+S_0049,43-49,Male,United States,Arizona
+S_0050,66-70,Male,Papua New Guinea,Port Morgan
+S_0051,27-31,Female,United States,Bountiful
+S_0052,27-31,Female,United States,"Salt Lake City, Utah"
+S_0053,18-21,Male,Philippines,General Santos City
+S_0054,27-31,Male,USA,Utah
+S_0055,50-58,Female,New Zealand,Hamilton
+S_0056,22-26,Male,Japan,Ibaraki
+S_0057,22-26,Male,China,Shanghai
+S_0058,22-26,Female,Mexico,Puebla
+S_0059,22-26,Female,Philippines,Davao City
+S_0060,43-49,Male,Philippines,Cebu
+S_0061,18-21,Female,United States,Utah
+S_0062,22-26,Female,United States,Utah
+S_0063,22-26,Female,United States of America,"Albany, Oregon"
+S_0064,27-31,Male,Us,Utah
+S_0065,22-26,Female,United States,Arizona
+S_0066,18-21,Male,United States,Utah
+S_0067,27-31,Female,Tahiti,French Polynesia
+S_0068,37-42,Female,Kiribati,Tarawa
+S_0069,22-26,Female,Philippines,Negros Occidental
+S_0070,27-31,Male,United States,Utah
+S_0071,22-26,Male,Japan,Fukuoka
+S_0072,22-26,Female,Mongolia,Ulaanbaatar
+S_0073,22-26,Female,Papua New Guinea,Port Moresby
+S_0074,18-21,Female,New Zeland,Auckland
+S_0075,22-26,Male,USA,Montana
+S_0076,22-26,Male,Philippines,Manila
+S_0077,22-26,Male,Kiribati,Tarawa
+S_0078,43-49,Female,United States,Phoenix Arizona
+S_0079,18-21,Female,USA,Washington
+S_0080,18-21,Female,United States,Provo Utah
+S_0081,18-21,Male,Papua New Guinea,Papua New Guinea
+S_0082,22-26,Female,Kiribati,Tarawa
+S_0083,22-26,Female,United States,Texas
+S_0084,22-26,Female,Tahiti,French Polynesia
+S_0085,18-21,Female,Philippines,Lubao
+S_0086,22-26,Male,United states,North Carolina
+S_0087,22-26,Female,India,Delhi
+S_0088,22-26,Female,Tonga,Tongatapu
+S_0089,22-26,Male,Fiji,Suva
+S_0090,22-26,Female,USA,Hawaii
+S_0091,18-21,Female,Tahiti,French Polynesia
+S_0092,22-26,Male,Philippines,Legazpi
+S_0093,18-21,Female,United States,Newport
+S_0094,22-26,Male,India,Hyderabad
+S_0095,18-21,Female,Japan,Kanagawa
+S_0096,22-26,Female,philippines,manila
+S_0097,22-26,Female,United States,Utah
+S_0098,43-49,Male,Australia,Queensland
+S_0099,22-26,Male,Thailand,Bangkok
+S_0100,18-21,Male,"French Polynesia, Tahiti",Pirae
+S_0101,22-26,Female,USA,Utah
+S_0102,18-21,Female,United States,Utah
+S_0103,22-26,Female,US,Utah
+S_0104,43-49,Female,United States of America,California
+S_0105,32-36,Male,Mongolia,Ulaanbaatar
+S_0106,32-36,Male,USA,Wisconsin
+S_0107,22-26,Male,United States,"Tooele, UT"
+S_0108,22-26,Male,America,Oregon
+S_0109,22-26,Male,USA,Hawaii
+S_0110,27-31,Male,Philippines,Santiago City
+S_0111,50-58,Female,Philippines,Pangasinan
+S_0112,22-26,Male,United states,Utah
+S_0113,22-26,Female,Philippines,Camarines Sur
+S_0114,22-26,Female,Philippines,Pangasinan
+S_0115,22-26,Female,United States,Martinsburg
+S_0116,22-26,Female,united states of america,Texas
+S_0117,50-58,Female,Philippines,"Naga City, Camarines Sur"
+S_0118,18-21,Female,United States,CO
+S_0119,50-58,Female,USA,West Virginia
+S_0120,27-31,Female,Philippines,Camarines Sur
+S_0121,22-26,Female,USA,Wisconsin
+S_0122,22-26,Female,United States,Utah
+S_0123,22-26,Female,USA,"Bluffdale, Utah"
+S_0124,22-26,Male,Philippines,Cebu City
+S_0125,22-26,Male,Usa,Arizona
+S_0126,27-31,Male,Philippines,Davao City
+S_0127,27-31,Female,Indonesia,Surakarta
+S_0128,22-26,Female,United States,Utah
+S_0129,22-26,Male,USA,California
+S_0130,27-31,Female,Philippines,Tarlac
+S_0131,27-31,Male,USA,Florida
+S_0132,22-26,Female,USA,Hawaii
+S_0133,22-26,Female,China,Harbin
+S_0134,27-31,Female,USA,Utah
+S_0135,22-26,Male,Philippines,Baguio City
+S_0136,27-31,Male,South Korea,Ulsan
+S_0137,27-31,Female,United States,Arizona
+S_0138,50-58,Male,United States,Utah
+S_0139,27-31,Male,Tarawa,Kiribati
+S_0140,22-26,Female,USA,Virginia
+S_0141,22-26,Male,United States,Utah
+S_0142,22-26,Female,America,California
+S_0143,50-58,Male,China,JiangXi
+S_0144,22-26,Female,Usa,Nashville
+S_0145,32-36,Male,United States,Colorado
+S_0146,18-21,Male,Canada,Alberta
+S_0147,22-26,Female,Philippines,"Balanga City, Bataan"
+S_0148,18-21,Female,Indonesia,Jakarta
+S_0149,27-31,Male,USA,LOGAN
+S_0150,18-21,Female,Jaoan,Chiba
+S_0151,22-26,Female,USA,Utah
+S_0152,22-26,Female,USA,Oregon
+S_0153,22-26,Female,Tonga,Tongatapu
+S_0154,18-21,Male,United States,Utah
+S_0155,18-21,Female,New Zealand,Hastings
+S_0156,22-26,Female,United States,Utah
+S_0157,27-31,Male,PNG,Port Moresby
+S_0158,18-21,Male,USA,California
+S_0159,22-26,Male,Malaysia,Kuala Lumpur
+S_0160,22-26,Male,United States of America,Colorado
+S_0161,27-31,Male,United States,"Laie, HI"
+S_0162,22-26,Female,Philippines,Iligan
+S_0163,22-26,Male,Mongolia,Ulaanbaatar
+S_0164,22-26,Female,United States,Oregon
+S_0165,22-26,Male,USA,Utah
+S_0166,22-26,Male,Tonga,Nuku'alofa
+S_0167,18-21,Male,Japan,Sendai
+S_0168,18-21,Female,United States,Texas
+S_0169,32-36,Male,China,Hebei
+S_0170,22-26,Female,Philippines,Pasig City
+S_0171,22-26,Female,Japan,Okinawa
+S_0172,22-26,Female,China,JiangXi
+S_0173,22-26,Female,Philippines,Laguna
+S_0174,27-31,Male,Scotland,Aberdeen
+S_0175,22-26,Female,Philippines,Hinunangan
+S_0176,43-49,Female,Papua New Guinea,Madang
+S_0177,32-36,Female,United States,Sacramento
+S_0178,22-26,Female,Philippines,Quezon City
+S_0179,27-31,Male,Tonga,Liahona
+S_0180,37-42,Female,Philipphines,Manila
+S_0181,22-26,Female,Philippines,Santiago City
+S_0182,22-26,Male,Japan,Tokyo
+S_0183,27-31,Male,Philippines,Alicia
+S_0184,22-26,Female,Fiji,Suva
+S_0185,22-26,Female,United States,Utah
+S_0186,27-31,Male,Usa,Nashville
+S_0187,18-21,Female,South Korea,Gwangju
+S_0188,22-26,Male,Philippines,SURIGAO CITY
+S_0189,27-31,Female,Brazil,Sao Paulo
+S_0190,22-26,Male,Cook Islands,Hawaii
+S_0191,22-26,Male,Philippines,Hawaii
+S_0192,18-21,Male,India,Delhi
+S_0193,59-64,Female,United States,Hawaii
+S_0194,18-21,Male,India,Hyderabad
+S_0195,37-42,Male,Mongolia,Ulaanbaatr
+S_0196,27-31,Female,Indonesia,Malang
+S_0197,22-26,Male,United States,Arizona
+S_0198,22-26,Male,Kiribati,Tarawa
+S_0199,22-26,Female,USA,Utah
+S_0200,22-26,Male,Tonga,Pangai
+S_0201,22-26,Female,United States,California
+S_0202,18-21,Female,Philippines,Cebu
+S_0203,50-58,Female,Philippines,Alicia
+S_0204,18-21,Male,America,California
+S_0205,27-31,Female,Philippines,Rizal
+S_0206,22-26,Female,Philippines,Hawaii
+S_0207,18-21,Male,Peru,Arequipa
+S_0208,18-21,Male,United States,Utah
+S_0209,27-31,Female,United States,Hawaii
+S_0210,66-70,Female,United States,Utah
+S_0211,22-26,Male,United States,Texas
+S_0212,32-36,Male,United States,Oregon
+S_0213,22-26,Female,Philippines,Pangasinan
+S_0214,18-21,Female,Philippines,Cavite
+S_0215,50-58,Female,United States,Utah
+S_0216,22-26,Female,Mongolia,Ulaanbaatar
+S_0217,27-31,Female,Philippines,Unknown
+S_0218,22-26,Male,México,Veracruz
+S_0219,27-31,Female,India,Deli
+S_0220,22-26,Male,United States,Texas
+S_0221,27-31,Male,US,"Hawaii, Laie"
+S_0222,22-26,Female,USA,Oregon
+S_0223,18-21,Male,Papua New Guinea,"Port Moresby, Papua New Guinea"
+S_0224,43-49,Female,United States,"Billings, Montana"
+S_0225,22-26,Female,Japan,Okinawa
+S_0226,22-26,Female,Samoa,Apia Samoa
+S_0227,18-21,Male,Canada,British Columbia
+S_0228,43-49,Male,Philippines,Pasig
+S_0229,22-26,Male,United States of America,Utah
+S_0230,22-26,Female,Brazil,Sao Paulo
+S_0231,22-26,Male,Philippines,Cebu
+S_0232,22-26,Female,Usa,Phoenix AZ
+S_0233,43-49,Male,Tonga,Nuku'alofa
+S_0234,22-26,Female,USA,Utah
+S_0235,22-26,Male,Philippines,Davao City
+S_0236,27-31,Female,Canada,Alberta
+S_0237,22-26,Female,Samoa,Unknown
+S_0238,22-26,Female,Philippines,Cebu
+S_0239,22-26,Male,Tahiti,Faa'a
+S_0240,18-21,Male,United states,Laie
+S_0241,18-21,Male,Papua New Guinea,Port Moresby
+S_0242,50-58,Female,USA,Herriman
+S_0243,22-26,Male,Kiribati,Tarawa
+S_0244,27-31,Male,Philippines,Isabela
+S_0245,18-21,Male,Japan,Gifu (Prefecture)
+S_0246,22-26,Female,USA,California
+S_0247,32-36,Female,México,Veracruz
+S_0248,22-26,Male,Philippines,Binalonan
+S_0249,32-36,Male,Indonesia,Central Java
+S_0250,18-21,Female,United States,Oregon
+S_0251,22-26,Male,Philippines,Dagupan
+S_0252,43-49,Female,Philippines,Baguio City
+S_0253,22-26,Male,Fiji,Suva
+S_0254,22-26,Female,Kiribati,Butaritari
+S_0255,22-26,Male,Kingdom of Hawai’i,Makawao
+S_0256,22-26,Male,KSA,Dhahran
+S_0257,43-49,Female,Philippines,Quezon City
+S_0258,22-26,Male,United States,"Wichita Falls, Texas"
+S_0259,22-26,Male,USA,West Virginia
+S_0260,18-21,Female,Tonga,Haapai
+S_0261,18-21,Female,Tonga,Nuku'alofa
+S_0262,59-64,Male,Philippines,Cavite city
+S_0263,37-42,Female,Japan,Fukuoka
+S_0264,22-26,Female,Philippines,Iligan
+S_0265,50-58,Female,Philippines,Allen
+S_0266,59-64,Female,United States,Hawaii
+S_0267,27-31,Female,United States,Texas
+S_0268,22-26,Female,Philippines,Ramon
+S_0269,18-21,Male,Japan,Sendai
+S_0270,18-21,Female,United States,Utah
+S_0271,18-21,Female,USA,"Alpine, Utah"
+S_0272,22-26,Female,USA,Florida
+S_0273,22-26,Female,Kiribati,Tarawa
+S_0274,32-36,Female,Philippines,Camarines Sur
+S_0275,22-26,Female,USA,Minnesota
+S_0276,27-31,Female,USA,Hawaii
+S_0277,22-26,Female,China,Hebei
+S_0278,18-21,Female,Papua New Guinea,Hawaii
+S_0279,27-31,Male,America,Idaho
+S_0280,50-58,Female,USA,California
+S_0281,22-26,Male,Kiribati,Tarawa
+S_0282,37-42,Male,Usa,"Burley, Idaho"
+S_0283,22-26,Female,United States,Bluffdale Utah
+S_0284,22-26,Male,Philippines,Cebu
+S_0285,27-31,Female,USA,Georgia
+S_0286,22-26,Female,America,Utah
+S_0287,22-26,Male,usa,North Carolina
+S_0288,27-31,Female,Japan,Fukuoka
+S_0289,22-26,Female,México,Veracruz
+S_0290,22-26,Male,United States,Texas
+S_0291,22-26,Female,Japan,Ibaraki
+S_0292,27-31,Female,United States,California
+S_0293,22-26,Male,Philippines,Pasuquin
+S_0294,22-26,Male,New Zeland,Auckland
+S_0295,18-21,Male,usa,boise
+S_0296,32-36,Female,New Zealand,Auckland
+S_0297,50-58,Female,Philippines,Dagupan
+S_0298,22-26,Male,Mexico,Monterrey
+S_0299,22-26,Female,United States,Providence
+S_0300,22-26,Female,United States,Arizona
+S_0301,18-21,Female,America,Ohio
+S_0302,22-26,Female,Australia,Melbourne
+S_0303,22-26,Female,United States,Utah
+S_0304,22-26,Female,Aotearoa,Hastings
+S_0305,22-26,Female,China,Harbin
+S_0306,18-21,Female,Philippines,Negros Occidental
+S_0307,22-26,Female,Tonga,Fo'ui
+S_0308,22-26,Male,Japan,Yamaguchi
+S_0309,22-26,Female,United States,Connecticut
+S_0310,22-26,Female,USA,"Anchorage, AK"
+S_0311,22-26,Male,Japan,"Kagawa prefecture, Kanonji city"
+S_0312,18-21,Male,New Zealand,Haruru
+S_0313,22-26,Female,Fiji,Suva
+S_0314,22-26,Female,Usa,Bountiful Utah
+S_0315,22-26,Female,United States,American Samoa
+S_0316,27-31,Female,Papua New Guinea,Madang
+S_0317,18-21,Female,Philippines,Negros Occidental
+S_0318,27-31,Male,PHILIPPINES,MANILA
+S_0319,22-26,Male,Philippines,Pasuquin
+S_0320,59-64,Female,Philippines,Davao City
+S_0321,22-26,Male,Kingdom of Tonga,Haapai
+S_0322,18-21,Female,United States,Washington
+S_0323,43-49,Male,USA,Washington
+S_0324,18-21,Female,Kiribati,Tarawa
+S_0325,18-21,Male,United States,New Mexico
+S_0326,22-26,Female,USA,Pennsylvania
+S_0327,22-26,Female,USA,las vegas
+S_0328,50-58,Female,Mongolia,Ulaanbaatar
+S_0329,22-26,Female,United States,"Billings, Montana"
+S_0330,22-26,Female,new zealand,auckland
+S_0331,22-26,Female,Philippines,Antipolo City
+S_0332,18-21,Female,India,Chennai
+S_0333,18-21,Female,United States,New Mexico
+S_0334,22-26,Female,Philippines,Leyte
+S_0335,22-26,Female,Philippines,Bulacan
+S_0336,18-21,Female,USA,San Francisco
+S_0337,43-49,Male,Philippines,Pampanga
+S_0338,22-26,Female,Kingdom of Hawai’i,Makawao
+S_0339,43-49,Male,México,Tamaulipas
+S_0340,18-21,Female,Unite States,"Springville, UT"
+S_0341,27-31,Male,mongolia,ub
+S_0342,22-26,Female,Tonga,Hateo
+S_0343,22-26,Female,United States,Texas
+S_0344,22-26,Female,US,Utah
+S_0345,27-31,Male,USA,Texas
+S_0346,22-26,Female,United States,Texas
+S_0347,18-21,Female,America,California
+S_0348,27-31,Female,United States,Utah
+S_0349,22-26,Male,United States,Hawaii
+S_0350,18-21,Female,Philippines,Iligan
+S_0351,22-26,Female,United States,Utah
+S_0352,18-21,Female,United States,Hawaii
+S_0353,43-49,Male,Kiribati,Tarawa
+S_0354,18-21,Female,United States,Utah
+S_0355,18-21,Female,United States,CO
+S_0356,32-36,Female,New Zealand,Haruru
+S_0357,22-26,Male,Philippines,Alicia
+S_0358,27-31,Male,United States,West Virginia
+S_0359,22-26,Female,United States,Utah
+S_0360,43-49,Male,Kiribati,Tarawa
+S_0361,22-26,Male,Philippines,Muntinlupa
+S_0362,27-31,Female,Australia,Melbourne
+S_0363,27-31,Female,United States,Oregon
+S_0364,18-21,Female,United States,Utah
+S_0365,32-36,Female,Philippines,Naga
+S_0366,22-26,Female,French Polynesia,Mataiea
+S_0367,27-31,Male,Kiribati,South-Tarawa
+S_0368,22-26,Female,India,Delhi
+S_0369,22-26,Male,America,Las Vegas
+S_0370,22-26,Male,Sāmoa,Hawaii
+S_0371,27-31,Female,Kingdom of Hawai’i,Makawao
+S_0372,22-26,Male,United States,Las Vegas
+S_0373,18-21,Male,United States,Orem
+S_0374,43-49,Female,Philippines,Hawaii
+S_0375,27-31,Male,Philippines,Santiago City
+S_0376,22-26,Male,Philippines,Davao City
+S_0377,50-58,Female,South Korea,Gwangju
+S_0378,22-26,Female,Mexico,Monterrey
+S_0379,22-26,Female,Indonesia,Surabaya
+S_0380,27-31,Female,USA,California
+S_0381,22-26,Female,usa,North Carolina
+S_0382,27-31,Male,United States,"Salt Lake City, Utah"
+S_0383,22-26,Male,USA,"Edison, New Jersey"
+S_0384,22-26,Male,Philippines,Cabatuan
+S_0385,18-21,Female,United States,Hawaii
+S_0386,50-58,Female,usa,colorado
+S_0387,50-58,Female,Philippines,Cavite
+S_0388,22-26,Female,Philippines,Rizal
+S_0389,27-31,Female,US,HI
+S_0390,22-26,Female,Tonga,Nuku’alofa
+S_0391,22-26,Female,United States,Utah
+S_0392,22-26,Female,USA,Utah
+S_0393,27-31,Female,Japan,Kobe
+S_0394,50-58,Female,Philippines,Tuguegarao
+S_0395,27-31,Female,United States,Utah
+S_0396,22-26,Female,Usa,Nashville
+S_0397,18-21,Male,United States,Sacramento
+S_0398,18-21,Female,Samoa,Apia Samoa
+S_0399,18-21,Male,United States,NC
+S_0400,18-21,Female,United States,Idaho
+S_0401,50-58,Female,Hawaii,Oahu
+S_0402,27-31,Male,Philippines,Tuguegarao
+S_0403,22-26,Male,USA,"Bountiful, UT"
+S_0404,50-58,Female,USA,Utah
+S_0405,43-49,Female,United States,Utah
+S_0406,37-42,Male,USA,California
+S_0407,22-26,Male,Mongolia,Ulaanbaatar
+S_0408,22-26,Female,Tonga,Tongatapu
+S_0409,22-26,Female,USA,Texas
+S_0410,18-21,Male,USA,California
+S_0411,22-26,Female,mongolia,ub
+S_0412,22-26,Female,Canada,Cardston
+S_0413,22-26,Female,Kiribati,South-Tarawa
+S_0414,22-26,Female,Philippines,Digos City
+S_0415,22-26,Male,India,Delhi
+S_0416,43-49,Female,Japan,Fukuoka
+S_0417,18-21,Male,Indonesia,Surakarta
+S_0418,22-26,Female,United states,Draper Utah
+S_0419,18-21,Female,Philippines,"Naga City, Camarines Sur"
+S_0420,18-21,Male,United states,Draper Utah
+S_0421,22-26,Female,Japan,Saitama
+S_0422,50-58,Male,South Korea,Gwangju
+S_0423,22-26,Male,US,Sacramento
+S_0424,59-64,Female,USA,Hawaii
+S_0425,43-49,Male,United States of America,Phoenix arizona
+S_0426,18-21,Female,USA,Newport
+S_0427,27-31,Female,Canada,Calgary
+S_0428,22-26,Male,Japan,Sapporo
+S_0429,22-26,Female,America,Utah
+S_0430,22-26,Female,tahiti,papeete
+S_0431,22-26,Male,Philippines,Unknown
+S_0432,22-26,Female,USA,Oregon
+S_0433,22-26,Male,United States,Houston
+S_0434,18-21,Female,USA,Utah
+S_0435,22-26,Female,United States,"Salt Lake City, Utah"
+S_0436,18-21,Female,United States,Bluffdale Utah
+S_0437,22-26,Female,USA,Colorado
+S_0438,22-26,Female,England,London
+S_0439,18-21,Female,USA,Utah
+S_0440,22-26,Female,usa,colorado
+S_0441,50-58,Female,Philippines,Taguig City
+S_0442,22-26,Female,papua new guinea,Hawaii
+S_0443,22-26,Male,U.S,Hawaii
+S_0444,22-26,Female,USA,Georgia
+S_0445,43-49,Female,Japan,Nara
+S_0446,22-26,Male,USA,CT
+S_0447,22-26,Male,USA,Utah
+S_0448,22-26,Female,papua new guinea,Hawaii
+S_0449,32-36,Female,New Zealand,Hamilton
+S_0450,22-26,Female,Mongolia,Ulaanbaatar
+S_0451,22-26,Female,USA,"Sandy, Utah"
+S_0452,22-26,Male,Tonga,Haapai
+S_0453,43-49,Female,Philippines,Pasig
+S_0454,22-26,Female,sri lanka,colombo
+S_0455,22-26,Male,Philippines,Cebu
+S_0456,22-26,Male,New Zealand,Haruru
+S_0457,50-58,Female,South Korea,Ulsan
+S_0458,22-26,Female,Fiji,Suva
+S_0459,18-21,Female,United States,hawaii
+S_0460,22-26,Female,Japan,Fukuoka
+S_0461,27-31,Male,USA,Utah
+S_0462,18-21,Female,Japan,Okinawa
+S_0463,43-49,Male,Tahiti,Maraea
+S_0464,18-21,Male,Thailand,Chiang Mai
+S_0465,18-21,Female,Canada,Alberta
+S_0466,18-21,Female,French Polynesia,Tahiti
+S_0467,18-21,Female,Philippines,Baguio
+S_0468,27-31,Male,tahiti,papeete
+S_0469,22-26,Female,Canada,Pincher Creek
+S_0470,22-26,Female,America,Texas
+S_0471,22-26,Female,Canada,BC
+S_0472,22-26,Female,United States,"Lehi, UT"
+S_0473,22-26,Female,Taiwan,Taichung City
+S_0474,22-26,Female,Philippines,Alicia
+S_0475,27-31,Female,United States,Indiana
+S_0476,22-26,Female,USA,Hawaii
+S_0477,22-26,Female,Japan,Osaka
+S_0478,22-26,Male,Kiribati,Tarawa
+S_0479,22-26,Male,New Zealand,Hawkes Bay
+S_0480,22-26,Female,Tonga,Holonga
+S_0481,22-26,Female,USA,Idaho
+S_0482,22-26,Male,United states,newport
+S_0483,27-31,Male,USA,"Alpine, Utah"
+S_0484,32-36,Female,Fiji,Suva
+S_0485,22-26,Female,United States,Utah
+S_0486,18-21,Female,Philippines,Isabela
+S_0487,32-36,Female,Philippines,Cavite
+S_0488,22-26,Male,Usa,Spokane
+S_0489,22-26,Female,Philippines,Hinunangan
+S_0490,22-26,Male,philippines,manila
+S_0491,22-26,Female,Tonga,Pangai
+S_0492,18-21,Female,Philippines,Laie
+S_0493,22-26,Female,US,HI
+S_0494,27-31,Female,United States,Utah
+S_0495,22-26,Male,Tonga,Nuku'alofa
+S_0496,22-26,Female,United States,Montana
+S_0497,22-26,Male,united states of america,Texas
+S_0498,22-26,Female,papua new guinea,Hawaii
+S_0499,18-21,Female,USA,Virginia
+S_0500,18-21,Female,Malaysia,bintulu
+S_0501,22-26,Male,Malaysia,Perak state
+S_0502,22-26,Female,United State,Utah
+S_0503,43-49,Female,Philippines,Pasuquin
+S_0504,18-21,Male,Mexico,Monterrey
+S_0505,50-58,Female,United States of America,"Salt Lake City, Utah"
+S_0506,18-21,Female,United States,Provo
+S_0507,22-26,Male,USA,Hawaii
+S_0508,22-26,Male,Philippines,Hawaii
+S_0509,22-26,Female,Philippines,Malaybalay
+S_0510,22-26,Female,USA,oceanside
+S_0511,27-31,Female,United States,Colorado
+S_0512,22-26,Female,United States,Virginia
+S_0513,18-21,Male,United States,Utah
+S_0514,22-26,Female,USA,Utah
+S_0515,37-42,Female,India,New Delhi
+S_0516,27-31,Male,Papua New Guinea,"Port Moresby, Papua New Guinea"
+S_0517,22-26,Female,United States,Utah
+S_0518,32-36,Male,Fiji,Lautoka
+S_0519,22-26,Female,United States of America,Colorado
+S_0520,18-21,Female,Fiji,Suva
+S_0521,18-21,Female,United State,California
+S_0522,22-26,Male,Tonga,Fo'ui
+S_0523,22-26,Male,United States,Orem
+S_0524,18-21,Male,Philippines,Santa Barbara
+S_0525,22-26,Female,New Zealand,Bay Of islands
+S_0526,18-21,Male,Indonesia,Surakarta
+S_0527,18-21,Female,United States,Utah
+S_0528,22-26,Male,United States,Utah
+S_0529,22-26,Female,United States,California
+S_0530,22-26,Female,Philippines,Laguna
+S_0531,50-58,Female,USA,California
+S_0532,18-21,Male,America,Ohio
+S_0533,22-26,Female,Tahiti,French Polynesia
+S_0534,27-31,Female,Philippines,Baguio
+S_0535,50-58,Male,United States,"Mesa, AZ"
+S_0536,22-26,Male,Kiribati,Tarawa
+S_0537,22-26,Female,Sri Lanka,Negombo
+S_0538,32-36,Female,United States,"Wichita Falls, Texas"
+S_0539,22-26,Female,United States of America,Phoenix arizona
+S_0540,22-26,Female,Mongolia,Ulaanbaatar
+S_0541,18-21,Male,Philippines,Negros Occidental
+S_0542,22-26,Female,USA,Sacramento
+S_0543,27-31,Male,Philippines,Valenzuela
+S_0544,22-26,Female,United States,Utah
+S_0545,22-26,Female,USA,Washington
+S_0546,27-31,Female,United States,Utah
+S_0547,22-26,Female,China,Chengdu
+S_0548,18-21,Female,USA,Arizona
+S_0549,22-26,Female,Philippines,Gensan City
+S_0550,18-21,Male,USA,Utah
+S_0551,22-26,Female,Philippines,Tacloban
+S_0552,22-26,Male,Philippines,Taguig
+S_0553,18-21,Male,United States,"Wichita Falls, Texas"
+S_0554,22-26,Male,Philippines,Unknown
+S_0555,18-21,Female,USA,Hawaii
+S_0556,18-21,Female,Malaysia,Subang Jaya
+S_0557,22-26,Male,United States,Hawaii
+S_0558,22-26,Female,Hong Kong,Hong Kong
+S_0559,22-26,Female,India,Delhi
+S_0560,18-21,Male,Tahiti,French Polynesia
+S_0561,22-26,Female,Canada,Pincher Creek
+S_0562,22-26,Male,México,Veracruz
+S_0563,43-49,Female,United States,Bountiful
+S_0564,22-26,Male,Australia,Gold Coast
+S_0565,22-26,Male,United States,UT
+S_0566,22-26,Male,Philippines,Hinunangan
+S_0567,37-42,Female,New Zealand,Hamilton
+S_0568,22-26,Male,Mexico,Nuevo Leon
+S_0569,22-26,Male,Japan,Toride
+S_0570,27-31,Female,US,West Virginia
+S_0571,22-26,Male,United States,Missouri
+S_0572,22-26,Male,USA,Guam
+S_0573,22-26,Female,Hong Kong,Hong Kong
+S_0574,27-31,Male,Fiji,Lautoka
+S_0575,43-49,Male,USA,Utah
+S_0576,43-49,Female,Philippines,Binalonan
+S_0577,22-26,Female,China,Hebei
+S_0578,22-26,Male,Philippines,Antipolo City
+S_0579,18-21,Female,USA,Virginia
+S_0580,22-26,Male,United States,"Salt Lake City, Utah"
+S_0581,22-26,Female,USA,California/Hawaii
+S_0582,43-49,Female,Unite States,"Springville, UT"
+S_0583,22-26,Male,Fiji,Suva
+S_0584,22-26,Male,USA,Oregon
+S_0585,27-31,Female,Vietnam,Dong Xoai
+S_0586,22-26,Male,United States,Loganville
+S_0587,22-26,Female,French Polynesia,Marquesas Islands
+S_0588,22-26,Female,Korea,Seoul
+S_0589,43-49,Female,Philippines,"Balanga City, Bataan"
+S_0590,27-31,Female,United States,Provo Utah
+S_0591,22-26,Male,Kiribati,Tarawa
+S_0592,22-26,Female,Philippines,Dagupan
+S_0593,22-26,Female,Mexico,Mexico city
+S_0594,37-42,Female,United States,Washington
+S_0595,22-26,Female,Fiji,Suva
+S_0596,22-26,Male,Tarawa,Kiribati
+S_0597,43-49,Female,Indonesia,Bogor
+S_0598,22-26,Male,Usa,Spokane
+S_0599,18-21,Male,United States,Utah
+S_0600,22-26,Male,Malaysia,Perak state
+S_0601,66-70,Male,USA,California/Hawaii
+S_0602,22-26,Female,USA,NY
+S_0603,22-26,Female,United states,Draper Utah
+S_0604,27-31,Female,USA,Utah
+S_0605,22-26,Female,Samoa,Apia Samoa
+S_0606,18-21,Female,Philippines,Pangasinan
+S_0607,18-21,Female,Kiribati,Tarawa
+S_0608,22-26,Female,USA,Colorado
+S_0609,18-21,Female,Philippines,Hawaii
+S_0610,22-26,Male,USA,Arizona
+S_0611,43-49,Female,Japan,Sendai
+S_0612,22-26,Female,Samoa,Apia
+S_0613,22-26,Male,United States,Bluffdale Utah
+S_0614,18-21,Male,Philippines,Cebu
+S_0615,22-26,Female,america,michigan
+S_0616,22-26,Male,America,California
+S_0617,27-31,Female,Philippines,Malasiqui
+S_0618,27-31,Female,Philippines,Alicia
+S_0619,59-64,Male,México,Veracruz
+S_0620,18-21,Female,Mexico,Mexico city
+S_0621,22-26,Female,USA,Colorado
+S_0622,22-26,Female,Japan,Kannonnji
+S_0623,18-21,Female,Cook Islands,Hawaii
+S_0624,43-49,Female,United States,Minnesota
+S_0625,22-26,Female,USA,"Alpine, Utah"
+S_0626,18-21,Male,India,Hyderabad
+S_0627,18-21,Female,Indonesia,Jakarta
+S_0628,27-31,Female,Usa,Utah
+S_0629,22-26,Female,USA,"Bountiful, UT"
+S_0630,22-26,Female,U.S,Hawaii
+S_0631,50-58,Female,Mexico,Veracruz
+S_0632,22-26,Female,United States,Indiana
+S_0633,22-26,Female,USA,Utah
+S_0634,22-26,Male,Philippines,Santa Barbara
+S_0635,18-21,Male,Philippines,Pasuquin
+S_0636,18-21,Female,Philippines,Nueva Vizcaya
+S_0637,22-26,Female,United States of America,Colorado
+S_0638,18-21,Female,French Polynesia,Tahiti
+S_0639,22-26,Male,United States,Pleasant Grove
+S_0640,22-26,Male,Philippines,Baguio
+S_0641,22-26,Male,USA,Montana
+S_0642,18-21,Male,United States,Utah
+S_0643,22-26,Male,Philippines,Cebu City
+S_0644,22-26,Male,Papua New Guinea,Port Morgan
+S_0645,37-42,Female,Us,Utah
+S_0646,37-42,Female,United States of America,California
+S_0647,22-26,Female,USA,Utah
+S_0648,18-21,Male,Philippines,Santa Barbara
+S_0649,22-26,Male,India,Hyderabad
+S_0650,22-26,Female,United States,Utah
+S_0651,22-26,Male,China,China
+S_0652,22-26,Male,United States,Texas
+S_0653,43-49,Female,Philippines,Tarlac
+S_0654,22-26,Female,USA,Utah
+S_0655,22-26,Female,USA,Honolulu
+S_0656,18-21,Female,Philippines,Tarlac
+S_0657,22-26,Female,United States,Providence
+S_0658,27-31,Female,USA,Fort Worth Texas
+S_0659,22-26,Female,United States,Texas
+S_0660,22-26,Male,Usa,Nashville
+S_0661,22-26,Male,Philippines,Pangasinan
+S_0662,22-26,Female,USA,Spokane
+S_0663,22-26,Female,Usa,Spokane
+S_0664,43-49,Female,United States,Hawaii
+S_0665,22-26,Female,Papua New Guinea,Port Moresby
+S_0666,50-58,Female,Kiribati,Tarawa
+S_0667,43-49,Female,Philippines,Muntinlupa
+S_0668,27-31,Female,Philippines,Tuguegarao City
+S_0669,18-21,Male,Cambodia,Phnom Penh
+S_0670,22-26,Male,Philippines,Manila
+S_0671,18-21,Male,USA,"Cedar Hills, Utah"
+S_0672,43-49,Male,United States,"Morgantown, WV"
+S_0673,27-31,Male,United States,Texas
+S_0674,22-26,Male,USA,Montana
+S_0675,22-26,Female,Philippines,Baguio City
+S_0676,50-58,Female,New Zealand,Auckland
+S_0677,59-64,Female,United States,Utah
+S_0678,22-26,Male,Tonga,Liahona
+S_0679,59-64,Female,United States,Utah
+S_0680,27-31,Female,United States,Arizona
+S_0681,27-31,Female,United States,Utah
+S_0682,27-31,Female,Canada,British Columbia
+S_0683,37-42,Male,Philippines,Valencia City.
+S_0684,37-42,Female,Philippines,Baguio City
+S_0685,18-21,Female,United States,Utah
+S_0686,22-26,Female,US,Sacramento
+S_0687,22-26,Male,USA,Utah
+S_0688,22-26,Female,Philippines,Dagupan
+S_0689,27-31,Male,China,Guangdong
+S_0690,18-21,Female,Philippines,Bulacan
+S_0691,37-42,Male,United States,Utah
+S_0692,22-26,Female,USA,Utah
+S_0693,18-21,Female,USA,Virginia
+S_0694,22-26,Female,United States,Idaho
+S_0695,22-26,Female,USA,oceanside
+S_0696,18-21,Female,United States,Sacramento
+S_0697,22-26,Male,Sri Lanka,Negombo
+S_0698,22-26,Male,Philippines,Isabela
+S_0699,22-26,Male,United States,Provo Utah
+S_0700,22-26,Male,Philippines,Butuan
+S_0701,32-36,Female,Indonesia,Jakarta
+S_0702,66-70,Male,Philippines,Quezon
+S_0703,43-49,Female,Mongolia,Ulaanbaatar
+S_0704,59-64,Female,Samoa,Apia Samoa
+S_0705,27-31,Male,Philippines,Davao City
+S_0706,27-31,Female,Australia,Melbourne
+S_0707,43-49,Female,United States,"Lehi, UT"
+S_0708,18-21,Male,Tonga,Fo'ui
+S_0709,22-26,Female,USA,Sandy
+S_0710,27-31,Male,USA,"Roseville, CA"
+S_0711,22-26,Female,Kiribati,Tarawa
+S_0712,59-64,Male,USA,Hawaii
+S_0713,22-26,Female,mexico,monterrey
+S_0714,18-21,Male,USA,Washington
+S_0715,22-26,Male,Philippines,Baguio
+S_0716,18-21,Female,Tonga,Nuku'alofa
+S_0717,22-26,Female,Tonga,Fo'ui
+S_0718,22-26,Male,Philippines,SURIGAO CITY
+S_0719,22-26,Female,Mongolia,Ulaanbaatar
+S_0720,50-58,Female,Taiwan,New Taipei City
+S_0721,18-21,Female,Papua New Guinea,Madang
+S_0722,18-21,Female,Fiji,Suva
+S_0723,22-26,Male,Usa,Hawaii
+S_0724,22-26,Female,United States of America,Georgia
+S_0725,32-36,Female,United States,Montana
+S_0726,18-21,Male,United States,Salt Lake City
+S_0727,22-26,Female,Philippines,Malaybalay
+S_0728,27-31,Male,Mongolia,Ulaanbaatr
+S_0729,18-21,Female,Malaysia,Sarawak
+S_0730,22-26,Female,United States,Phoenix Arizona
+S_0731,22-26,Female,Samoa,Apia
+S_0732,22-26,Male,United States,"Ridgefield, WA"
+S_0733,22-26,Female,United States,Utah
+S_0734,22-26,Female,Samoa,Apia
+S_0735,43-49,Male,United States of America,"Salt Lake City, Utah"
+S_0736,22-26,Female,Scotland,Aberdeen
+S_0737,18-21,Male,US,HI
+S_0738,22-26,Male,Kiribati,Tarawa
+S_0739,22-26,Female,Philippines,Hawaii
+S_0740,18-21,Female,United states,North Carolina
+S_0741,22-26,Male,USA,Washington
+S_0742,22-26,Female,United States,Utah
+S_0743,27-31,Female,Mongolia,Ulaanbaatar
+S_0744,22-26,Female,United States,Utah
+S_0745,22-26,Female,United States,Utah
+S_0746,18-21,Female,United States,San diego
+S_0747,18-21,Female,United States of America,Utah
+S_0748,22-26,Female,USA,LOGAN
+S_0749,22-26,Male,United States,Arizona
+S_0750,22-26,Male,Utah,Orem
+S_0751,22-26,Female,United States,Colorado
+S_0752,50-58,Female,Philippines,Cabatuan
+S_0753,22-26,Male,Mongolia,Ulaanbaatar
+S_0754,27-31,Female,USA,California
+S_0755,22-26,Male,Kiribati,Tarawa
+S_0756,22-26,Female,United states,Hawaii
+S_0757,50-58,Male,Philippines,Cebu City
+S_0758,66-70,Female,United States,Virginia
+S_0759,27-31,Female,america,michigan
+S_0760,18-21,Female,USA,Az
+S_0761,18-21,Male,United States,Montana
+S_0762,22-26,Female,United States,Hawaii
+S_0763,22-26,Female,Kiribati,Tarawa
+S_0764,27-31,Male,Philippines,Valencia City.
+S_0765,27-31,Male,Japan,TOKYO
+S_0766,22-26,Female,United States,Missouri
+S_0767,18-21,Male,Philippines,Cavite
+S_0768,18-21,Male,Tonga,Vava’u
+S_0769,18-21,Female,U.S.,Utah
+S_0770,18-21,Female,Kiribati,Tarawa
+S_0771,22-26,Male,Philippines,Camarines Sur
+S_0772,22-26,Female,USA,Sandy
+S_0773,22-26,Female,United States,Valencia
+S_0774,22-26,Female,United States,Utah
+S_0775,22-26,Female,Mongolia,Ulaanbaatar
+S_0776,22-26,Male,USA,California
+S_0777,22-26,Female,Indonesia,Bogor
+S_0778,22-26,Male,Samoa,Apia
+S_0779,22-26,Male,Tonga,Tonga
+S_0780,50-58,Male,Japan,Fukuoka
+S_0781,22-26,Female,United States,Hawaii
+S_0782,22-26,Male,Kiribati,Tarawa
+S_0783,50-58,Female,USA,Fort Worth Texas
+S_0784,22-26,Female,USA,Logan
+S_0785,22-26,Female,United States,Utah
+S_0786,22-26,Female,Kingdom of Tonga,Haapai
+S_0787,18-21,Male,Indonesia,Jakarta
+S_0788,22-26,Female,United States,Oregon
+S_0789,18-21,Female,US,HI
+S_0790,22-26,Female,Indonesia,Surakarta
+S_0791,22-26,Male,USA,Washington
+S_0792,22-26,Male,Philippines,Gensan City
+S_0793,27-31,Female,Philippines,Negros Occidental
+S_0794,18-21,Male,United States,"Glendale, California"
+S_0795,18-21,Female,Philippines,Cavite city
+S_0796,22-26,Female,Usa,Bountiful Utah
+S_0797,18-21,Female,Usa,Arizona
+S_0798,22-26,Female,Fiji,Nadi
+S_0799,22-26,Female,New Zealand,Hastings
+S_0800,18-21,Female,Philippines,Santa Barbara
+S_0801,22-26,Male,usa,allentown
+S_0802,22-26,Male,Philippines,Cabatuan
+S_0803,22-26,Female,United States,Provo
+S_0804,22-26,Male,United States,Montana
+S_0805,22-26,Male,US,Utah
+S_0806,22-26,Male,United States,Utah
+S_0807,18-21,Female,Kiribati,Tarawa
+S_0808,18-21,Female,United States,Texas
+S_0809,22-26,Female,America,Oregon
+S_0810,37-42,Male,United States,Oregon
+S_0811,22-26,Male,United States,Utah
+S_0812,22-26,Male,Philippines,Santiago City
+S_0813,22-26,Male,United states,Laie
+S_0814,22-26,Male,Japan,"Kagawa prefecture, Kanonji city"
+S_0815,66-70,Female,Australia,Queensland
+S_0816,43-49,Female,Kiribati,Tarawa
+S_0817,22-26,Female,Philippines,Taguig
+S_0818,22-26,Male,Philippines,Utah
+S_0819,22-26,Female,USA,Virginia
+S_0820,22-26,Female,Philippines,Alicia
+S_0821,22-26,Female,USA,"Hauula, Hawaii"
+S_0822,22-26,Male,United States,Utah
+S_0823,27-31,Female,United States,Utah
+S_0824,27-31,Male,usa,boise
+S_0825,22-26,Female,Fiji,Nadi
+S_0826,22-26,Female,United States,Texas
+S_0827,18-21,Female,Canada,BC
+S_0828,18-21,Male,Tonga,Vava’u
+S_0829,18-21,Male,USA,North Carolina
+S_0830,37-42,Female,Taiwan,Taichung City
+S_0831,22-26,Male,Philippines,Cavite city
+S_0832,22-26,Female,United States,Utah
+S_0833,18-21,Female,India,Delhi
+S_0834,22-26,Female,Usa,Hawaii
+S_0835,22-26,Female,Sri Lanka,Negombo
+S_0836,27-31,Female,Canada,Langley
+S_0837,18-21,Female,Samoa,Apia
+S_0838,27-31,Female,USA,ARIZONA
+S_0839,18-21,Female,US,HI
+S_0840,18-21,Male,USA,Oklahoma
+S_0841,22-26,Male,Kiribati,South-Tarawa
+S_0842,22-26,Female,United States,Utah
+S_0843,32-36,Female,Philippines,Legazpi
+S_0844,22-26,Female,Mongolia,Ulaanbaatar
+S_0845,22-26,Female,United States,Pleasant Grove
+S_0846,22-26,Female,Fiji,Lautoka
+S_0847,22-26,Male,Mexico,Veracruz
+S_0848,37-42,Male,United States,North Las Vegas
+S_0849,22-26,Female,Unknown,India
+S_0850,22-26,Female,Fiji,Hawaii
+S_0851,22-26,Female,El Salvador,"Phoenix, Arizona"
+S_0852,22-26,Female,Philippines,General Santos City
+S_0853,43-49,Female,Philippines,Valenzuela
+S_0854,27-31,Male,USA,Washington
+S_0855,22-26,Female,Kiribati,Tarawa
+S_0856,22-26,Female,Philippines,Santiago City
+S_0857,50-58,Female,Philippines,General Santos City
+S_0858,22-26,Male,USA,Virginia
+S_0859,22-26,Male,United States,Texas
+S_0860,22-26,Male,US,Spokane Washington
+S_0861,27-31,Female,Philippines,Bacolod City
+S_0862,22-26,Female,South Korea,Ulsan
+S_0863,50-58,Female,Kiribati,Tarawa
+S_0864,22-26,Female,Philippines,Tuguegarao
+S_0865,22-26,Male,Vietnam,Saigon
+S_0866,43-49,Female,Australia,Melbourne
+S_0867,22-26,Male,Indonesia,Bogor
+S_0868,18-21,Female,Fiji,Lautoka
+S_0869,27-31,Male,Papua New Guinea,Port Moresby
+S_0870,22-26,Male,Tahiti,French Polynesia
+S_0871,22-26,Female,United States,Utah
+S_0872,22-26,Female,Malaysia,Perak state
+S_0873,22-26,Male,United states,Laie
+S_0874,27-31,Male,Tonga,Liahona
+S_0875,22-26,Male,Indonesia,Jakarta
+S_0876,18-21,Male,Philippines,Butuan
+S_0877,27-31,Male,United States,Utah
+S_0878,22-26,Female,USA,"Atlanta, Ga"
+S_0879,22-26,Male,Canada,Pincher Creek
+S_0880,18-21,Female,mongolia,ulaanbatar
+S_0881,22-26,Female,United states,Draper Utah
+S_0882,18-21,Female,Papua New Guinea,Papua New Guinea
+S_0883,18-21,Female,United States,Utah
+S_0884,22-26,Female,Taiwan,New Taipei City
+S_0885,22-26,Male,Australia,Queensland
+S_0886,22-26,Female,Philippines,Alicia
+S_0887,27-31,Female,Mongolia,Ulaanbaatar
+S_0888,27-31,Female,Indonesia,Bogor
+S_0889,22-26,Male,Papua New Guinea,Port Moresby
+S_0890,22-26,Male,Philippines,Bohol
+S_0891,22-26,Male,Philippines,Taguig
+S_0892,22-26,Female,USA,Utah
+S_0893,59-64,Male,United States,Houston
+S_0894,22-26,Male,Utah,Highland
+S_0895,27-31,Female,Indonesia,Bogor
+S_0896,50-58,Female,India,New Delhi
+S_0897,43-49,Female,Kiribati,Tarawa
+S_0898,27-31,Male,China,Chengdu
+S_0899,18-21,Male,New Zealand,Gold COast
+S_0900,66-70,Female,Philippines,Quezon City
+S_0901,37-42,Male,America,Colorado
+S_0902,18-21,Female,Indonesia,Jakarta
+S_0903,27-31,Male,USA,Hawaii
+S_0904,18-21,Male,Kiribati,Tarawa
+S_0905,22-26,Female,USA,Hawaii
+S_0906,22-26,Male,U.S,California
+S_0907,22-26,Female,Mexico,Monterrey
+S_0908,22-26,Male,Philippines,Iligan
+S_0909,18-21,Female,México,Veracruz
+S_0910,22-26,Female,United States,Boise Idaho
+S_0911,37-42,Female,United States,Utah
+S_0912,22-26,Male,Philippines,Davao City
+S_0913,18-21,Male,Taiwan,Changhua
+S_0914,22-26,Female,Hong Kong,Hong Kong
+S_0915,27-31,Female,Tahiti,Maraea
+S_0916,22-26,Female,Philippines,General Santos City
+S_0917,22-26,Male,Indonesia,Surakarta
+S_0918,22-26,Female,United States,Utah
+S_0919,18-21,Male,Mexico,Veracruz
+S_0920,27-31,Male,America,Colorado
+S_0921,27-31,Male,mongolia,ub
+S_0922,18-21,Female,Canada,HI
+S_0923,27-31,Male,Philippines,Naga city
+S_0924,18-21,Male,United States,California
+S_0925,22-26,Male,Philippines,Baguio City
+S_0926,22-26,Male,Japan,Gifu (Prefecture)
+S_0927,22-26,Male,USA,oceanside
+S_0928,22-26,Female,USA,California/Hawaii
+S_0929,22-26,Male,America,California
+S_0930,32-36,Female,Sāmoa,Hawaii
+S_0931,22-26,Male,America,Utah
+S_0932,18-21,Female,Japan,Kanagawa
+S_0933,22-26,Male,United States,"Eagle, Idaho"
+S_0934,22-26,Male,Philippines,Malaybalay
+S_0935,18-21,Female,Philippines,Cagayan
+S_0936,18-21,Male,United States,Salt Lake City
+S_0937,22-26,Female,Philippines,Pasig City
+S_0938,22-26,Female,Philippines,Laguna
+S_0939,43-49,Female,Japan,Kobe
+S_0940,43-49,Female,Philippines,Gumaca
+S_0941,18-21,Female,USA,Texas
+S_0942,27-31,Female,Samoa,Apia
+S_0943,22-26,Female,Us,Hawaii
+S_0944,18-21,Male,USA,"Anchorage, AK"
+S_0945,27-31,Female,USA,Utah
+S_0946,22-26,Male,USA,"Atlanta, Ga"
+S_0947,50-58,Female,Fiji,Menlo Park
+S_0948,27-31,Male,USA,"Edison, New Jersey"
+S_0949,22-26,Male,Samoa,Aleisa
+S_0950,32-36,Female,USA,Hawaii
+S_0951,22-26,Female,Philippines,Pangasinan
+S_0952,27-31,Female,Papua New Guinea,Papua New Guinea
+S_0953,43-49,Female,Philippines,Tarlac
+S_0954,22-26,Male,USA,Utah
+S_0955,22-26,Male,Philippines,Gumaca
+S_0956,50-58,Male,South Korea,Gwangju
+S_0957,18-21,Female,Kiribati,Tarawa
+S_0958,27-31,Male,Philippines,Pasuquin
+S_0959,18-21,Female,Philippines,Allen
+S_0960,22-26,Female,Philippines,Legazpi
+S_0961,22-26,Female,Fiji,Suva
+S_0962,22-26,Female,United States,Utah
+S_0963,18-21,Female,Japan,Japan
+S_0964,27-31,Female,Philippines,Naga
+S_0965,22-26,Male,United States,Laie Hawaii
+S_0966,22-26,Male,USA,California
+S_0967,18-21,Male,Philippines,Pasig City
+S_0968,22-26,Female,Philippines,Leyte
+S_0969,22-26,Female,Usa,Hawaii
+S_0970,22-26,Female,United States,Phoenix Arizona
+S_0971,43-49,Male,USA,Hawaii
+S_0972,22-26,Female,Samoa,Aleisa
+S_0973,22-26,Female,usa,boise
+S_0974,18-21,Female,Tonga,Nuku’alofa
+S_0975,50-58,Male,Taiwan,New Taipei City
+S_0976,18-21,Female,United States,"Eagle, Idaho"
+S_0977,22-26,Male,United States,"Lehi, UT"
+S_0978,18-21,Female,Japan,Tokyo
+S_0979,22-26,Female,United states,Minnesota
+S_0980,27-31,Female,USA,San Francisco
+S_0981,22-26,Female,USA,Florida
+S_0982,18-21,Female,United States,"Glendale, California"
+S_0983,22-26,Male,Thailand,Chiang Mai
+S_0984,22-26,Female,Philippines,Davao
+S_0985,18-21,Male,United States,Utah
+S_0986,22-26,Male,United States,Utah
+S_0987,27-31,Male,United States,Texas
+S_0988,22-26,Female,United States,Arizona
+S_0989,22-26,Female,philippines,manila
+S_0990,22-26,Female,USA,Oregon
+S_0991,22-26,Female,Japan,"Kagawa prefecture, Kanonji city"
+S_0992,22-26,Female,Philippines,Davao City
+S_0993,18-21,Female,Thailand,Chiang Mai
+S_0994,18-21,Male,United States,Utah
+S_0995,22-26,Male,Malaysia,Kuala Lumpur
+S_0996,22-26,Female,Philippines,Isabela
+S_0997,22-26,Female,Papua New Guinea,Hawaii
+S_0998,27-31,Female,Philippines,Hawaii
+S_0999,22-26,Male,United States,Oregon
+S_1000,18-21,Male,USA,Palo alto
+S_1001,18-21,Female,China,Guangdong
+S_1002,50-58,Female,USA,Oregon
+S_1003,18-21,Male,Papua New Guinea,Port Morgan
+S_1004,27-31,Female,United states,Laie
+S_1005,27-31,Female,United States,"Billings, Montana"
+S_1006,22-26,Female,USA,Guam
+S_1007,50-58,Female,Malaysia,Penang
+S_1008,18-21,Male,United States,"Lehi, UT"
+S_1009,27-31,Female,America,Idaho
+S_1010,32-36,Male,United States,Utah
+S_1011,22-26,Female,Philippines,Davao City
+S_1012,18-21,Male,New Zealand,Northland
+S_1013,22-26,Male,Usa,Hawaii
+S_1014,22-26,Female,United States,Utah
+S_1015,22-26,Female,Indonesia,Jakarta
+S_1016,43-49,Male,New Zealand,Bay Of islands
+S_1017,22-26,Male,Argentina,San Martín de los Andes
+S_1018,50-58,Male,Fiji,Menlo Park
+S_1019,18-21,Male,Australia,Queensland
+S_1020,32-36,Male,United States of America,Utah
+S_1021,22-26,Female,PHILIPPINES,MANILA
+S_1022,22-26,Male,USA,Washington
+S_1023,18-21,Male,Philippines,Isabela
+S_1024,18-21,Female,China,Chengdu
+S_1025,27-31,Female,Aotearoa,Hastings
+S_1026,22-26,Male,Malaysia,Sarawak
+S_1027,22-26,Female,Tahiti,French Polynesia
+S_1028,18-21,Male,Philippines,Baguio
+S_1029,27-31,Female,South Korea,Ulsan
+S_1030,32-36,Female,United States,Utah
+S_1031,18-21,Female,Philippines,Butuan
+S_1032,22-26,Male,"French Polynesia, Tahiti",Pirae
+S_1033,22-26,Male,United States,"Eden, UT"
+S_1034,22-26,Male,Philippines,Lubao
+S_1035,32-36,Female,New Zealand,Auckland
+S_1036,22-26,Male,United States,Utah
+S_1037,22-26,Female,Philippines,Tuguegarao
+S_1038,18-21,Male,United States,Utah
+S_1039,22-26,Female,United States,"Boise, Idaho"
+S_1040,18-21,Female,Kiribati,Tarawa
+S_1041,22-26,Female,Fiji,Suva
+S_1042,22-26,Female,Philippines,Malaybalay
+S_1043,27-31,Male,Japan,Saitama
+S_1044,59-64,Male,Philippines,Davao City
+S_1045,18-21,Female,Philippines,"Jaen, Nueva Ecija"
+S_1046,22-26,Female,Thailand,Nonthaburi
+S_1047,22-26,Male,South Korea,Gwangju
+S_1048,27-31,Female,India,Delhi
+S_1049,22-26,Female,Philippines,Digos City
+S_1050,22-26,Male,Mexico,Mexico city
+S_1051,43-49,Female,China,Chengdu
+S_1052,27-31,Male,Malaysia,Kuala Lumpur
+S_1053,18-21,Female,United States,Boise Idaho
+S_1054,32-36,Female,Philippines,Isabela
+S_1055,22-26,Female,sri lanka,colombo
+S_1056,27-31,Female,Mongolia,Ulaanbaatar
+S_1057,18-21,Female,El Salvador,"Phoenix, Arizona"
+S_1058,22-26,Female,United States of America,Utah
+S_1059,22-26,Male,Canada,Lethbridge
+S_1060,22-26,Male,Japan,Kanagawa
+S_1061,22-26,Female,China,Shanghai
+S_1062,22-26,Female,Philippines,Cabanatuan
+S_1063,22-26,Male,Philippines,Taguig
+S_1064,27-31,Female,United States,"Laie, HI"
+S_1065,22-26,Male,USA,CA
+S_1066,22-26,Female,Philippines,Laguna
+S_1067,22-26,Male,United States,Texas
+S_1068,27-31,Female,India,Hyderabad
+S_1069,22-26,Male,China,JiangXi
+S_1070,22-26,Female,United States,Florida
+S_1071,22-26,Male,United States,"Kamas, Utah."
+S_1072,43-49,Male,USA,"Las Vegas, NV"
+S_1073,32-36,Male,New Zealand,Tūrangi
+S_1074,22-26,Female,Philippines,Bulacan
+S_1075,27-31,Male,United States,Hawaii
+S_1076,18-21,Female,United States,Arizona
+S_1077,22-26,Male,United State,Utah
+S_1078,18-21,Female,Philippines,Laguna
+S_1079,22-26,Female,United States,Hawaii
+S_1080,43-49,Male,Philippines,Naga
+S_1081,22-26,Male,Malaysia,Perak state
+S_1082,22-26,Male,Philippines,Malasiqui
+S_1083,32-36,Female,New Zealand,Gold COast
+S_1084,22-26,Male,united states of america,Texas
+S_1085,18-21,Male,United States,Hawaii
+S_1086,18-21,Male,Usa,Washington
+S_1087,22-26,Female,USA,Utah
+S_1088,50-58,Female,United States,Newport
+S_1089,22-26,Male,Philippines,Santa Barbara
+S_1090,22-26,Male,China,Guangdong
+S_1091,43-49,Female,US,Oregon
+S_1092,18-21,Female,Philipphines,Manila
+S_1093,18-21,Female,Sāmoa,Hawaii
+S_1094,18-21,Female,United States,Utah
+S_1095,37-42,Male,USA,Utah
+S_1096,18-21,Male,Usa,"Burley, Idaho"
+S_1097,43-49,Male,USA,Montana
+S_1098,27-31,Male,Japan,Kobe
+S_1099,18-21,Female,Fiji,Laie
+S_1100,22-26,Female,PHILIPPINES,MANILA
+S_1101,18-21,Female,USA,Utah
+S_1102,18-21,Female,Mongolia,Ulaanbaatar
+S_1103,18-21,Female,USA,"Alpine, Utah"
+S_1104,22-26,Male,America,Colorado
+S_1105,22-26,Female,United States,Texas
+S_1106,22-26,Male,USA,California
+S_1107,22-26,Female,USA,Washington
+S_1108,27-31,Female,Philippines,Lubao
+S_1109,18-21,Female,United States,Colorado
+S_1110,22-26,Female,United States,Valencia
+S_1111,27-31,Female,USA,Florida
+S_1112,18-21,Female,PNG,Port Moresby
+S_1113,22-26,Female,Kiribati,Tarawa
+S_1114,22-26,Female,Australia,Gold Coast
+S_1115,27-31,Female,Kiribati,Tarawa
+S_1116,22-26,Female,Unite States,"Springville, UT"
+S_1117,27-31,Female,U.S,Hawaii
+S_1118,18-21,Female,USA,Oklahoma
+S_1119,27-31,Female,Fiji,Suva
+S_1120,43-49,Female,United States,"Magna, utah"
+S_1121,18-21,Female,México,Veracruz
+S_1122,22-26,Female,Japan,Fukuoka
+S_1123,22-26,Female,México,Veracruz
+S_1124,22-26,Female,Philippines,SURIGAO CITY
+S_1125,18-21,Male,United states,Minnesota
+S_1126,27-31,Female,United States,Connecticut
+S_1127,22-26,Female,United States,Utah
+S_1128,22-26,Female,Philippines,Iligan
+S_1129,22-26,Male,Philippines,Valenzuela
+S_1130,22-26,Male,Fiji,Hawaii
+S_1131,22-26,Female,Philippines,Taguig
+S_1132,18-21,Female,philippines,quezon city
+S_1133,22-26,Male,United States,Utah
+S_1134,22-26,Female,United States,Valencia
+S_1135,43-49,Male,US,Sacramento
+S_1136,18-21,Female,mongolia,ulaanbatar
+S_1137,50-58,Male,Kiribati,Tarawa
+S_1138,22-26,Male,Fiji,Suva
+S_1139,27-31,Female,Kiribati,Tarawa
+S_1140,27-31,Female,PNG,Port Moresby
+S_1141,22-26,Male,Mexico,Monterrey
+S_1142,18-21,Female,USA,ARIZONA
+S_1143,18-21,Female,Philippines,Davao City
+S_1144,27-31,Male,Tahiti,Maraea
+S_1145,22-26,Female,Canada,HI
+S_1146,27-31,Female,United States,New Mexico
+S_1147,22-26,Female,India,Hyderabad
+S_1148,59-64,Male,United States,Loganville
+S_1149,22-26,Male,China,Guangdong
+S_1150,22-26,Female,United States,Bountiful
+S_1151,37-42,Female,New Zealand,Haruru
+S_1152,22-26,Male,Sri Lanka,Negombo
+S_1153,18-21,Male,USA,Hawaii
+S_1154,32-36,Male,China,Harbin
+S_1155,22-26,Female,USA,LOGAN
+S_1156,18-21,Female,Philippines,Southern Leyte
+S_1157,50-58,Male,United States,California
+S_1158,50-58,Female,Us,Utah
+S_1159,22-26,Male,United States,Idaho
+S_1160,22-26,Female,USA,"Las Vegas, NV"
+S_1161,22-26,Female,United States,Utah
+S_1162,50-58,Female,USA,Virginia
+S_1163,18-21,Female,USA,"Lewiston, Idaho"
+S_1164,22-26,Male,United States,Utah
+S_1165,18-21,Female,usa,Utah
+S_1166,27-31,Male,United States,Texas
+S_1167,22-26,Male,United States,"Ridgefield, WA"
+S_1168,22-26,Female,United States of America,Colorado
+S_1169,50-58,Female,USA,California/Hawaii
+S_1170,18-21,Male,United States of America,Colorado
+S_1171,18-21,Female,USA,Oregon
+S_1172,43-49,Male,USA,Washington
+S_1173,22-26,Male,USA,"Edison, New Jersey"
+S_1174,22-26,Female,Kiribati,Tarawa
+S_1175,22-26,Female,USA,Utah
+S_1176,22-26,Female,America,California
+S_1177,22-26,Male,Kiribati,Tarawa
+S_1178,18-21,Female,Mongolia,Ulaanbaatar
+S_1179,18-21,Female,America,California
+S_1180,22-26,Male,USA,Utah
+S_1181,59-64,Female,Philippines,Gensan City
+S_1182,22-26,Female,Fiji,Lautoka
+S_1183,18-21,Female,USA,Arizona
+S_1184,18-21,Male,Japan,Tokyo
+S_1185,32-36,Female,United States,Arizona
+S_1186,22-26,Female,Philippines,Pangasinan
+S_1187,22-26,Female,Kiribati,Tarawa
+S_1188,50-58,Male,Indonesia,Cikarang
+S_1189,22-26,Male,Samoa,Aleisa
+S_1190,43-49,Female,Kiribati,Tarawa
+S_1191,22-26,Male,Tarawa,Kiribati
+S_1192,32-36,Female,Fiji,Suva
+S_1193,27-31,Female,United States,Hawaii
+S_1194,22-26,Male,Malaysia,Kuala Lumpur
+S_1195,22-26,Male,United States,Utah
+S_1196,22-26,Female,China,JiangXi
+S_1197,27-31,Female,Tonga,Nuku'alofa
+S_1198,22-26,Female,Kiribati,Tarawa
+S_1199,22-26,Female,United States,New Mexico
+S_1200,50-58,Female,New Zealand,Hastings
+S_1201,22-26,Male,China,Harbin
+S_1202,22-26,Male,China,Tianjin
+S_1203,22-26,Female,Philippines,Gensan City
+S_1204,59-64,Female,United States,Arizona
+S_1205,22-26,Female,Philipphines,Manila
+S_1206,22-26,Male,Monterrey,Mexico
+S_1207,22-26,Male,South Korea,Gwangju
+S_1208,22-26,Male,Japan,Tokyo
+S_1209,27-31,Male,United States of America,Minnesota
+S_1210,43-49,Male,USA,Oregon
+S_1211,22-26,Female,Thailand,Nonthaburi
+S_1212,22-26,Male,US,AZ
+S_1213,22-26,Female,United States,Nevada
+S_1214,18-21,Male,Philippines,Pangasinan
+S_1215,18-21,Male,Philippines,Taguig
+S_1216,22-26,Male,Usa,Washington
+S_1217,18-21,Female,China,Guangdong
+S_1218,22-26,Female,New Zealand,Hamilton
+S_1219,18-21,Female,Fiji,Suva
+S_1220,27-31,Male,USA,Utah
+S_1221,27-31,Female,United States,"Salt lake city, Utah"
+S_1222,22-26,Male,"Tahiti, French Polynesia","Punaauia, Taravao, and Papeete"
+S_1223,22-26,Male,Canada,Alberta
+S_1224,22-26,Female,United States,Utah
+S_1225,43-49,Male,Scotland,Aberdeen
+S_1226,18-21,Male,Japan,Saitama
+S_1227,18-21,Female,Japan,Okinawa
+S_1228,18-21,Male,Tonga,Fo'ui
+S_1229,22-26,Female,USA,Fort Worth Texas
+S_1230,22-26,Female,mexico,monterrey
+S_1231,27-31,Female,Argentina,San Martín de los Andes
+S_1232,27-31,Male,Philippines,Utah
+S_1233,18-21,Female,United States,Utah
+S_1234,27-31,Female,Philippines,Quezon City
+S_1235,22-26,Male,Philippines,Pasig City
+S_1236,22-26,Male,United States,Utah
+S_1237,22-26,Female,United States,UT
+S_1238,18-21,Female,United States,"Salt lake city, Utah"
+S_1239,43-49,Female,Philippines,"Naga City, Camarines Sur"
+S_1240,22-26,Female,United States,Utah
+S_1241,18-21,Male,Samoa,Apia
+S_1242,27-31,Female,Philippines,Tuguegarao
+S_1243,43-49,Male,United States,Arizona
+S_1244,22-26,Male,United States,"Glendale, California"
+S_1245,22-26,Female,Korea,Seoul
+S_1246,22-26,Male,United States,Utah
+S_1247,18-21,Female,Philippines,Hawaii
+S_1248,22-26,Female,United States,Utah
+S_1249,18-21,Female,Usa,Phoenix AZ
+S_1250,22-26,Female,Indonesia,Cikarang
+S_1251,22-26,Male,Philippines,Pangasinan
+S_1252,22-26,Female,USA,Utah
+S_1253,22-26,Female,America,Las Vegas
+S_1254,18-21,Female,Weisheng,Kuala Lumpur
+S_1255,27-31,Female,United States,"Boise, Idaho"
+S_1256,27-31,Male,USA,Utah
+S_1257,18-21,Female,PHILIPPINES,Bulacan
+S_1258,22-26,Male,United States,Utah
+S_1259,22-26,Male,United States,Utah
+S_1260,22-26,Male,Tonga,Nuku'alofa
+S_1261,27-31,Male,Kiribati,Tarawa
+S_1262,22-26,Female,United States of America,California
+S_1263,18-21,Female,USA,"Bluffdale, Utah"
+S_1264,27-31,Male,New Zealand,Hamilton
+S_1265,27-31,Female,United States,Utah
+S_1266,50-58,Male,Fiji,Suva
+S_1267,27-31,Male,United States,Utah
+S_1268,59-64,Female,United States,San Diego
+S_1269,22-26,Female,China,Hebei
+S_1270,27-31,Male,Philippines,Manila
+S_1271,27-31,Female,mongolia,ulaanbaatar
+S_1272,22-26,Male,Taiwan,Taipei
+S_1273,18-21,Female,USA,Hawaii
+S_1274,22-26,Female,united states,airway heights
+S_1275,22-26,Female,USA,Hawaii
+S_1276,27-31,Female,United States,Utah
+S_1277,22-26,Female,Mongolia,Ulaanbaatar
+S_1278,18-21,Male,"Tahiti, French Polynesia","Punaauia, Taravao, and Papeete"
+S_1279,43-49,Female,Philippines,Caloocan city
+S_1280,22-26,Male,Philippines,Cebu
+S_1281,22-26,Female,United States,Utah
+S_1282,22-26,Male,Tonga,Nuku’alofa
+S_1283,22-26,Female,Kingdom of Hawai’i,Makawao
+S_1284,22-26,Female,Indonesia,Central Java
+S_1285,22-26,Female,United States,Utah
+S_1286,27-31,Female,Scotland,Aberdeen
+S_1287,27-31,Female,Philippines,Digos City
+S_1288,18-21,Female,United States,"Kamas, Utah."
+S_1289,22-26,Female,United States,Utah
+S_1290,22-26,Female,USA,Herriman
+S_1291,18-21,Female,Malaysia,bintulu
+S_1292,22-26,Male,Papua New Guinea,Hawaii
+S_1293,18-21,Female,United States,Providence
+S_1294,37-42,Male,USA,NorCal
+S_1295,22-26,Female,Pakistan,Punjab
+S_1296,22-26,Male,PHILIPPINES,Bulacan
+S_1297,27-31,Male,United States,Washington
+S_1298,22-26,Female,USA,Utah
+S_1299,22-26,Male,USA,"Cedar Hills, Utah"
+S_1300,18-21,Female,Philippines,Lucena
+S_1301,27-31,Male,Philippines,Tacloban
+S_1302,59-64,Female,Canada,Lethbridge
+S_1303,18-21,Female,Japan,Okinawa
+S_1304,22-26,Female,Philippines,Quezon City
+S_1305,50-58,Male,India,Chennai
+S_1306,22-26,Male,United States of America,Utah
+S_1307,18-21,Female,Tonga,Vava’u
+S_1308,27-31,Male,Kiribati,Betio
+S_1309,27-31,Female,Papua New Guinea,Port Moresby
+S_1310,22-26,Female,Tonga,Tonga
+S_1311,22-26,Female,Philippines,Bohol
+S_1312,27-31,Male,United States,Texas
+S_1313,22-26,Female,Fiji,Suva
+S_1314,18-21,Female,Samoa,Aleisa
+S_1315,22-26,Female,Philippines,Cebu City
+S_1316,37-42,Female,USA,"Sandy, Utah"
+S_1317,22-26,Female,Fiji,Suva
+S_1318,22-26,Male,Mexico,Veracruz
+S_1319,18-21,Female,United States,Missouri
+S_1320,22-26,Male,USA,San Francisco
+S_1321,27-31,Male,United States,Maryland
+S_1322,59-64,Female,Philippines,Bacolod
+S_1323,18-21,Male,United States,Colorado
+S_1324,27-31,Male,Taiwan,New Taipei City
+S_1325,18-21,Male,Philippines,Pasig City
+S_1326,22-26,Male,Kiribati,Tarawa
+S_1327,22-26,Female,USA,Pennsylvania
+S_1328,27-31,Male,Japan,Okinawa
+S_1329,22-26,Male,Japan,Tokyo
+S_1330,22-26,Female,USA,Utah
+S_1331,18-21,Female,Hawaii,Oahu
+S_1332,32-36,Male,Papua New Guinea,Port Moresby
+S_1333,18-21,Female,Samoa,Unknown
+S_1334,22-26,Male,Philippines,Tuguegarao
+S_1335,22-26,Female,United States,Newport
+S_1336,50-58,Female,United States,"Mesa, AZ"
+S_1337,18-21,Female,India,New Delhi
+S_1338,22-26,Male,Philippines,Valenzuela
+S_1339,22-26,Female,United States of America,Sacramento California
+S_1340,22-26,Female,Philippines,Camarines Norte
+S_1341,22-26,Male,United States,UT
+S_1342,27-31,Female,United States,Utah
+S_1343,22-26,Male,Philippines,Dagupan
+S_1344,22-26,Male,US,Sacramento
+S_1345,50-58,Female,Canada,Calgary
+S_1346,37-42,Male,USA,"Provo, Utah"
+S_1347,22-26,Female,United States,Utah
+S_1348,22-26,Female,Philippines,Pangasinan
+S_1349,22-26,Female,United States,Colorado
+S_1350,18-21,Male,Philippines,Davao City
+S_1351,59-64,Male,USA,Utah
+S_1352,18-21,Female,USA,"Roseville, CA"
+S_1353,22-26,Male,USA,NorCal
+S_1354,18-21,Female,Philippines,Cavite
+S_1355,27-31,Male,India New Delhi,New Delhi
+S_1356,27-31,Male,US,Oregon
+S_1357,22-26,Male,Mongolia,Ulaanbaatar
+S_1358,27-31,Female,Korea,Suwon
+S_1359,22-26,Female,United States,Utah
+S_1360,27-31,Female,Canada,Lethbridge
+S_1361,50-58,Female,United States,Florida
+S_1362,50-58,Male,USA,las vegas
+S_1363,22-26,Male,Philippines,Pangasinan
+S_1364,22-26,Female,Usa,Arizona
+S_1365,22-26,Female,United States,Loganville
+S_1366,22-26,Female,Japan,Miyagi
+S_1367,22-26,Female,U.S,California
+S_1368,18-21,Female,Philippines,Pangasinan
+S_1369,43-49,Female,México,Veracruz
+S_1370,27-31,Female,Fiji,Suva
+S_1371,22-26,Female,Philippines,Camarines Norte
+S_1372,22-26,Male,United States,Hawaii
+S_1373,18-21,Male,Philippines,Dagupan City
+S_1374,32-36,Male,USA,Utah
+S_1375,18-21,Male,Indonesia,Malang
+S_1376,37-42,Female,Philippines,Pasuquin
+S_1377,22-26,Male,USA,Newport
+S_1378,22-26,Male,USA,Utah
+S_1379,43-49,Female,Papua New Guinea,Lae City
+S_1380,22-26,Male,United States,"Mesa, AZ"
+S_1381,22-26,Male,Philippines,Tanauan
+S_1382,22-26,Female,Korea,Seoul
+S_1383,22-26,Female,USA,Utah
+S_1384,18-21,Female,PNG,Port Moresby
+S_1385,50-58,Female,Tarawa,Kiribati
+S_1386,18-21,Female,philippines,tuguegarao
+S_1387,18-21,Female,United States,Idaho
+S_1388,18-21,Male,China,Yunnan
+S_1389,27-31,Female,Philippines,Cavite
+S_1390,18-21,Male,Japan,Okinawa
+S_1391,22-26,Male,Indonesia,Jakarta
+S_1392,22-26,Male,Philippines,Pasig City
+S_1393,18-21,Female,Philippines,Iligan
+S_1394,27-31,Female,Kingdom of Hawai’i,Makawao
+S_1395,22-26,Female,Philippines,Pangasinan
+S_1396,18-21,Male,Mongolia,Ulaanbaatr
+S_1397,22-26,Female,Philippines,Isabela
+S_1398,22-26,Female,México,Veracruz
+S_1399,22-26,Female,United States of America,Utah
+S_1400,37-42,Male,Philippines,Cebu
+S_1401,22-26,Female,India,Hyderabad
+S_1402,22-26,Male,Pakistan,Punjab
+S_1403,37-42,Male,US,HI
+S_1404,18-21,Male,Philippines,Gumaca
+S_1405,22-26,Female,United States,Utah
+S_1406,22-26,Male,USA,"Anchorage, AK"
+S_1407,22-26,Male,Canada,Langley
+S_1408,22-26,Male,Philippines,Dagupan City
+S_1409,27-31,Female,New Zealand,Auckland
+S_1410,27-31,Male,United States,"Laie, Hawaii"
+S_1411,59-64,Female,Japan,Japan
+S_1412,22-26,Female,Mongolia,Ulaanbaatar
+S_1413,18-21,Male,Kiribati,Tarawa
+S_1414,22-26,Female,USA,"Roseville, CA"
+S_1415,18-21,Female,Philippines,Muntinlupa
+S_1416,22-26,Female,United States,Florida
+S_1417,27-31,Female,United States,Davenport
+S_1418,22-26,Male,Philippines,Pangasinan
+S_1419,27-31,Female,United States,"Eden, UT"
+S_1420,22-26,Male,United States,Utah
+S_1421,22-26,Female,United States,Idaho
+S_1422,27-31,Male,USA,Arizona
+S_1423,22-26,Female,USA,California
+S_1424,22-26,Male,united states of america,Texas
+S_1425,22-26,Male,PNG,PORT MORESBY
+S_1426,50-58,Female,Kiribati,South-Tarawa
+S_1427,22-26,Male,United States,Utah
+S_1428,22-26,Female,India,Deli
+S_1429,27-31,Male,mongolia,ub
+S_1430,22-26,Male,Papua New Guinea,Lae City
+S_1431,27-31,Female,New Zealand,Paihia
+S_1432,22-26,Male,Mongolia,Ulaanbaatar
+S_1433,59-64,Female,United States,Laie
+S_1434,22-26,Male,Utah,Highland
+S_1435,22-26,Female,Usa,Louisiana
+S_1436,22-26,Female,United States,Utah
+S_1437,22-26,Female,Japan,Okinawa
+S_1438,22-26,Female,USA,CT
+S_1439,22-26,Male,USA,Utah
+S_1440,22-26,Male,USA,Washington
+S_1441,22-26,Female,Weisheng,Kuala Lumpur
+S_1442,18-21,Female,United States,Provo Utah
+S_1443,22-26,Female,United States,Orem
+S_1444,22-26,Female,America,Colorado
+S_1445,18-21,Female,Philippines,Negros Occidental
+S_1446,22-26,Male,United States,Utah
+S_1447,22-26,Male,United States,Utah
+S_1448,37-42,Male,USA,Utah
+S_1449,22-26,Female,United States,Utah
+S_1450,22-26,Male,Japan,Okinawa
+S_1451,18-21,Female,usa,boise
+S_1452,22-26,Female,México,Tamaulipas
+S_1453,37-42,Female,United States,Providence
+S_1454,22-26,Male,Utah,Orem
+S_1455,18-21,Female,USA,Utah
+S_1456,27-31,Female,United States,Arizona
+S_1457,18-21,Male,Japan,Tokyo
+S_1458,22-26,Male,Usa,Arizona
+S_1459,37-42,Male,Malaysia,Kuala Lumpur
+S_1460,22-26,Female,Philippines,Bulacan
+S_1461,18-21,Female,United States,"Atlanta, GA"
+S_1462,22-26,Female,United States,Utah
+S_1463,22-26,Female,Canada,BC
+S_1464,37-42,Male,United States,"Kamas, UT"
+S_1465,22-26,Male,Tahiti,Tahiti
+S_1466,18-21,Female,Philippines,Surigao City
+S_1467,27-31,Male,Canada,Alberta
+S_1468,22-26,Male,New Zeland,Auckland
+S_1469,27-31,Female,Japan,Okinawa
+S_1470,59-64,Female,mongolia,ulaanbatar
+S_1471,18-21,Female,Mongolia,Ulaanbaatar
+S_1472,43-49,Male,United States,"Ridgefield, WA"
+S_1473,18-21,Female,Hong Kong,Hong Kong
+S_1474,18-21,Male,United States,"Billings, Montana"
+S_1475,22-26,Female,USA,Newport
+S_1476,22-26,Male,Korea,Seoul
+S_1477,22-26,Female,United States,Iowa
+S_1478,18-21,Male,Philippines,Quezon
+S_1479,22-26,Male,Philippines,Cavite
+S_1480,43-49,Male,United States,Utah
+S_1481,22-26,Male,Kiribati,Tarawa
+S_1482,27-31,Male,Malaysia,Subang Jaya
+S_1483,22-26,Male,United States,San diego
+S_1484,27-31,Female,mongolia,ub
+S_1485,27-31,Male,United States of America,California
+S_1486,18-21,Male,Philippines,General Santos City
+S_1487,27-31,Female,Philippines,Isabela
+S_1488,27-31,Male,Monterrey,Mexico
+S_1489,18-21,Male,USA,"Provo, Utah"
+S_1490,18-21,Male,Philippines,Surigao City
+S_1491,59-64,Female,United states,Laie
+S_1492,22-26,Female,United States,Arizona
+S_1493,37-42,Male,French Polynesia,Mataiea
+S_1494,22-26,Male,Philippines,Lucena
+S_1495,18-21,Female,Philippines,Manila
+S_1496,18-21,Female,Philippines,Cavite
+S_1497,27-31,Female,USA,Utah
+S_1498,22-26,Female,United States,Utah
+S_1499,22-26,Male,America,Ohio
+S_1500,18-21,Female,United States,"Providence, UT"
+S_1501,22-26,Male,United States,California
+S_1502,22-26,Male,USA,Colorado
+S_1503,22-26,Female,Philippines,Dagupan City
+S_1504,18-21,Female,United States,Boise
+S_1505,22-26,Female,England,London
+S_1506,18-21,Female,Fiji,Suva
+S_1507,22-26,Male,India,Delhi
+S_1508,18-21,Female,USA,"Las Vegas, NV"
+S_1509,18-21,Male,Philippines,Pasuquin
+S_1510,43-49,Female,United States,Utah
+S_1511,22-26,Female,Usa,Bountiful Utah
+S_1512,22-26,Female,America,Utah
+S_1513,27-31,Male,United States,Utah
+S_1514,22-26,Male,United States,"Eagle, Idaho"
+S_1515,22-26,Female,United States,Sacramento
+S_1516,27-31,Male,United States,West Virginia
+S_1517,27-31,Female,USA,California
+S_1518,27-31,Female,United States,Hawaii
+S_1519,50-58,Female,Tahiti,Maraea
+S_1520,22-26,Female,Philippines,Cebu
+S_1521,27-31,Female,Philippines,Cabatuan
+S_1522,22-26,Male,Japan,Okinawa
+S_1523,18-21,Female,Kiribati,Tarawa
+S_1524,37-42,Male,Japan,Sapporo
+S_1525,22-26,Male,Usa,Nashville
+S_1526,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_1527,22-26,Female,Philippines,Cabanatuan
+S_1528,18-21,Female,Fiji,Hawaii
+S_1529,22-26,Female,Malaysia,bintulu
+S_1530,22-26,Male,United States,Utah
+S_1531,22-26,Female,Canada,Calgary
+S_1532,22-26,Female,China,JiangXi
+S_1533,22-26,Female,USA,"Atlanta, Ga"
+S_1534,22-26,Female,Philippines,Manila
+S_1535,22-26,Female,United States,Utah
+S_1536,50-58,Male,United States,Utah
+S_1537,22-26,Male,Fiji,Suva
+S_1538,18-21,Male,USA,Utah
+S_1539,22-26,Male,Philippines,Camarines Norte
+S_1540,50-58,Male,USA,San Francisco
+S_1541,22-26,Male,USA,CA
+S_1542,22-26,Male,Tonga,Nuku’alofa
+S_1543,18-21,Male,Tonga,Nuku'alofa
+S_1544,22-26,Female,United States,Virginia
+S_1545,22-26,Female,United States,"Laie, HI"
+S_1546,22-26,Male,United States,Houston
+S_1547,22-26,Male,China,Harbin
+S_1548,50-58,Male,United States,American Samoa
+S_1549,43-49,Female,Japan,Ibaraki
+S_1550,22-26,Male,USA,Oregon
+S_1551,18-21,Female,Philippines,Makati
+S_1552,18-21,Female,USA,Colorado
+S_1553,22-26,Female,Mexico,Cedar Park
+S_1554,22-26,Female,USA,Texas
+S_1555,22-26,Female,Korea,Seoul
+S_1556,27-31,Female,Philippines,Pangasinan
+S_1557,18-21,Male,New Zealand,Northland
+S_1558,22-26,Male,Philippines,Pangasinan
+S_1559,27-31,Male,Argentina,San Martín de los Andes
+S_1560,22-26,Male,Aotearoa,Hastings
+S_1561,22-26,Male,United States,Boise
+S_1562,18-21,Male,USA,Utah
+S_1563,22-26,Female,Tonga,Pangai
+S_1564,22-26,Female,Cook Islands,Hawaii
+S_1565,18-21,Female,Philippines,Lucena
+S_1566,22-26,Female,United States,California
+S_1567,18-21,Male,Japan,Okinawa
+S_1568,27-31,Male,United States,Las Vegas
+S_1569,32-36,Female,Philippines,Laguna
+S_1570,18-21,Female,Kiribati,South-Tarawa
+S_1571,27-31,Female,United States,California
+S_1572,18-21,Male,USA,Hawaii
+S_1573,22-26,Female,Taiwan,New Taipei City
+S_1574,22-26,Female,PNG,Port Moresby
+S_1575,22-26,Male,United States,Utah
+S_1576,22-26,Female,USA,CA
+S_1577,18-21,Female,Fiji,Menlo Park
+S_1578,18-21,Male,Taiwan,New Taipei City
+S_1579,22-26,Male,Philippines,Cebu
+S_1580,27-31,Female,Philippines,Cagayan
+S_1581,22-26,Female,Philippines,Dagupan City
+S_1582,22-26,Male,Taiwan,New Taipei City
+S_1583,22-26,Female,USA,Hawaii
+S_1584,22-26,Male,Mexico,Cedar Park
+S_1585,27-31,Male,Canada,British Columbia
+S_1586,22-26,Female,El Salvador,"Phoenix, Arizona"
+S_1587,27-31,Female,USA,California
+S_1588,27-31,Female,Kiribati,Kiritimati Island
+S_1589,18-21,Female,USA,"Hauula, Hawaii"
+S_1590,18-21,Female,USA,Arizona
+S_1591,22-26,Female,United States,Connecticut
+S_1592,22-26,Male,US,Utah
+S_1593,66-70,Male,United States,Utah
+S_1594,43-49,Male,United States of America,Colorado
+S_1595,18-21,Male,United States,Arizona
+S_1596,18-21,Female,Indonesia,Seko
+S_1597,27-31,Female,United States of America,Colorado
+S_1598,50-58,Female,Philippines,Allen
+S_1599,22-26,Male,Philippines,Cebu
+S_1600,18-21,Female,United States,Indiana
+S_1601,22-26,Male,United States,Utah
+S_1602,22-26,Male,China,JiangXi
+S_1603,22-26,Female,USA,"Sandy, Utah"
+S_1604,22-26,Male,United States,"Salt lake city, Utah"
+S_1605,18-21,Female,Canada,HI
+S_1606,22-26,Female,Canada,Pincher Creek
+S_1607,50-58,Female,Kiribati,Tarawa
+S_1608,22-26,Female,Laie,Hawaii
+S_1609,22-26,Male,United States,Utah
+S_1610,27-31,Male,United States,Utah
+S_1611,27-31,Male,Canada,British Columbia
+S_1612,22-26,Female,Philippines,Pangasinan
+S_1613,18-21,Male,PNG,Port Moresby
+S_1614,43-49,Female,United States,Colorado
+S_1615,59-64,Female,USA,Arizona
+S_1616,22-26,Female,Tonga,Liahona
+S_1617,22-26,Female,Papua New Guinea,Port Moresby
+S_1618,18-21,Female,USA,"Anchorage, AK"
+S_1619,22-26,Male,United States,Colorado
+S_1620,32-36,Female,Korea,Suwon
+S_1621,22-26,Male,Japan,Hyogo
+S_1622,37-42,Male,USA,Hawaii
+S_1623,22-26,Female,USA,Utah
+S_1624,37-42,Male,Japan,Saitama
+S_1625,22-26,Female,Fiji,Suva
+S_1626,22-26,Female,Philippines,La carlota
+S_1627,32-36,Female,USA,West Virginia
+S_1628,50-58,Female,United States of America,Colorado
+S_1629,22-26,Female,Indonesia,Jakarta
+S_1630,27-31,Male,Philippines,Pangasinan
+S_1631,18-21,Female,USA,Utah
+S_1632,18-21,Female,United States,Washington
+S_1633,22-26,Female,Philippines,Pampanga
+S_1634,22-26,Male,Philippines,Manila
+S_1635,27-31,Female,mongolia,ulaanbaatar
+S_1636,18-21,Male,United States,Montana
+S_1637,18-21,Male,Japan,Fukoyoka
+S_1638,22-26,Male,USA,Utah
+S_1639,18-21,Female,Philippines,Alaminos City
+S_1640,50-58,Male,USA,Utah
+S_1641,22-26,Male,Indonesia,Jakarta
+S_1642,22-26,Female,Papua New Guinea,Port Moresby
+S_1643,18-21,Male,Australia,Gold Coast
+S_1644,18-21,Female,Mongolia,Ulaanbaatar
+S_1645,22-26,Female,United State,Utah
+S_1646,18-21,Male,Philippines,Baguio City
+S_1647,22-26,Male,Kiribati,Kiritimati Island
+S_1648,22-26,Female,Japan,Miyagi
+S_1649,22-26,Female,New Zealand,Tūrangi
+S_1650,43-49,Female,Philippines,Leyte
+S_1651,22-26,Female,Philippines,Taguig City
+S_1652,22-26,Female,Fiji,Suva
+S_1653,22-26,Male,Philippines,Negros Occidental
+S_1654,27-31,Female,India,Deli
+S_1655,22-26,Male,Philippines,Santiago City
+S_1656,22-26,Female,philippines,quezon city
+S_1657,18-21,Female,Usa,Nashville
+S_1658,18-21,Female,Kiribati,Tarawa
+S_1659,18-21,Female,Philippines,Laguna
+S_1660,18-21,Female,United States,California
+S_1661,22-26,Female,Philippines,Naga Cith
+S_1662,50-58,Male,Japan,Kobe
+S_1663,22-26,Female,United States,Phoenix Arizona
+S_1664,22-26,Female,Philippines,Bulacan
+S_1665,22-26,Male,United States,Utah
+S_1666,18-21,Female,Unite States,"Springville, UT"
+S_1667,22-26,Male,Japan,Fukoyoka
+S_1668,22-26,Female,Philippines,Laie
+S_1669,18-21,Female,Usa,"Burley, Idaho"
+S_1670,50-58,Male,united states of america,Texas
+S_1671,22-26,Female,United States,California
+S_1672,22-26,Male,New Zealand,Hastings
+S_1673,18-21,Male,Hong Kong,Hong Kong
+S_1674,22-26,Female,Japan,Nara
+S_1675,32-36,Female,United States,"Kamas, UT"
+S_1676,22-26,Female,United States of America,"Puna, Hawaiʻi"
+S_1677,37-42,Female,United States,Phoenix Arizona
+S_1678,18-21,Male,Philippines,Negros Occidental
+S_1679,22-26,Male,Philippines,Bacolod
+S_1680,22-26,Female,Mongolia,Ulaanbaatar
+S_1681,18-21,Female,U.S.,Utah
+S_1682,22-26,Male,United States,Utah
+S_1683,22-26,Male,Kiribati,Tarawa
+S_1684,22-26,Female,Unite States,"Springville, UT"
+S_1685,18-21,Male,United States,"Billings, Montana"
+S_1686,32-36,Female,United States,"Alpine, UT"
+S_1687,22-26,Female,Indonesia,Malang
+S_1688,22-26,Male,Kiribati,Tarawa
+S_1689,22-26,Male,United States,Utah
+S_1690,22-26,Female,Philippine,Alicia
+S_1691,22-26,Female,PNG,Port Moresby
+S_1692,22-26,Male,USA,Utah
+S_1693,22-26,Female,Japan,Osaka
+S_1694,18-21,Female,Philippines,"Balanga City, Bataan"
+S_1695,22-26,Male,United States,Virginia
+S_1696,43-49,Female,United States,Hawaii
+S_1697,18-21,Female,USA,Texas
+S_1698,22-26,Male,USA,Washington
+S_1699,22-26,Male,Philippines,Bohol
+S_1700,22-26,Female,Fiji,Lautoka
+S_1701,22-26,Female,Philippines,Surigao City
+S_1702,22-26,Female,Cook Islands,Hawaii
+S_1703,22-26,Female,Fiji,Suva
+S_1704,18-21,Male,United States of America,California
+S_1705,18-21,Female,USA,Washington
+S_1706,18-21,Female,Philippines,Bacolod City
+S_1707,18-21,Female,Philippines,Bohol
+S_1708,22-26,Male,United States,Minnesota
+S_1709,22-26,Female,Fiji,Lautoka
+S_1710,18-21,Female,USA,Texas
+S_1711,22-26,Male,USA,Herriman
+S_1712,27-31,Male,Philippines,Bohol
+S_1713,22-26,Female,United States,"Laie, HI"
+S_1714,27-31,Female,United States,Oregon
+S_1715,22-26,Male,United States,Valencia
+S_1716,22-26,Female,USA,Hawaii
+S_1717,22-26,Female,Philippines,Muntinlupa
+S_1718,22-26,Male,Philippines,Binalonan
+S_1719,22-26,Female,Philippines,Pasig
+S_1720,18-21,Male,Philippines,Tanauan
+S_1721,18-21,Female,United States,Utah
+S_1722,27-31,Male,USA,Utah
+S_1723,22-26,Female,Kiribati,Tarawa
+S_1724,22-26,Male,Usa,Hawaii
+S_1725,22-26,Female,Mongolia,Ulaanbaatar
+S_1726,18-21,Female,Philippines,General Santos City
+S_1727,22-26,Female,USA,"Bountiful, UT"
+S_1728,22-26,Female,Weisheng,Kuala Lumpur
+S_1729,18-21,Male,United States,Washington
+S_1730,32-36,Male,India,Delhi
+S_1731,66-70,Male,US,Lincoln
+S_1732,50-58,Male,Unite States,"Springville, UT"
+S_1733,18-21,Female,Canada,Lethbridge
+S_1734,22-26,Male,Utah,Highland
+S_1735,18-21,Male,United States,Utah
+S_1736,22-26,Male,Tonga,Hateo
+S_1737,43-49,Female,Kingdom of Hawai’i,Makawao
+S_1738,22-26,Male,Papua New Guinea,Papua New Guinea
+S_1739,27-31,Male,United States,Virginia
+S_1740,22-26,Female,Philippines,Pasuquin
+S_1741,18-21,Female,United States,Arizona
+S_1742,27-31,Female,New Zealand,Hawkes Bay
+S_1743,22-26,Female,USA,Wisconsin
+S_1744,22-26,Female,Philipphines,Manila
+S_1745,50-58,Female,Philippines,Unknown
+S_1746,37-42,Female,US,HI
+S_1747,22-26,Female,Samoa,Fale Lili
+S_1748,50-58,Female,Indonesia,Surakarta
+S_1749,22-26,Male,United States of America,Georgia
+S_1750,27-31,Female,Philippines,Cavite
+S_1751,18-21,Male,United States,California
+S_1752,18-21,Female,Philippines,Ramon
+S_1753,18-21,Female,Korea,Seoul
+S_1754,18-21,Female,USA,Utah
+S_1755,22-26,Male,Kiribati,Butaritari
+S_1756,22-26,Male,Philippines,Lubao
+S_1757,27-31,Female,Usa,Ohio
+S_1758,59-64,Female,America,Texas
+S_1759,27-31,Male,Kiribati,South-Tarawa
+S_1760,59-64,Male,USA,"Cedar Hills, Utah"
+S_1761,22-26,Female,Philippines,Butuan
+S_1762,22-26,Male,Malaysia,Kuala Lumpur
+S_1763,22-26,Male,Philippines,"Jaen, Nueva Ecija"
+S_1764,18-21,Female,USA,Oregon
+S_1765,27-31,Female,USA,Montana
+S_1766,27-31,Male,Fiji,Lautoka
+S_1767,18-21,Male,America,Texas
+S_1768,22-26,Female,Canada,Langley
+S_1769,50-58,Female,South Korea,Ulsan
+S_1770,18-21,Female,Philippines,Makati City
+S_1771,18-21,Female,United States,Utah
+S_1772,50-58,Male,Philippines,Baguio City
+S_1773,22-26,Male,United States of America,"Salt Lake City, Utah"
+S_1774,22-26,Female,USA,Hawaii
+S_1775,59-64,Male,Philippines,Ramon
+S_1776,18-21,Male,Fiji,Suva
+S_1777,43-49,Female,United States,Maryland
+S_1778,27-31,Female,USA,California
+S_1779,22-26,Male,Philippines,Bohol
+S_1780,22-26,Female,USA,Utah
+S_1781,22-26,Female,Brazil,Sao Paulo
+S_1782,22-26,Male,United States,Utah
+S_1783,22-26,Female,United States,Montana
+S_1784,18-21,Male,Philippines,Naga
+S_1785,22-26,Female,Japan,Ibaraki
+S_1786,22-26,Male,Philippines,Laguna
+S_1787,27-31,Male,United States,"Laie, Hawaii"
+S_1788,22-26,Female,United States,Montana
+S_1789,27-31,Female,Kiribati,Tarawa
+S_1790,22-26,Male,Mexico,Veracruz
+S_1791,50-58,Female,United States,Leesburg
+S_1792,22-26,Male,United States,Davenport
+S_1793,22-26,Female,Philippines,Bulacan
+S_1794,32-36,Male,Brazil,Sao Paulo
+S_1795,22-26,Male,United States,Salt Lake City
+S_1796,22-26,Male,Tahiti,Papeete
+S_1797,22-26,Male,U.S.A,Oakland
+S_1798,22-26,Male,Kiribati,Tarawa
+S_1799,18-21,Female,Philippines,Bohol
+S_1800,18-21,Male,USA,Utah
+S_1801,22-26,Female,USA,California
+S_1802,18-21,Female,United States,Utah
+S_1803,22-26,Female,USA,Utah
+S_1804,18-21,Female,Mexico,Veracruz
+S_1805,27-31,Female,United States,Martinsburg
+S_1806,18-21,Female,United states,newport
+S_1807,22-26,Female,Tahiti,French Polynesia
+S_1808,27-31,Male,Indonesia,Yogyakarta
+S_1809,22-26,Female,Pakistan,Punjab
+S_1810,37-42,Female,United States,California
+S_1811,50-58,Female,United States,Utah
+S_1812,22-26,Female,México,Tamaulipas
+S_1813,22-26,Female,USA,Wisconsin
+S_1814,22-26,Female,Tahiti,Mahina
+S_1815,18-21,Male,sri lanka,colombo
+S_1816,18-21,Female,USA,Herriman
+S_1817,18-21,Female,USA,NorCal
+S_1818,22-26,Female,England,London
+S_1819,22-26,Male,Canada,Alberta
+S_1820,18-21,Male,Mexico,Veracruz
+S_1821,22-26,Female,Malaysia,Subang Jaya
+S_1822,22-26,Male,Philippines,Bohol
+S_1823,22-26,Female,Kiribati,Tarawa
+S_1824,22-26,Male,PNG,Port Moresby
+S_1825,22-26,Female,USA,NY
+S_1826,37-42,Female,Kiribati,Tarawa
+S_1827,27-31,Female,United States,Oregon
+S_1828,18-21,Female,U.S.,Utah
+S_1829,43-49,Female,United States,"Lehi, UT"
+S_1830,22-26,Male,United States,"Anthem, AZ"
+S_1831,18-21,Female,USA,Wisconsin
+S_1832,22-26,Female,usa,Utah
+S_1833,22-26,Female,Us,Hawaii
+S_1834,22-26,Female,Indonesia,Yogyakarta
+S_1835,18-21,Female,Canada,Lethbridge
+S_1836,18-21,Female,United States,Davenport
+S_1837,27-31,Male,Philippines,Malaybalay
+S_1838,27-31,Female,US,Sacramento
+S_1839,27-31,Female,United States,Houston
+S_1840,18-21,Female,England,London
+S_1841,18-21,Male,China,China
+S_1842,22-26,Female,United States,California
+S_1843,22-26,Female,USA,Hawaii
+S_1844,22-26,Male,USA,Hawaii
+S_1845,22-26,Female,Montana,Charlo Montana
+S_1846,27-31,Male,USA,San Francisco
+S_1847,22-26,Male,Malaysia,bintulu
+S_1848,22-26,Female,Philippines,Davao City
+S_1849,32-36,Male,Malaysia,Kuala Lumpur
+S_1850,18-21,Female,Kiribati,Tarawa
+S_1851,18-21,Male,Indonesia,Jakarta
+S_1852,18-21,Female,United States,Utah
+S_1853,22-26,Male,USA,Florida
+S_1854,22-26,Male,Taiwan,New Taipei City
+S_1855,22-26,Female,China,Shanghai
+S_1856,22-26,Female,Philippines,Santiago City
+S_1857,22-26,Male,Fiji,Suva
+S_1858,50-58,Male,Peru,Arequipa
+S_1859,22-26,Female,Philippines,Davao City
+S_1860,22-26,Female,United States,Utah
+S_1861,22-26,Male,Philippines,Manila
+S_1862,22-26,Female,Hawaii,Oahu
+S_1863,18-21,Female,mongolia,ub
+S_1864,18-21,Female,philippines,quezon city
+S_1865,22-26,Male,México,Veracruz
+S_1866,22-26,Female,U.S,Colorado
+S_1867,18-21,Female,USA,LOGAN
+S_1868,43-49,Female,Philippines,Pampanga
+S_1869,18-21,Male,NZ,Hastings
+S_1870,22-26,Male,United States,Utah
+S_1871,22-26,Female,Papua New Guinea,Hawaii
+S_1872,18-21,Female,United States,Oregon
+S_1873,27-31,Female,Usa,Ohio
+S_1874,27-31,Male,United States,Hawaii
+S_1875,22-26,Female,Kiribati,Tarawa
+S_1876,50-58,Male,French Polynesia,Marquesas Islands
+S_1877,18-21,Female,Tahiti,Mahina
+S_1878,22-26,Female,Philippines,"Palawan, Puerto Prinsesa City"
+S_1879,27-31,Female,United States of America,"Logan, Utah"
+S_1880,22-26,Female,United States,Utah
+S_1881,18-21,Male,Papua New Guinea,Hawaii
+S_1882,37-42,Female,United States of America,Sacramento California
+S_1883,22-26,Male,mexico,monterrey
+S_1884,22-26,Female,usa,Utah
+S_1885,50-58,Female,USA,"Sandy, Utah"
+S_1886,22-26,Female,USA,ARIZONA
+S_1887,22-26,Female,USA,Utah
+S_1888,22-26,Male,Japan,Hyogo
+S_1889,22-26,Male,United States,"Mesa, AZ"
+S_1890,18-21,Female,USA,Colorado
+S_1891,22-26,Male,Tahiti,Bora Bora
+S_1892,50-58,Male,United States,"Anthem, AZ"
+S_1893,22-26,Female,Philippines,Cavite
+S_1894,22-26,Male,Philippines,Pangasinan
+S_1895,27-31,Male,china,jiangsu
+S_1896,18-21,Male,Korea,Seoul
+S_1897,22-26,Female,China,Tianjin
+S_1898,22-26,Male,Philippines,Laguna
+S_1899,22-26,Male,United States,"Tooele, UT"
+S_1900,22-26,Female,Samoa,Tafuna
+S_1901,22-26,Female,Hong Kong,Hong Kong
+S_1902,22-26,Male,India,Hyderabad
+S_1903,27-31,Female,United States,Hawaii
+S_1904,22-26,Female,Samoa,Apia
+S_1905,22-26,Male,United states,Laie
+S_1906,50-58,Female,Philippines,Santiago City
+S_1907,22-26,Female,Philippines,Camarines Norte
+S_1908,22-26,Female,Japan,Tokyo
+S_1909,50-58,Female,Kiribati,Tarawa
+S_1910,18-21,Female,Thailand,Nonthaburi
+S_1911,18-21,Male,USA,California
+S_1912,18-21,Female,mongolia,ub
+S_1913,27-31,Male,Tonga,Nuku’alofa
+S_1914,27-31,Male,Philippines,Sta. Barbara
+S_1915,37-42,Female,USA,Utah
+S_1916,22-26,Male,Japan,Saitama
+S_1917,22-26,Female,United States of America,California
+S_1918,22-26,Female,Korea,Seoul
+S_1919,22-26,Male,Indonesia,Surabaya
+S_1920,22-26,Female,Philippines,Negros Occidental
+S_1921,22-26,Female,USA,Oregon
+S_1922,22-26,Female,United States,Hawaii
+S_1923,18-21,Female,Kiribati,Tarawa
+S_1924,18-21,Female,mongolia,ulaanbatar
+S_1925,18-21,Male,Jaoan,Chiba
+S_1926,18-21,Female,Papua New Guinea,Port Moresby
+S_1927,22-26,Male,Fiji,Suva
+S_1928,27-31,Male,U.S,Colorado
+S_1929,18-21,Male,United States,UT
+S_1930,18-21,Male,USA,Montana
+S_1931,22-26,Male,Usa,Louisiana
+S_1932,27-31,Female,Kiribati,Tarawa
+S_1933,22-26,Female,Japan,Saitama
+S_1934,22-26,Female,USA,Arizona
+S_1935,22-26,Male,sri lanka,colombo
+S_1936,18-21,Male,Japan,Saitama
+S_1937,59-64,Female,US,"Hawaii, Laie"
+S_1938,22-26,Male,United States,"Eden, UT"
+S_1939,37-42,Female,United States,Arizona
+S_1940,22-26,Male,USA,"Sandy, Utah"
+S_1941,18-21,Female,Mongolia,Ulaanbaatar
+S_1942,18-21,Female,United States,Utah
+S_1943,22-26,Female,United States of America,"Salt Lake City, Utah"
+S_1944,18-21,Female,United States,Utah
+S_1945,22-26,Female,USA,Hawaii
+S_1946,22-26,Female,United States,"Laie, Hawaii"
+S_1947,22-26,Female,Philippines,Taguig
+S_1948,18-21,Female,USA,Utah
+S_1949,27-31,Male,New Zealand,Hamilton
+S_1950,18-21,Female,United States,Utah
+S_1951,18-21,Male,Philippines,Surigao City
+S_1952,59-64,Female,Fiji,Suva
+S_1953,32-36,Female,United States,Hawaii
+S_1954,22-26,Female,Philippines,Taguig
+S_1955,18-21,Female,New Zealand,Northland
+S_1956,18-21,Male,U.S,Hawaii
+S_1957,22-26,Female,United States,California
+S_1958,18-21,Male,Philippines,Tuguegarao City
+S_1959,22-26,Male,Philippines,Philippines
+S_1960,22-26,Female,Philippines,Isabela
+S_1961,18-21,Male,Usa,Arizona
+S_1962,22-26,Female,USA,Florida
+S_1963,22-26,Male,Fiji,Laie
+S_1964,37-42,Male,USA,Hawaii
+S_1965,22-26,Male,Philippines,Tanauan
+S_1966,27-31,Female,Kiribati,Tarawa
+S_1967,18-21,Male,United States,"Billings, Montana"
+S_1968,18-21,Female,United States,Colorado
+S_1969,18-21,Female,USA,Utah
+S_1970,22-26,Male,Korea,Seoul
+S_1971,22-26,Female,United States,Hawaii
+S_1972,22-26,Male,Philippines,Leyte
+S_1973,22-26,Female,Philippines,Cebu
+S_1974,22-26,Male,USA,Texas
+S_1975,27-31,Male,Cambodia,Phnom Penh
+S_1976,22-26,Male,Mexico,Nuevo Leon
+S_1977,22-26,Female,philippines,tuguegarao
+S_1978,22-26,Female,Japan,Osaka
+S_1979,22-26,Female,Philippines,Cavite
+S_1980,22-26,Female,New Zealand,Auckland
+S_1981,22-26,Male,Philippines,General Santos City
+S_1982,22-26,Female,USA,Hawaii
+S_1983,27-31,Female,Malaysia,Sarawak
+S_1984,22-26,Female,Fiji,Nadi
+S_1985,22-26,Male,USA,Hawaii
+S_1986,18-21,Female,USA,Newport
+S_1987,18-21,Female,Malaysia,Penang
+S_1988,18-21,Female,Indonesia,Seko
+S_1989,32-36,Male,Kingdom of Tonga,Haapai
+S_1990,22-26,Male,USA,California
+S_1991,22-26,Female,United States,hawaii
+S_1992,22-26,Female,United States,"Kamas, Utah."
+S_1993,22-26,Female,USA,Spokane
+S_1994,22-26,Male,USA,NorCal
+S_1995,22-26,Male,Philippines,Pasig
+S_1996,27-31,Male,Japan,Hyogo
+S_1997,18-21,Male,USA,"Anchorage, AK"
+S_1998,22-26,Female,Tonga,Pangai
+S_1999,18-21,Female,South Korea,Ulsan
+S_2000,18-21,Female,Taiwan,New Taipei City
+S_2001,22-26,Male,USA,West Virginia
+S_2002,22-26,Female,Samoa,Apia
+S_2003,22-26,Male,Wisconsin,Ladysmith
+S_2004,22-26,Female,US,HI
+S_2005,22-26,Male,USA,Washington
+S_2006,27-31,Female,Kiribati,Tarawa
+S_2007,22-26,Female,Philippines,Binalonan
+S_2008,22-26,Male,mongolia,ulaanbatar
+S_2009,22-26,Male,México,Veracruz
+S_2010,27-31,Male,USA,Utah
+S_2011,27-31,Female,United States,Idaho
+S_2012,18-21,Female,USA,Virginia
+S_2013,22-26,Male,USA,Washington
+S_2014,22-26,Female,Philippines,"Palawan, Puerto Prinsesa City"
+S_2015,22-26,Female,China,Harbin
+S_2016,22-26,Female,USA,Oregon
+S_2017,22-26,Female,USA,Colorado
+S_2018,27-31,Male,United States,Missouri
+S_2019,27-31,Female,New Zealand,Hastings
+S_2020,22-26,Female,China,Hebei
+S_2021,22-26,Female,United States,Arizona
+S_2022,27-31,Male,Canada,Pincher Creek
+S_2023,22-26,Female,United States,Utah
+S_2024,50-58,Male,United States,Martinsburg
+S_2025,22-26,Male,Philippines,Laguna
+S_2026,27-31,Female,Indonesia,Cikarang
+S_2027,43-49,Female,USA,California
+S_2028,22-26,Male,United States,"Lehi, UT"
+S_2029,22-26,Female,USA,Utah
+S_2030,22-26,Male,America,Oregon
+S_2031,22-26,Female,Kiribati,Tarawa
+S_2032,22-26,Male,Philippines,Pangsinan
+S_2033,22-26,Male,United States,Washington
+S_2034,43-49,Female,mongolia,ulaanbatar
+S_2035,22-26,Female,Philippines,Quezon City
+S_2036,22-26,Female,United States,Utah
+S_2037,50-58,Female,USA,Hawaii
+S_2038,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_2039,22-26,Female,Japan,Osaka
+S_2040,18-21,Male,Samoa,Unknown
+S_2041,22-26,Female,United States,Oregon
+S_2042,27-31,Female,Philippines,"Naga City, Camarines Sur"
+S_2043,22-26,Female,usa,allentown
+S_2044,27-31,Female,US,Utah
+S_2045,32-36,Female,Kiribati,Tarawa
+S_2046,32-36,Male,El Salvador,"Phoenix, Arizona"
+S_2047,22-26,Female,Fiji,Suva
+S_2048,22-26,Male,Philippines,Pangasinan
+S_2049,22-26,Female,Papua New Guinea,Papua New Guinea
+S_2050,27-31,Female,United States,Texas
+S_2051,50-58,Female,PNG,Port Moresby
+S_2052,22-26,Female,Argentina,San Martín de los Andes
+S_2053,18-21,Male,Philippines,General Santos City
+S_2054,22-26,Male,Tahiti,French Polynesia
+S_2055,27-31,Male,Philippines,Pangasinan
+S_2056,22-26,Female,Brazil,Sao Paulo
+S_2057,22-26,Male,Kiribati,Tarawa
+S_2058,22-26,Female,Philippines,Valenzuela
+S_2059,18-21,Male,USA,California
+S_2060,22-26,Female,Japan,Miyagi
+S_2061,22-26,Female,Papua New Guinea,"Port Moresby, Papua New Guinea"
+S_2062,22-26,Female,Philippines,Laguna
+S_2063,37-42,Female,United States,Hawaii
+S_2064,27-31,Female,Samoa,Apia
+S_2065,22-26,Female,México,Veracruz
+S_2066,43-49,Female,Kingdom of Hawai’i,Makawao
+S_2067,50-58,Female,United States,Utah
+S_2068,27-31,Female,Usa,Ohio
+S_2069,22-26,Female,Malaysia,Kuala Lumpur
+S_2070,18-21,Male,PH,Tarlac
+S_2071,22-26,Male,Papua New Guinea,Port Moresby
+S_2072,22-26,Female,Peru,Arequipa
+S_2073,22-26,Female,Philippine,Alicia
+S_2074,22-26,Female,Samoa,Aleisa
+S_2075,22-26,Male,Japan,Miyagi
+S_2076,22-26,Female,USA,Florida
+S_2077,32-36,Female,USA,California/Hawaii
+S_2078,27-31,Female,Fiji,Suva
+S_2079,18-21,Female,Pakistan,Punjab
+S_2080,27-31,Male,Japan,Kannonnji
+S_2081,18-21,Male,Cambodia,Phnom Penh
+S_2082,22-26,Female,New Zealand,Tūrangi
+S_2083,18-21,Male,Indonesia,Yogyakarta
+S_2084,18-21,Female,Indonesia,Jakarta
+S_2085,18-21,Female,USA,oceanside
+S_2086,22-26,Female,USA,Sandy
+S_2087,27-31,Female,Philippines,Bohol
+S_2088,22-26,Female,United States,Utah
+S_2089,22-26,Male,Tahiti,French Polynesia
+S_2090,43-49,Male,Kiribati,Tarawa
+S_2091,18-21,Male,Malaysia,Penang
+S_2092,43-49,Female,United States of America,"Salt Lake City, Utah"
+S_2093,22-26,Female,Kiribati,Tarawa
+S_2094,27-31,Female,United States,Utah
+S_2095,27-31,Male,USA,California
+S_2096,66-70,Female,New Zealand,Hastings
+S_2097,22-26,Female,Indonesia,Bogor
+S_2098,27-31,Male,United States,Utah
+S_2099,22-26,Female,USA,Utah
+S_2100,22-26,Female,United States,New Mexico
+S_2101,22-26,Female,United States of America,Colorado
+S_2102,18-21,Female,Philippines,Taguig
+S_2103,50-58,Male,United States,Utah
+S_2104,27-31,Female,Korea,Seoul
+S_2105,22-26,Female,Sāmoa,Hawaii
+S_2106,59-64,Male,China,Guangdong
+S_2107,22-26,Male,United States,Providence
+S_2108,18-21,Female,United States,Utah
+S_2109,18-21,Female,united states,airway heights
+S_2110,27-31,Male,Mexico,Veracruz
+S_2111,18-21,Female,Philippines,SURIGAO CITY
+S_2112,22-26,Female,United States,Bluffdale Utah
+S_2113,22-26,Male,Philippines,Pasig
+S_2114,32-36,Female,Fiji,Laie
+S_2115,27-31,Female,Philippines,Allen
+S_2116,43-49,Male,Kiribati,Tarawa
+S_2117,22-26,Female,United States,Utah
+S_2118,22-26,Female,Kiribati,Tarawa
+S_2119,22-26,Female,United States,Washington
+S_2120,18-21,Female,United States,"Kamas, UT"
+S_2121,59-64,Female,USA,Hawaii
+S_2122,18-21,Male,Papua New Guinea,Port Morgan
+S_2123,22-26,Female,PNG,Port Moresby
+S_2124,18-21,Female,Indonesia,Bogor
+S_2125,22-26,Male,Mexico,Mexico city
+S_2126,18-21,Male,Indonesia,Surakarta
+S_2127,22-26,Female,Philippines,Valenzuela
+S_2128,43-49,Female,New Zealand,Paihia
+S_2129,22-26,Male,USA,Az
+S_2130,22-26,Male,Unite States,"Springville, UT"
+S_2131,22-26,Male,United States of America,Utah
+S_2132,22-26,Female,Kiribati,Tarawa
+S_2133,22-26,Female,Philippines,Antipolo City
+S_2134,22-26,Female,Canada,Alberta
+S_2135,27-31,Female,United States,Washington
+S_2136,18-21,Female,Philippines,Utah
+S_2137,18-21,Female,Philippines,Bacolod City
+S_2138,22-26,Female,Tonga,Tonga
+S_2139,27-31,Female,United States of America,Utah
+S_2140,18-21,Male,Tahiti,Tahiti
+S_2141,22-26,Female,India,Delhi
+S_2142,22-26,Male,Philippines,Nueva Vizcaya
+S_2143,43-49,Female,Japan,Saitama
+S_2144,18-21,Male,America,Ohio
+S_2145,22-26,Female,Kiribati,Tarawa
+S_2146,18-21,Male,USA,Arizona
+S_2147,18-21,Female,Mexico,Veracruz
+S_2148,27-31,Female,Philippines,Lucena
+S_2149,18-21,Female,United States,Connecticut
+S_2150,18-21,Male,Vietnam,Saigon
+S_2151,22-26,Female,usa,colorado
+S_2152,18-21,Male,United States,Colorado
+S_2153,22-26,Male,United States,Colorado
+S_2154,18-21,Female,US,Utah
+S_2155,18-21,Female,Philippines,Laie
+S_2156,22-26,Female,Philippines,Manila
+S_2157,18-21,Male,USA,Utah
+S_2158,27-31,Male,United States,Utah
+S_2159,22-26,Female,USA,Hawaii
+S_2160,22-26,Male,China,Yunnan
+S_2161,18-21,Female,United States,Utah
+S_2162,22-26,Male,United States,Utah
+S_2163,22-26,Female,Japan,Miyagi
+S_2164,22-26,Female,United States,Utah
+S_2165,18-21,Female,Brazil,Sao Paulo
+S_2166,22-26,Female,USA,California
+S_2167,22-26,Female,United States,Valencia
+S_2168,18-21,Male,United States of America,Utah
+S_2169,27-31,Female,America,California
+S_2170,22-26,Male,New Zealand,Hastings
+S_2171,22-26,Male,India,Deli
+S_2172,22-26,Female,Japan,Okinawa
+S_2173,37-42,Female,United States,Colorado
+S_2174,18-21,Female,Indonesia,Jakarta
+S_2175,18-21,Male,United States,Washington
+S_2176,22-26,Female,Tarawa,Kiribati
+S_2177,27-31,Male,United States of America,"Albany, Oregon"
+S_2178,22-26,Male,US,"Hawaii, Laie"
+S_2179,22-26,Male,United States,"Boise, Idaho"
+S_2180,22-26,Male,Philippines,Santiago City
+S_2181,18-21,Female,Canada,Calgary
+S_2182,22-26,Female,United States,Nevada
+S_2183,22-26,Female,United States,Texas
+S_2184,27-31,Male,Brazil,Sao Paulo
+S_2185,22-26,Female,United States,Texas
+S_2186,22-26,Female,United States,Utah
+S_2187,22-26,Female,El Salvador,"Phoenix, Arizona"
+S_2188,18-21,Male,United States,Arizona
+S_2189,43-49,Female,Philippines,Lubao
+S_2190,18-21,Female,USA,"Alpine, Utah"
+S_2191,22-26,Female,Philippines,Pangasinan
+S_2192,18-21,Female,USA,Utah
+S_2193,22-26,Female,New Zealand,Hamilton
+S_2194,27-31,Female,United States,Iowa
+S_2195,22-26,Male,Sāmoa,Hawaii
+S_2196,22-26,Female,China,Chengdu
+S_2197,22-26,Male,Philippines,Hawaii
+S_2198,27-31,Male,Usa,Utah
+S_2199,27-31,Female,United States,Boise
+S_2200,43-49,Female,Montana,Charlo Montana
+S_2201,22-26,Male,United States,"Laie, Hawaii"
+S_2202,43-49,Male,United States,Oregon
+S_2203,18-21,Female,USA,San Francisco
+S_2204,27-31,Male,Mongolia,Ulaanbaatar
+S_2205,22-26,Female,USA,Oregon
+S_2206,32-36,Female,Mongolia,Ulaanbaatar
+S_2207,27-31,Female,USA,Utah
+S_2208,18-21,Female,United States,California
+S_2209,18-21,Female,United States,Idaho
+S_2210,18-21,Male,Thailand,Nonthaburi
+S_2211,18-21,Male,Canada,Lethbridge
+S_2212,22-26,Female,United States,Utah
+S_2213,22-26,Female,United States,Utah
+S_2214,32-36,Male,Philippines,"Naga City, Camarines Sur"
+S_2215,32-36,Female,French Polynesia,Mataiea
+S_2216,43-49,Female,Papua New Guinea,Papua New Guinea
+S_2217,22-26,Female,USA,Texas
+S_2218,50-58,Female,Papua New Guinea,Port Moresby
+S_2219,22-26,Female,Philippines,Quezon City
+S_2220,22-26,Female,US,Spokane Washington
+S_2221,22-26,Male,USA,Washington
+S_2222,22-26,Male,USA,Utah
+S_2223,37-42,Female,Philippines,Davao City
+S_2224,22-26,Male,United States,Boise
+S_2225,18-21,Female,United State,Utah
+S_2226,22-26,Female,USA,Hawaii
+S_2227,22-26,Female,United States,Montana
+S_2228,22-26,Female,United States,"Ridgefield, WA"
+S_2229,22-26,Male,USA,Wisconsin
+S_2230,22-26,Female,Philippines,Gensan City
+S_2231,27-31,Female,United states,Draper Utah
+S_2232,18-21,Male,United States,Provo Utah
+S_2233,22-26,Female,Samoa,Fale Lili
+S_2234,18-21,Male,United States,Arizona
+S_2235,22-26,Male,Philippines,Isabela
+S_2236,43-49,Female,El Salvador,"Phoenix, Arizona"
+S_2237,27-31,Female,China,China
+S_2238,22-26,Male,United States,Loganville
+S_2239,22-26,Male,United States,Oregon
+S_2240,18-21,Male,Philippines,Naga
+S_2241,22-26,Female,India,Hyderabad
+S_2242,22-26,Female,Philippines,Camarines Sur
+S_2243,22-26,Female,USA,Florida
+S_2244,27-31,Female,Philippines,SURIGAO CITY
+S_2245,22-26,Male,El Salvador,"Phoenix, Arizona"
+S_2246,22-26,Female,India,Deli
+S_2247,27-31,Male,Taiwan,Changhua
+S_2248,18-21,Female,America,Las Vegas
+S_2249,22-26,Female,India New Delhi,New Delhi
+S_2250,22-26,Male,United States,Nevada
+S_2251,18-21,Male,philippines,quezon city
+S_2252,18-21,Female,Philippines,Ilagan City
+S_2253,22-26,Male,United States,Utah
+S_2254,37-42,Female,USA,Hawaii
+S_2255,18-21,Female,United States,UT
+S_2256,22-26,Male,Indonesia,Jakarta
+S_2257,32-36,Male,Japan,Toride
+S_2258,22-26,Male,philippines,tuguegarao
+S_2259,27-31,Male,United States,Bluffdale Utah
+S_2260,32-36,Female,Brazil,Sao Paulo
+S_2261,22-26,Female,papua new guinea,Hawaii
+S_2262,22-26,Male,Mongolia,Ulaanbaatar
+S_2263,18-21,Male,India,Delhi
+S_2264,22-26,Male,United States,Utah
+S_2265,22-26,Female,Malaysia,Kuala Lumpur
+S_2266,22-26,Female,USA,"Bluffdale, Utah"
+S_2267,43-49,Male,Fiji,Suva
+S_2268,22-26,Female,united states,airway heights
+S_2269,22-26,Female,United States,Utah
+S_2270,22-26,Female,Unknown,Unknown
+S_2271,22-26,Male,United States,Texas
+S_2272,22-26,Female,Kiribati,Tarawa
+S_2273,18-21,Female,USA,Idaho
+S_2274,43-49,Female,México,Veracruz
+S_2275,22-26,Male,Philippines,Laie
+S_2276,18-21,Female,Philippines,Manila
+S_2277,50-58,Female,USA,las vegas
+S_2278,37-42,Female,Philippines,Lucena
+S_2279,27-31,Female,Philippines,Cebu City
+S_2280,18-21,Female,Philippines,Quezon City
+S_2281,22-26,Male,Mexico,Cedar Park
+S_2282,18-21,Female,Tonga,Vava’u
+S_2283,18-21,Male,Samoa,Apia Samoa
+S_2284,22-26,Female,Tonga,Nuku'alofa
+S_2285,22-26,Male,Tahiti,French Polynesia
+S_2286,22-26,Female,New Zealand,Hastings
+S_2287,18-21,Male,United States,Oregon
+S_2288,27-31,Female,mongolia,ub
+S_2289,27-31,Female,United States,"Logan, UT"
+S_2290,43-49,Female,United States,"Billings, Montana"
+S_2291,18-21,Male,India,Hyderabad
+S_2292,18-21,Male,Utah,Orem
+S_2293,18-21,Female,Tonga,Haakame
+S_2294,43-49,Male,United States of America,"Draper, Utah"
+S_2295,27-31,Female,Tahiti,French Polynesia
+S_2296,22-26,Male,United States,Bountiful
+S_2297,43-49,Female,India,Chennai
+S_2298,22-26,Female,Philippines,Nueva Vizcaya
+S_2299,18-21,Female,Philippines,Santiago City
+S_2300,18-21,Female,India,Chennai
+S_2301,18-21,Male,Canada,Alberta
+S_2302,22-26,Male,Japan,Toyama
+S_2303,22-26,Male,Tonga,Tonga
+S_2304,22-26,Female,Philippines,Baguio City
+S_2305,18-21,Male,US,West Virginia
+S_2306,22-26,Male,Philippines,Manila
+S_2307,43-49,Female,Philippines,Manila
+S_2308,22-26,Female,Papua New Guinea,Port Moresby
+S_2309,22-26,Male,United States,Utah
+S_2310,22-26,Male,Papua New Guinea,"Port Moresby, Papua New Guinea"
+S_2311,18-21,Female,USA,Utah
+S_2312,50-58,Male,Philippines,Gumaca
+S_2313,18-21,Female,USA,Oregon
+S_2314,22-26,Female,South Korea,Gwangju
+S_2315,43-49,Female,United States,California
+S_2316,22-26,Female,USA,Texas
+S_2317,22-26,Male,United States,Utah
+S_2318,22-26,Female,New Zealand,Haruru
+S_2319,18-21,Female,Australia,Gold Coast
+S_2320,22-26,Female,United States,Boise Idaho
+S_2321,22-26,Female,United States,"Atlanta, GA"
+S_2322,22-26,Female,India,Hyderabad
+S_2323,18-21,Male,Indonesia,Jakarta
+S_2324,22-26,Male,Kiribati,Tarawa
+S_2325,22-26,Female,Philippines,Laguna
+S_2326,27-31,Female,America,Idaho
+S_2327,22-26,Female,USA,Kailua Hawaii
+S_2328,43-49,Male,Kiribati,Tarawa
+S_2329,37-42,Female,United States,"Logan, Utah"
+S_2330,22-26,Female,United States,Utah
+S_2331,27-31,Female,China,Guangdong
+S_2332,27-31,Female,Samoa,Tafuna
+S_2333,22-26,Male,Thailand,Bangkok
+S_2334,27-31,Female,United States,CO
+S_2335,22-26,Male,Weisheng,Kuala Lumpur
+S_2336,27-31,Male,philippines,manila
+S_2337,22-26,Male,United States,UT
+S_2338,22-26,Male,U.S,Hawaii
+S_2339,22-26,Male,USA,Hawaii
+S_2340,22-26,Female,USA,Virginia
+S_2341,22-26,Female,United States,Valencia
+S_2342,18-21,Male,"French Polynesia, Tahiti",Pirae
+S_2343,18-21,Female,United States,Indiana
+S_2344,22-26,Female,Japan,Kannonnji
+S_2345,18-21,Male,Kiribati,Tarawa
+S_2346,22-26,Male,United States,Utah
+S_2347,22-26,Female,Fiji,Lautoka
+S_2348,22-26,Male,Samoa,Apia
+S_2349,22-26,Male,Scotland,Aberdeen
+S_2350,18-21,Female,Japan,Kannonnji
+S_2351,22-26,Female,United States,Utah
+S_2352,27-31,Female,United States,Washington
+S_2353,27-31,Male,United States,American Samoa
+S_2354,32-36,Male,Fiji,Suva
+S_2355,22-26,Male,United States of America,Utah
+S_2356,27-31,Female,Japan,Sendai
+S_2357,22-26,Male,USA,"Alpine, Utah"
+S_2358,27-31,Female,USA,Texas
+S_2359,43-49,Female,PH,Tarlac
+S_2360,43-49,Female,USA,California
+S_2361,22-26,Female,Philippines,Hawaii
+S_2362,22-26,Male,USA,Colorado
+S_2363,22-26,Female,United States,Utah
+S_2364,22-26,Female,Kiribati,Tarawa
+S_2365,27-31,Female,USA,Logan
+S_2366,22-26,Female,Vietnam,Saigon
+S_2367,71-77,Male,USA,Washington
+S_2368,18-21,Female,United States,Utah
+S_2369,22-26,Male,Canada,HI
+S_2370,18-21,Female,Mongolia,Ulaanbaatar
+S_2371,22-26,Male,Japan,Japan
+S_2372,27-31,Male,Taiwan,Taichung City
+S_2373,59-64,Female,United States,Wyoming
+S_2374,22-26,Male,Malaysia,Subang Jaya
+S_2375,18-21,Male,Japan,Okinawa
+S_2376,50-58,Male,united states,airway heights
+S_2377,18-21,Female,USA,Texas
+S_2378,27-31,Female,USA,Herriman
+S_2379,22-26,Male,Tahiti,French Polynesia
+S_2380,22-26,Male,USA,Arizona
+S_2381,22-26,Male,"Tahiti, French Polynesia","Punaauia, Taravao, and Papeete"
+S_2382,18-21,Female,United States,Florida
+S_2383,22-26,Female,United States,Virginia
+S_2384,18-21,Female,Tahiti,Tahiti
+S_2385,22-26,Female,Philippines,Pangasinan
+S_2386,22-26,Male,Philippines,Pasuquin
+S_2387,22-26,Female,United States,"Laie, Hawaii"
+S_2388,22-26,Female,Canada,Alberta
+S_2389,22-26,Female,United States,Providence
+S_2390,27-31,Male,US,HI
+S_2391,22-26,Female,Japan,Gifu (Prefecture)
+S_2392,22-26,Female,Papua New Guinea,Madang
+S_2393,27-31,Male,Philippines,Negros Occidental
+S_2394,22-26,Male,Philippines,General Santos City
+S_2395,22-26,Female,United States,"Salt lake city, Utah"
+S_2396,22-26,Female,United States,"Magna, utah"
+S_2397,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_2398,22-26,Female,Tonga,Tongatapu
+S_2399,22-26,Female,United States,Utah
+S_2400,22-26,Female,United State,California
+S_2401,18-21,Male,United States,Texas
+S_2402,22-26,Female,United states,Laie
+S_2403,22-26,Male,United States of America,California
+S_2404,27-31,Female,USA,Virginia
+S_2405,22-26,Female,U.S,Colorado
+S_2406,22-26,Female,USA,Wisconsin
+S_2407,18-21,Female,Philippines,Makati City
+S_2408,22-26,Male,Philippines,Cebu
+S_2409,32-36,Female,Tonga,Tonga
+S_2410,37-42,Female,USA,ARIZONA
+S_2411,22-26,Male,United States,Utah
+S_2412,22-26,Female,Philippines,Southern Leyte
+S_2413,18-21,Male,USA,Logan
+S_2414,18-21,Male,United States,Indiana
+S_2415,59-64,Female,Kiribati,Tarawa
+S_2416,37-42,Male,Philipphines,Manila
+S_2417,22-26,Female,Philippines,Valenzuela
+S_2418,22-26,Female,Usa,Hawaii
+S_2419,22-26,Female,United States,Texas
+S_2420,22-26,Male,Fiji,Suva
+S_2421,18-21,Male,United States,Colorado
+S_2422,22-26,Female,United States of America,Florida
+S_2423,32-36,Female,Mongolia,Ulaanbaatar
+S_2424,22-26,Male,Japan,Okinawa
+S_2425,27-31,Male,U.S,Hawaii
+S_2426,22-26,Female,USA,Utah
+S_2427,22-26,Female,Philippines,Naga city
+S_2428,18-21,Male,Usa,Washington
+S_2429,27-31,Female,Philippines,Cavite
+S_2430,22-26,Female,philippines,quezon city
+S_2431,22-26,Male,United States,Utah
+S_2432,18-21,Female,mongolia,ulaanbatar
+S_2433,27-31,Male,New Zealand,Auckland
+S_2434,22-26,Male,China,China
+S_2435,18-21,Female,India,Hyderabad
+S_2436,18-21,Female,Papua New Guinea,Port Moresby
+S_2437,22-26,Female,United States,Utah
+S_2438,22-26,Male,Taiwan,Hualien
+S_2439,27-31,Female,USA,Hawaii
+S_2440,32-36,Female,Philippines,Ballesteros
+S_2441,18-21,Female,tahiti,papeete
+S_2442,22-26,Male,Philippines,Malaybalay
+S_2443,22-26,Female,Malaysia,Kuala Lumpur
+S_2444,18-21,Female,United States,Virginia
+S_2445,50-58,Male,United States,Utah
+S_2446,22-26,Female,Tonga,Holonga
+S_2447,18-21,Male,United States,Utah
+S_2448,22-26,Female,United States,Texas
+S_2449,66-70,Male,India,Delhi
+S_2450,50-58,Female,México,Veracruz
+S_2451,18-21,Male,Samoa,Tafuna
+S_2452,22-26,Female,Philippines,Manila
+S_2453,22-26,Female,México,Veracruz
+S_2454,27-31,Male,USA,Washington
+S_2455,22-26,Female,Indonesia,Surakarta
+S_2456,22-26,Female,Malaysia,Kuala Lumpur
+S_2457,18-21,Female,Papua New Guinea,Hawaii
+S_2458,27-31,Male,Canada,Alberta
+S_2459,18-21,Male,United States,Utah
+S_2460,22-26,Male,Indonesia,Surakarta
+S_2461,22-26,Female,philippines,manila
+S_2462,22-26,Male,Indonesia,Seko
+S_2463,22-26,Female,Canada,Langley
+S_2464,18-21,Male,Mongolia,Ulaanbaatar
+S_2465,32-36,Female,USA,Newport
+S_2466,18-21,Female,Philippines,Alicia
+S_2467,22-26,Male,Taiwan,New Taipei City
+S_2468,22-26,Female,United States,Utah
+S_2469,37-42,Male,USA,Fort Worth Texas
+S_2470,18-21,Female,India,New Delhi
+S_2471,27-31,Male,New Zealand,Hastings
+S_2472,22-26,Male,Japan,Saitama
+S_2473,27-31,Female,USA,Herriman
+S_2474,18-21,Female,Fiji,Suva
+S_2475,32-36,Female,United States,Utah
+S_2476,22-26,Male,Taiwan,Taipei
+S_2477,18-21,Male,USA,Utah
+S_2478,18-21,Female,United States,Texas
+S_2479,27-31,Female,Philippines,Taguig City
+S_2480,27-31,Female,India,Delhi
+S_2481,22-26,Male,United States of America,"Logan, Utah"
+S_2482,27-31,Female,mongolia,ub
+S_2483,22-26,Female,United States,Wyoming
+S_2484,22-26,Female,Taiwan,Changhua
+S_2485,22-26,Female,Fiji,Lautoka
+S_2486,27-31,Female,USA,Colorado
+S_2487,22-26,Female,Philippines,Cavite
+S_2488,27-31,Female,Japan,Tokyo
+S_2489,22-26,Female,United States,"Eagle, Idaho"
+S_2490,27-31,Male,Philippines,Nueva Ecija
+S_2491,22-26,Male,United States,West Virginia
+S_2492,22-26,Male,United States,hawaii
+S_2493,43-49,Female,USA,California
+S_2494,18-21,Female,Philippines,Quezon City
+S_2495,22-26,Female,Philippines,Naga city
+S_2496,18-21,Female,USA,Newport
+S_2497,22-26,Male,Japan,"Kagawa prefecture, Kanonji city"
+S_2498,22-26,Male,United States,Utah
+S_2499,18-21,Female,Kiribati,Tarawa
+S_2500,27-31,Female,Mexico,Nuevo Leon
+S_2501,18-21,Female,Philippines,Iligan
+S_2502,22-26,Male,United States,Utah
+S_2503,22-26,Male,Philippines,Alicia
+S_2504,18-21,Female,Canada,Alberta
+S_2505,37-42,Male,United States,Oregon
+S_2506,32-36,Female,New Zealand,Hamilton
+S_2507,22-26,Female,Indonesia,Surabaya
+S_2508,22-26,Male,South Korea,Ulsan
+S_2509,22-26,Male,America,California
+S_2510,22-26,Female,Samoa,Aleisa
+S_2511,18-21,Male,USA,NorCal
+S_2512,22-26,Male,Indonesia,Jakarta
+S_2513,43-49,Female,Philippines,Hinunangan
+S_2514,27-31,Female,Tonga,Fo'ui
+S_2515,22-26,Male,United States,Utah
+S_2516,22-26,Female,United States,California
+S_2517,22-26,Female,Japan,Osaka
+S_2518,22-26,Male,Malaysia,Sarawak
+S_2519,22-26,Female,Kiribati,Tarawa
+S_2520,37-42,Female,USA,Hawaii
+S_2521,18-21,Female,New Zealand,Hastings
+S_2522,22-26,Female,United States,Utah
+S_2523,50-58,Female,United States,Oregon
+S_2524,59-64,Male,United states,newport
+S_2525,22-26,Female,Australia,Melbourne
+S_2526,18-21,Male,Sāmoa,Hawaii
+S_2527,18-21,Male,United States,Oregon
+S_2528,22-26,Female,Japan,Osaka
+S_2529,22-26,Female,Philippines,Baguio City
+S_2530,50-58,Female,New Zealand,Tūrangi
+S_2531,18-21,Female,Canada,Lethbridge
+S_2532,22-26,Female,United States,Texas
+S_2533,22-26,Female,Philippines,Laguna
+S_2534,27-31,Female,Japan,Saitama
+S_2535,22-26,Female,Tonga,Nuku'alofa
+S_2536,22-26,Male,Japan,Okinawa
+S_2537,43-49,Female,United States,Utah
+S_2538,50-58,Male,USA,Colorado
+S_2539,22-26,Male,United States,Utah
+S_2540,43-49,Male,Mexico,Veracruz
+S_2541,22-26,Male,USA,CA
+S_2542,18-21,Male,Philippine,Alicia
+S_2543,32-36,Male,United States,Arizona
+S_2544,22-26,Male,USA,California
+S_2545,22-26,Female,United States,Utah
+S_2546,22-26,Male,Canada,BC
+S_2547,22-26,Male,Taiwan,New Taipei City
+S_2548,18-21,Female,Philippines,Cebu
+S_2549,27-31,Female,United States,Utah
+S_2550,27-31,Female,United States of America,Colorado
+S_2551,22-26,Male,French Polynesia,Marquesas Islands
+S_2552,22-26,Female,Taiwan,Taichung City
+S_2553,27-31,Female,Philippines,Davao
+S_2554,27-31,Male,USA,Utah
+S_2555,22-26,Female,Philippines,Valenzuela
+S_2556,22-26,Male,Philippines,"Palawan, Puerto Prinsesa City"
+S_2557,22-26,Female,USA,California
+S_2558,18-21,Male,Japan,Okinawa
+S_2559,50-58,Male,United States of America,California
+S_2560,22-26,Male,United States,Utah
+S_2561,50-58,Male,Philippines,Naga Cith
+S_2562,18-21,Male,United States,Providence
+S_2563,22-26,Female,Papua New Guinea,Port Moresby
+S_2564,22-26,Female,United States,Utah
+S_2565,22-26,Female,Phiilippines,Mapandan
+S_2566,18-21,Male,Philippines,Naga Cith
+S_2567,22-26,Female,philippines,manila
+S_2568,22-26,Female,United States,Utah
+S_2569,22-26,Male,United States,Utah
+S_2570,18-21,Female,United States,Texas
+S_2571,22-26,Male,Philippines,Pasuquin
+S_2572,22-26,Male,USA,Georgia
+S_2573,18-21,Female,Philippines,Quezon City
+S_2574,22-26,Male,United States,West Virginia
+S_2575,18-21,Female,USA,California
+S_2576,37-42,Male,United States,Utah
+S_2577,22-26,Male,United States,Utah
+S_2578,22-26,Male,Japan,Fukoyoka
+S_2579,18-21,Female,USA,Texas
+S_2580,22-26,Male,United States,Utah
+S_2581,22-26,Female,USA,Florida
+S_2582,43-49,Female,Malaysia,Subang Jaya
+S_2583,22-26,Male,Japan,TOKYO
+S_2584,22-26,Male,USA,Hawaii
+S_2585,22-26,Female,China,Yunnan
+S_2586,22-26,Female,Indonesia,Seko
+S_2587,37-42,Female,Japan,Toride
+S_2588,22-26,Female,United States,Washington
+S_2589,18-21,Male,Indonesia,Malang
+S_2590,22-26,Female,Japan,Okinawa
+S_2591,18-21,Male,Philippines,Manila
+S_2592,50-58,Male,Philippines,Malaybalay
+S_2593,18-21,Female,United states,North Carolina
+S_2594,22-26,Male,Philippines,Hawaii
+S_2595,22-26,Female,Philippines,Manila
+S_2596,18-21,Male,Fiji,Suva
+S_2597,37-42,Male,United States,Pleasant Grove
+S_2598,27-31,Female,United States,"Logan, Utah"
+S_2599,18-21,Female,USA,Utah
+S_2600,22-26,Female,United States of America,"Logan, Utah"
+S_2601,18-21,Male,Philippines,Santiago City
+S_2602,22-26,Female,Philippines,Butuan
+S_2603,22-26,Female,Philippines,Pasig
+S_2604,22-26,Female,USA,Utah
+S_2605,22-26,Male,United States,Utah
+S_2606,27-31,Male,Fiji,Suva
+S_2607,18-21,Female,USA,Utah
+S_2608,22-26,Female,Philippines,Cebu City
+S_2609,22-26,Female,America,California
+S_2610,22-26,Female,United States,Idaho
+S_2611,18-21,Female,USA,California
+S_2612,22-26,Female,Japan,Japan
+S_2613,22-26,Female,United States of America,Georgia
+S_2614,22-26,Male,USA,"Bountiful, UT"
+S_2615,32-36,Female,U.S.A,Oakland
+S_2616,22-26,Female,China,Guangdong
+S_2617,32-36,Female,United States,Arizona
+S_2618,22-26,Male,US,"Hawaii, Laie"
+S_2619,22-26,Female,United States of America,Colorado
+S_2620,22-26,Female,Philippines,Marikina
+S_2621,18-21,Male,Philippines,Pangasinan
+S_2622,18-21,Female,Tonga,Nuku'alofa
+S_2623,32-36,Female,United States,Texas
+S_2624,22-26,Male,Fiji,Suva
+S_2625,22-26,Female,Philippines,Baguio City
+S_2626,43-49,Female,United States,"Ridgefield, WA"
+S_2627,37-42,Female,United States,"Kamas, UT"
+S_2628,37-42,Female,United States,"Atlanta, GA"
+S_2629,27-31,Male,Montana,Charlo Montana
+S_2630,18-21,Female,United States of America,Sacramento California
+S_2631,27-31,Male,Indonesia,Cikarang
+S_2632,18-21,Female,Indonesia,Jakarta
+S_2633,22-26,Female,United States,Nevada
+S_2634,22-26,Female,China,Tianjin
+S_2635,50-58,Male,USA,California
+S_2636,37-42,Female,Fiji,Suva
+S_2637,27-31,Male,Tonga,Nuku’alofa
+S_2638,22-26,Male,Mongolia,Ulaanbaatar
+S_2639,22-26,Female,United States,Utah
+S_2640,22-26,Female,US,Spokane Washington
+S_2641,22-26,Male,Philippines,Tacloban
+S_2642,22-26,Male,United States,California
+S_2643,43-49,Female,United States,Hawaii
+S_2644,22-26,Female,Mexico,Nuevo Leon
+S_2645,22-26,Male,USA,Hawaii
+S_2646,22-26,Female,Philippines,Surigao
+S_2647,22-26,Female,United States,Logan
+S_2648,32-36,Female,United States,Utah
+S_2649,27-31,Female,United States,"Salt Lake City, Utah"
+S_2650,22-26,Male,USA,LOGAN
+S_2651,22-26,Male,USA,Utah
+S_2652,22-26,Female,Philippines,Alicia
+S_2653,22-26,Male,United States of America,"Albany, Oregon"
+S_2654,43-49,Female,Fiji,Suva
+S_2655,18-21,Male,U.S,California
+S_2656,27-31,Male,US,Lincoln
+S_2657,18-21,Female,Usa,Spokane
+S_2658,22-26,Male,Indonesia,Bogor
+S_2659,18-21,Male,United States,Utah
+S_2660,22-26,Female,Philippines,Davao City
+S_2661,18-21,Female,United States,Oregon
+S_2662,22-26,Female,Kiribati,Tarawa
+S_2663,37-42,Female,Japan,Okinawa
+S_2664,27-31,Female,México,Veracruz
+S_2665,22-26,Female,United States,Utah
+S_2666,22-26,Female,United States,Utah
+S_2667,22-26,Female,United States,California
+S_2668,22-26,Female,United States,Utah
+S_2669,22-26,Male,Mongolia,Ulaanbaatar
+S_2670,18-21,Male,USA,San Francisco
+S_2671,22-26,Male,USA,las vegas
+S_2672,22-26,Female,USA,Colorado
+S_2673,18-21,Male,United States,"Logan, UT"
+S_2674,22-26,Male,Samoa,Apia
+S_2675,18-21,Female,Kiribati,Tarawa
+S_2676,18-21,Female,United States,Colorado
+S_2677,22-26,Male,philippines,manila
+S_2678,22-26,Female,Tahiti,French Polynesia
+S_2679,43-49,Female,Philippines,Pangasinan
+S_2680,22-26,Male,Kiribati,Tarawa
+S_2681,18-21,Male,Kiribati,Tarawa
+S_2682,22-26,Male,Japan,Nara
+S_2683,43-49,Female,USA,Utah
+S_2684,22-26,Male,Tonga,Tongatapu
+S_2685,22-26,Female,India,New Delhi
+S_2686,27-31,Male,Tonga,Nuku’alofa
+S_2687,22-26,Female,India,Delhi
+S_2688,18-21,Female,Canada,Alberta
+S_2689,18-21,Female,Japan,Tokyo
+S_2690,22-26,Male,USA,Florida
+S_2691,18-21,Female,Peru,Arequipa
+S_2692,59-64,Female,Usa,Utah
+S_2693,32-36,Male,United States,Utah
+S_2694,18-21,Male,United States of America,Utah
+S_2695,22-26,Male,mongolia,ulaanbaatar
+S_2696,37-42,Male,Philippines,Pangasinan
+S_2697,27-31,Female,USA,Virginia
+S_2698,43-49,Female,USA,Montana
+S_2699,27-31,Male,USA,California/Hawaii
+S_2700,22-26,Male,India,Hyderabad
+S_2701,22-26,Female,Japan,Sapporo
+S_2702,22-26,Female,USA,Arizona
+S_2703,18-21,Female,Usa,"Burley, Idaho"
+S_2704,18-21,Female,Indonesia,Jakarta
+S_2705,50-58,Male,papua new guinea,Hawaii
+S_2706,22-26,Male,United States,Provo Utah
+S_2707,22-26,Female,United States,Utah
+S_2708,27-31,Female,Indonesia,Surakarta
+S_2709,18-21,Female,Tahiti,French Polynesia
+S_2710,22-26,Female,USA,Idaho
+S_2711,32-36,Female,United States,Phoenix Arizona
+S_2712,22-26,Female,USA,Utah
+S_2713,18-21,Male,US,"Hawaii, Laie"
+S_2714,32-36,Female,Philippines,Baguio
+S_2715,18-21,Male,Fiji,Suva
+S_2716,32-36,Female,America,California
+S_2717,22-26,Male,papua new guinea,Hawaii
+S_2718,22-26,Male,USA,West Virginia
+S_2719,43-49,Female,United States,California
+S_2720,27-31,Male,Samoa,Fale Lili
+S_2721,22-26,Female,India,Delhi
+S_2722,22-26,Female,Mexico,Puebla
+S_2723,22-26,Female,Tahiti,Tahiti
+S_2724,50-58,Female,Thailand,Bangkok
+S_2725,18-21,Female,Indonesia,Jakarta
+S_2726,50-58,Male,United States,Colorado
+S_2727,22-26,Female,Philippines,Taguig
+S_2728,22-26,Male,Papua New Guinea,Papua New Guinea
+S_2729,18-21,Female,Philippines,Puerto Prinsesa Palawan
+S_2730,43-49,Male,US,Sacramento
+S_2731,22-26,Female,Japan,TOKYO
+S_2732,18-21,Male,Japan,Sendai
+S_2733,18-21,Female,US,Utah
+S_2734,22-26,Female,Philippines,Taguig
+S_2735,18-21,Female,USA,Minnesota
+S_2736,18-21,Female,Canada,Alberta
+S_2737,22-26,Female,United States,Utah
+S_2738,22-26,Female,USA,NY
+S_2739,22-26,Male,United States,Indiana
+S_2740,22-26,Female,USA,Hawaii
+S_2741,22-26,Male,Philippines,Santiago City
+S_2742,22-26,Male,Tonga,Nuku’alofa
+S_2743,18-21,Female,United States,Logan
+S_2744,22-26,Female,United States,Texas
+S_2745,27-31,Female,United States,"Glendale, California"
+S_2746,22-26,Male,United States,Utah
+S_2747,22-26,Female,Japan,Ibaraki
+S_2748,18-21,Male,Japan,Osaka
+S_2749,27-31,Female,USA,California
+S_2750,18-21,Female,USA,Florida
+S_2751,50-58,Male,Indonesia,Malang
+S_2752,18-21,Female,Philippines,Butuan
+S_2753,22-26,Female,USA,"Provo, Utah"
+S_2754,22-26,Female,Kiribati,Tarawa
+S_2755,18-21,Female,United States,Utah
+S_2756,22-26,Male,United States,Virginia
+S_2757,18-21,Male,Philippines,Tanauan
+S_2758,27-31,Female,Philippines,Pasig City
+S_2759,22-26,Female,Philippines,Bohol
+S_2760,22-26,Female,Philippines,Cagayan
+S_2761,27-31,Male,USA,Hawaii
+S_2762,18-21,Male,United States,Colorado
+S_2763,18-21,Female,sri lanka,colombo
+S_2764,22-26,Male,Kiribati,Hawaii
+S_2765,22-26,Female,Philippines,Makati
+S_2766,22-26,Male,Australia,Melbourne
+S_2767,27-31,Female,Philippines,Taguig
+S_2768,22-26,Female,Samoa,Apia Samoa
+S_2769,22-26,Male,USA,Arizona
+S_2770,32-36,Male,Japan,Miyagi
+S_2771,22-26,Female,Philippines,Banga
+S_2772,22-26,Female,Peru,Arequipa
+S_2773,43-49,Female,United States of America,Colorado
+S_2774,27-31,Female,United States,Utah
+S_2775,18-21,Male,United States,"Eagle, Idaho"
+S_2776,22-26,Female,Papua New Guinea,Papua New Guinea
+S_2777,18-21,Female,Indonesia,Jakarta
+S_2778,22-26,Male,Tonga,Haapai
+S_2779,22-26,Female,French Polynesia,Marquesas Islands
+S_2780,18-21,Female,United States,Montana
+S_2781,22-26,Female,mongolia,ulaanbaatar
+S_2782,27-31,Male,sri lanka,colombo
+S_2783,59-64,Female,united states of america,Texas
+S_2784,43-49,Male,United States,"Lehi, UT"
+S_2785,18-21,Female,Philippines,Tacloban
+S_2786,18-21,Female,America,Utah
+S_2787,27-31,Male,Mongolia,Ulaanbaatar
+S_2788,22-26,Female,Mexico,Veracruz
+S_2789,22-26,Female,United States,Utah
+S_2790,22-26,Male,US,Spokane Washington
+S_2791,27-31,Male,United States,Nevada
+S_2792,22-26,Female,Fiji,Suva
+S_2793,22-26,Male,philippines,manila
+S_2794,22-26,Male,United States,Washington
+S_2795,50-58,Female,United States,Oregon
+S_2796,18-21,Female,mongolia,ulaanbatar
+S_2797,22-26,Female,United States,Wyoming
+S_2798,22-26,Male,US,AZ
+S_2799,18-21,Female,USA,Hawaii
+S_2800,22-26,Female,Philippines,Davao City
+S_2801,22-26,Female,Peru,Arequipa
+S_2802,27-31,Male,Philippines,Tuguegarao City
+S_2803,22-26,Male,Philippines,Alaminos City
+S_2804,27-31,Female,USA,"Edison, New Jersey"
+S_2805,50-58,Male,Japan,Gifu (Prefecture)
+S_2806,18-21,Male,French Polynesia,Mataiea
+S_2807,22-26,Female,PHILIPPINES,Bulacan
+S_2808,22-26,Female,Philippines,Pangasinan
+S_2809,43-49,Male,United States,"Atlanta, GA"
+S_2810,22-26,Male,Philippines,Pasuquin
+S_2811,27-31,Female,United States of America,Utah
+S_2812,22-26,Male,Philippines,Pangasinan
+S_2813,27-31,Male,Tahiti,Mahina
+S_2814,18-21,Female,Philippines,Malasiqui
+S_2815,18-21,Female,United States,California
+S_2816,22-26,Female,United States,NC
+S_2817,22-26,Female,Samoa,Apia
+S_2818,18-21,Female,new zealand,auckland
+S_2819,27-31,Male,Japan,Okinawa
+S_2820,18-21,Female,United States,Hawaii
+S_2821,22-26,Female,United States of America,California
+S_2822,22-26,Female,Tahiti,Maraea
+S_2823,27-31,Female,United States,Laie Hawaii
+S_2824,22-26,Female,Philippines,Dagupan City
+S_2825,22-26,Female,United States,American Samoa
+S_2826,18-21,Female,Indonesia,Surakarta
+S_2827,18-21,Male,United States,Utah
+S_2828,18-21,Male,Philippines,Nueva Vizcaya
+S_2829,22-26,Female,United States,Colorado
+S_2830,27-31,Female,philippines,tuguegarao
+S_2831,18-21,Female,United States,Boise Idaho
+S_2832,22-26,Male,Tonga,Nuku'alofa
+S_2833,22-26,Female,New Zealand,Hastings
+S_2834,18-21,Female,United States,Oregon
+S_2835,22-26,Male,Philippines,Ilagan City
+S_2836,22-26,Female,United States,Texas
+S_2837,22-26,Male,US,HI
+S_2838,22-26,Male,Philippines,Pangasinan
+S_2839,22-26,Male,United States,Utah
+S_2840,50-58,Female,Mexico,Cedar Park
+S_2841,22-26,Female,United States of America,Utah
+S_2842,27-31,Female,America,Las Vegas
+S_2843,18-21,Female,United States,"Eden, UT"
+S_2844,27-31,Female,Kiribati,Tarawa
+S_2845,27-31,Female,USA,Montana
+S_2846,22-26,Male,USA,Oklahoma
+S_2847,18-21,Female,China,JiangXi
+S_2848,50-58,Male,United States,Missouri
+S_2849,22-26,Female,México,Veracruz
+S_2850,18-21,Female,Japan,Okinawa
+S_2851,27-31,Male,Philippines,Quezon
+S_2852,22-26,Female,Philippines,Hawaii
+S_2853,22-26,Female,USA,Florida
+S_2854,22-26,Female,Kiribati,Kiritimati Island
+S_2855,27-31,Male,United States of America,Oregon
+S_2856,22-26,Female,United States,Laie Hawaii
+S_2857,22-26,Male,Japan,Okinawa
+S_2858,22-26,Male,Malaysia,Penang
+S_2859,27-31,Male,USA,Virginia
+S_2860,27-31,Male,Tahiti,Tahiti
+S_2861,27-31,Male,Usa,Phoenix AZ
+S_2862,18-21,Female,Philippines,Gensan City
+S_2863,22-26,Female,Mexico,Puebla
+S_2864,18-21,Female,Tonga,Haapai
+S_2865,22-26,Female,Indonesia,Bogor
+S_2866,22-26,Female,United States,Washington
+S_2867,22-26,Male,Canada,BC
+S_2868,22-26,Female,United States,"Wichita Falls, Texas"
+S_2869,27-31,Female,United States,Colorado
+S_2870,18-21,Female,United States,Newport
+S_2871,27-31,Female,Fiji,Suva
+S_2872,22-26,Female,United States of America,"Salt Lake City, Utah"
+S_2873,37-42,Female,America,Oregon
+S_2874,18-21,Male,United states,Laie
+S_2875,22-26,Male,US,Sacramento
+S_2876,22-26,Male,Philippines,Alaminos City
+S_2877,22-26,Female,Argentina,San Martín de los Andes
+S_2878,27-31,Female,USA,Oregon
+S_2879,22-26,Female,USA,Hawaii
+S_2880,22-26,Male,Kiribati,Tarawa
+S_2881,22-26,Male,U.S,California
+S_2882,22-26,Male,USA,Montana
+S_2883,22-26,Male,United States,Leesburg
+S_2884,27-31,Female,Japan,Sapporo
+S_2885,18-21,Female,mexico,monterrey
+S_2886,22-26,Female,United States,Texas
+S_2887,22-26,Male,Japan,Okinawa
+S_2888,27-31,Female,Taiwan,New Taipei City
+S_2889,22-26,Female,China,Chengdu
+S_2890,27-31,Female,United States,Utah
+S_2891,22-26,Female,Tahiti,Maraea
+S_2892,22-26,Female,New Zealand,Auckland
+S_2893,18-21,Male,Philippines,Davao City
+S_2894,22-26,Female,Philippines,Tagum
+S_2895,22-26,Male,México,Veracruz
+S_2896,22-26,Male,United States,Utah
+S_2897,22-26,Female,USA,Hawaii
+S_2898,22-26,Female,Canada,Calgary
+S_2899,22-26,Female,Philippines,SURIGAO CITY
+S_2900,22-26,Male,Canada,Pincher Creek
+S_2901,18-21,Male,USA,Guam
+S_2902,22-26,Female,Kiribati,Tarawa
+S_2903,18-21,Male,Sāmoa,Hawaii
+S_2904,50-58,Male,USA,Florida
+S_2905,22-26,Male,Unknown,India
+S_2906,27-31,Male,Indonesia,Jakarta
+S_2907,43-49,Male,Kiribati,Butaritari
+S_2908,22-26,Male,USA,Idaho
+S_2909,27-31,Male,United States,"Logan, UT"
+S_2910,27-31,Female,Korea,Seoul
+S_2911,27-31,Female,Philippines,Tacloban
+S_2912,22-26,Female,USA,San Francisco
+S_2913,27-31,Female,USA,Hawaii
+S_2914,43-49,Female,Samoa,Fale Lili
+S_2915,22-26,Male,USA,CT
+S_2916,22-26,Male,Philippines,Pangasinan
+S_2917,50-58,Male,Tonga,Nuku'alofa
+S_2918,22-26,Male,México,Veracruz
+S_2919,22-26,Female,United States,hawaii
+S_2920,50-58,Female,America,Texas
+S_2921,18-21,Male,Philippines,Laguna
+S_2922,22-26,Male,United States,Utah
+S_2923,18-21,Female,Australia,Queensland
+S_2924,22-26,Male,USA,California/Hawaii
+S_2925,22-26,Male,Unite States,"Springville, UT"
+S_2926,18-21,Male,Philippines,DAGUPAN
+S_2927,66-70,Female,United States,Martinsburg
+S_2928,22-26,Female,United States,Utah
+S_2929,22-26,Male,Philippines,Baguio City
+S_2930,22-26,Male,India,Delhi
+S_2931,22-26,Male,Tahiti,Faa'a
+S_2932,18-21,Male,China,Yunnan
+S_2933,22-26,Female,Philippines,Manila
+S_2934,18-21,Female,Philippines,Davao City
+S_2935,22-26,Male,USA,Oregon
+S_2936,22-26,Female,Kiribati,Tarawa
+S_2937,22-26,Female,United States,"Boise, Idaho"
+S_2938,22-26,Female,Philippines,Cavite
+S_2939,22-26,Female,United States,Missouri
+S_2940,18-21,Male,United States,Las Vegas
+S_2941,27-31,Female,USA,"Sandy, Utah"
+S_2942,27-31,Male,New Zealand,Paihia
+S_2943,22-26,Female,USA,"Anchorage, AK"
+S_2944,22-26,Male,USA,Utah
+S_2945,27-31,Female,USA,Spokane
+S_2946,18-21,Female,Hawaii,Oahu
+S_2947,22-26,Male,Philippines,Cabatuan
+S_2948,50-58,Female,Kiribati,Tarawa
+S_2949,22-26,Female,Philippines,Unknown
+S_2950,22-26,Male,Kiribati,Kiritimati Island
+S_2951,50-58,Female,United States,Utah
+S_2952,18-21,Female,Japan,Tokyo
+S_2953,27-31,Male,Tonga,Tongatapu
+S_2954,22-26,Female,Tonga,Nuku'alofa
+S_2955,50-58,Male,USA,Hawaii
+S_2956,27-31,Male,Kiribati,Tarawa
+S_2957,22-26,Male,Samoa,Apia
+S_2958,37-42,Female,Kiribati,Tarawa
+S_2959,18-21,Male,Papua New Guinea,"Port Moresby, Papua New Guinea"
+S_2960,22-26,Male,Mexico,Puebla
+S_2961,22-26,Male,USA,Montana
+S_2962,22-26,Male,Phiilippines,Mapandan
+S_2963,50-58,Female,USA,CT
+S_2964,32-36,Female,United States,California
+S_2965,27-31,Female,United States,Washington
+S_2966,22-26,Female,US,Sacramento
+S_2967,22-26,Female,United States,Washington
+S_2968,37-42,Female,Weisheng,Kuala Lumpur
+S_2969,27-31,Female,New Zealand,Haruru
+S_2970,22-26,Male,United States,Utah
+S_2971,50-58,Female,Weisheng,Kuala Lumpur
+S_2972,37-42,Female,USA,Utah
+S_2973,50-58,Female,Hong Kong,Hong Kong
+S_2974,22-26,Female,USA,Palo alto
+S_2975,37-42,Male,Philippines,Philippines
+S_2976,18-21,Female,Philippines,Allen
+S_2977,50-58,Female,Tonga,Tongatapu
+S_2978,18-21,Female,Usa,Ohio
+S_2979,27-31,Female,United States,"Alpine, UT"
+S_2980,22-26,Female,United States,Washington
+S_2981,32-36,Female,New Zealand,Northland
+S_2982,59-64,Female,USA,Hawaii
+S_2983,22-26,Female,Philippines,Pasuquin
+S_2984,27-31,Female,New Zealand,Auckland
+S_2985,27-31,Male,Unite States,"Springville, UT"
+S_2986,22-26,Male,China,Guangdong
+S_2987,22-26,Female,USA,NorCal
+S_2988,22-26,Male,Philippines,Tuguegarao City
+S_2989,22-26,Female,Usa,Bountiful Utah
+S_2990,22-26,Female,United States,Montana
+S_2991,22-26,Female,Japan,Japan
+S_2992,18-21,Female,USA,Arizona
+S_2993,27-31,Male,Philippines,Valenzuela
+S_2994,22-26,Male,Tonga,Haapai
+S_2995,37-42,Female,Philippines,Tanauan
+S_2996,43-49,Female,Samoa,Fale Lili
+S_2997,22-26,Male,Philippines,Alicia
+S_2998,27-31,Male,Usa,Arizona
+S_2999,18-21,Male,U.S.,Utah
+S_3000,22-26,Female,america,michigan
+S_3001,66-70,Male,India,Delhi
+S_3002,18-21,Male,Malaysia,Kuala Lumpur
+S_3003,27-31,Female,United States,Arizona
+S_3004,22-26,Male,United States,Bountiful
+S_3005,27-31,Male,United States,"Anthem, AZ"
+S_3006,18-21,Female,US,Lincoln
+S_3007,50-58,Female,China,China
+S_3008,18-21,Female,Peru,Arequipa
+S_3009,18-21,Male,Indonesia,Jakarta
+S_3010,22-26,Female,United States of America,"Draper, Utah"
+S_3011,27-31,Female,US,West Virginia
+S_3012,22-26,Female,Philippines,Santa Barbara
+S_3013,18-21,Female,Japan,Saitama
+S_3014,50-58,Female,America,California
+S_3015,22-26,Female,Philippines,Davao City
+S_3016,22-26,Female,United States,Utah
+S_3017,18-21,Female,Philippines,Surigao City
+S_3018,22-26,Female,Philippines,Naga
+S_3019,50-58,Female,USA,Utah
+S_3020,22-26,Female,Philippines,Unknown
+S_3021,22-26,Male,Canada,Pincher Creek
+S_3022,18-21,Female,Fiji,Menlo Park
+S_3023,50-58,Female,Indonesia,Cikarang
+S_3024,27-31,Female,United States,"Magna, utah"
+S_3025,43-49,Female,Philippines,Quezon City
+S_3026,22-26,Male,New Zealand,Hamilton
+S_3027,22-26,Female,USA,California
+S_3028,22-26,Female,USA,"Las Vegas, NV"
+S_3029,22-26,Female,Philippines,Butuan
+S_3030,22-26,Female,United States,Utah
+S_3031,22-26,Female,Philippines,Philippines
+S_3032,22-26,Female,United States,Utah
+S_3033,22-26,Male,New Zealand,Hawkes Bay
+S_3034,18-21,Female,Tahiti,French Polynesia
+S_3035,22-26,Female,Tonga,Tongatapu
+S_3036,22-26,Female,Tonga,Fo'ui
+S_3037,22-26,Male,Philippines,Taguig
+S_3038,22-26,Male,USA,California
+S_3039,27-31,Male,America,Idaho
+S_3040,27-31,Male,Tonga,Nuku'alofa
+S_3041,18-21,Female,United States,Iowa
+S_3042,22-26,Female,United States,Utah
+S_3043,22-26,Female,Tarawa,Kiribati
+S_3044,22-26,Female,USA,Oregon
+S_3045,22-26,Female,South Korea,Ulsan
+S_3046,18-21,Male,US,HI
+S_3047,22-26,Female,Philippines,Cavite
+S_3048,43-49,Male,United States,Hawaii
+S_3049,27-31,Male,USA,Washington
+S_3050,18-21,Female,Philippines,Cabanatuan
+S_3051,43-49,Female,United States,Idaho
+S_3052,22-26,Male,Philippines,Legazpi
+S_3053,22-26,Female,Tonga,Vava’u
+S_3054,18-21,Male,Australia,Gold Coast
+S_3055,22-26,Male,United States,"Alpine, UT"
+S_3056,22-26,Male,United States,Utah
+S_3057,22-26,Female,USA,Arizona
+S_3058,50-58,Female,United States of America,"Puna, Hawaiʻi"
+S_3059,22-26,Male,United States of America,Oregon
+S_3060,50-58,Male,Philippines,Pasig City
+S_3061,22-26,Female,Philippines,Pasig City
+S_3062,22-26,Female,USA,Idaho
+S_3063,66-70,Female,Kiribati,Tarawa
+S_3064,27-31,Male,Hawaii,Oahu
+S_3065,18-21,Male,Philippines,Isabela
+S_3066,18-21,Male,Japan,Osaka
+S_3067,22-26,Female,USA,Utah
+S_3068,27-31,Female,United States,Texas
+S_3069,22-26,Female,United States,New Mexico
+S_3070,18-21,Male,USA,Oregon
+S_3071,22-26,Female,USA,West Virginia
+S_3072,22-26,Female,USA,Oregon
+S_3073,22-26,Male,United States,California
+S_3074,22-26,Male,usa,colorado
+S_3075,18-21,Female,Philippines,Puerto Prinsesa Palawan
+S_3076,22-26,Female,United States,Colorado
+S_3077,22-26,Female,United States,"Boise, Idaho"
+S_3078,50-58,Male,Indonesia,Jakarta
+S_3079,18-21,Female,Usa,Phoenix AZ
+S_3080,18-21,Female,United States,Hawaii
+S_3081,22-26,Female,USA,Idaho
+S_3082,22-26,Female,United States,"Mesa, AZ"
+S_3083,50-58,Female,Philippines,Laguna
+S_3084,22-26,Male,Kiribati,Tarawa
+S_3085,22-26,Male,Indonesia,Surakarta
+S_3086,27-31,Male,Unknown,India
+S_3087,22-26,Male,United States of America,Colorado
+S_3088,18-21,Male,Philippines,Laguna
+S_3089,22-26,Male,Korea,Seoul
+S_3090,22-26,Female,México,Veracruz
+S_3091,22-26,Female,United States,San Diego
+S_3092,18-21,Female,Mongolia,Ulaanbaatar
+S_3093,27-31,Male,United States,Utah
+S_3094,22-26,Female,United States of America,Colorado
+S_3095,32-36,Male,United States,Texas
+S_3096,22-26,Female,Kiribati,Tarawa
+S_3097,22-26,Male,USA,Texas
+S_3098,22-26,Male,United states,Hawaii
+S_3099,22-26,Male,Philippines,Puerto Prinsesa Palawan
+S_3100,22-26,Male,United States,"Logan, Utah"
+S_3101,27-31,Female,America,California
+S_3102,18-21,Male,United States,Loganville
+S_3103,18-21,Female,United States,Texas
+S_3104,22-26,Male,Kiribati,Tarawa
+S_3105,22-26,Female,Philippines,Pasig City
+S_3106,22-26,Female,United States,Florida
+S_3107,27-31,Female,Usa,Phoenix AZ
+S_3108,27-31,Female,Philippines,Pasuquin
+S_3109,27-31,Male,Kiribati,Tarawa
+S_3110,22-26,Female,Australia,Queensland
+S_3111,27-31,Male,Montana,Charlo Montana
+S_3112,22-26,Female,United States,Utah
+S_3113,22-26,Female,Kiribati,Tarawa
+S_3114,27-31,Male,México,Veracruz
+S_3115,27-31,Male,United States,Leesburg
+S_3116,50-58,Male,United States,Idaho
+S_3117,18-21,Male,Philippines,Pangasinan
+S_3118,22-26,Female,United States,Virginia
+S_3119,22-26,Female,United States,Valencia
+S_3120,18-21,Female,India,Hyderabad
+S_3121,27-31,Female,Papua New Guinea,Papua New Guinea
+S_3122,22-26,Male,Canada,Alberta
+S_3123,22-26,Male,Samoa,Fale Lili
+S_3124,43-49,Male,India,New Delhi
+S_3125,27-31,Male,United States,Washington
+S_3126,22-26,Female,United States of America,Utah
+S_3127,22-26,Female,Kiribati,Tarawa
+S_3128,18-21,Female,USA,"Atlanta, Ga"
+S_3129,18-21,Female,Usa,Washington
+S_3130,43-49,Male,USA,Fort Worth Texas
+S_3131,18-21,Male,United States,Boise Idaho
+S_3132,22-26,Female,Philippines,Tagum
+S_3133,43-49,Male,Kiribati,Tarawa
+S_3134,18-21,Female,Kiribati,Tarawa
+S_3135,22-26,Male,United States,Provo Utah
+S_3136,22-26,Male,United States,New Mexico
+S_3137,59-64,Female,Usa,"Burley, Idaho"
+S_3138,22-26,Male,USA,Washington
+S_3139,18-21,Female,USA,"Las Vegas, NV"
+S_3140,50-58,Female,USA,"Hauula, Hawaii"
+S_3141,22-26,Male,America,California
+S_3142,22-26,Female,United States,Leesburg
+S_3143,22-26,Female,Usa,Hawaii
+S_3144,22-26,Male,United States of America,Minnesota
+S_3145,22-26,Female,USA,"Hauula, Hawaii"
+S_3146,18-21,Female,Us,Hawaii
+S_3147,22-26,Female,United States,Utah
+S_3148,43-49,Female,United States,Arizona
+S_3149,50-58,Male,Philippines,Manila
+S_3150,22-26,Female,Indonesia,Surakarta
+S_3151,22-26,Female,Papua New Guinea,Hawaii
+S_3152,18-21,Female,US,Utah
+S_3153,18-21,Female,Mongolia,Ulaanbaatar
+S_3154,18-21,Male,Philippines,Malaybalay
+S_3155,50-58,Female,Kiribati,Tarawa
+S_3156,18-21,Female,Phiilippines,Mapandan
+S_3157,37-42,Female,Mongolia,Ulaanbaatar
+S_3158,27-31,Female,United States,Utah
+S_3159,18-21,Male,Philippines,Philippines
+S_3160,27-31,Female,Canada,Langley
+S_3161,22-26,Female,India,New Delhi
+S_3162,22-26,Male,Philippines,Bohol
+S_3163,22-26,Male,Japan,Toride
+S_3164,22-26,Female,USA,Utah
+S_3165,27-31,Male,America,Utah
+S_3166,59-64,Male,United States,Sacramento
+S_3167,43-49,Male,United States,Hawaii
+S_3168,18-21,Male,Hong Kong,Hong Kong
+S_3169,27-31,Female,Usa,Nashville
+S_3170,22-26,Female,United State,Utah
+S_3171,18-21,Female,United States,Hawaii
+S_3172,22-26,Male,Philippines,Tuguegarao
+S_3173,22-26,Male,Tonga,Holonga
+S_3174,22-26,Female,French Polynesia,Mataiea
+S_3175,27-31,Female,Usa,Hawaii
+S_3176,18-21,Female,United States,Utah
+S_3177,43-49,Female,United States of America,"Albany, Oregon"
+S_3178,22-26,Male,United States of America,California
+S_3179,22-26,Male,Unknown,Unknown
+S_3180,27-31,Female,USA,Hawaii
+S_3181,22-26,Female,Philippines,Rizal
+S_3182,27-31,Male,USA,Palo alto
+S_3183,22-26,Male,Philippines,"Naga City, Camarines Sur"
+S_3184,18-21,Male,USA,"Bountiful, UT"
+S_3185,18-21,Female,Tahiti,Faa'a
+S_3186,22-26,Female,USA,Utah
+S_3187,22-26,Female,Philippines,Antipolo City
+S_3188,22-26,Female,Kiribati,Tarawa
+S_3189,22-26,Female,Philippines,Hinunangan
+S_3190,22-26,Female,Philippines,Legazpi
+S_3191,27-31,Female,United States,"Tooele, UT"
+S_3192,22-26,Male,US,"Hawaii, Laie"
+S_3193,22-26,Female,Philippines,Quezon City
+S_3194,22-26,Female,Kiribati,South-Tarawa
+S_3195,22-26,Male,Monterrey,Mexico
+S_3196,18-21,Female,United States,Utah
+S_3197,18-21,Male,Indonesia,Bogor
+S_3198,22-26,Male,India,New Delhi
+S_3199,37-42,Female,PHILIPPINES,Bulacan
+S_3200,22-26,Male,French Polynesia,Marquesas Islands
+S_3201,22-26,Female,united states of america,Texas
+S_3202,22-26,Male,Philippines,Alicia
+S_3203,59-64,Female,Fiji,Suva
+S_3204,18-21,Male,Kiribati,Kiritimati Island
+S_3205,37-42,Female,Philippines,Cebu
+S_3206,43-49,Female,United States,"Alpine, UT"
+S_3207,22-26,Female,USA,Colorado
+S_3208,50-58,Male,Australia,Queensland
+S_3209,32-36,Male,Pakistan,Punjab
+S_3210,18-21,Male,Kiribati,Tarawa
+S_3211,22-26,Male,Philippines,Pasuquin
+S_3212,22-26,Male,PNG,Port Moresby
+S_3213,22-26,Male,United States,"Salt Lake City, Utah"
+S_3214,18-21,Male,United States,Las Vegas
+S_3215,22-26,Female,United States,Utah
+S_3216,37-42,Male,Fiji,Suva
+S_3217,22-26,Female,Korea,Seoul
+S_3218,18-21,Male,United States,Washington
+S_3219,22-26,Female,Tonga,Nuku'alofa
+S_3220,22-26,Female,Indonesia,Cikarang
+S_3221,18-21,Male,USA,Utah
+S_3222,18-21,Male,Philippines,DAGUPAN
+S_3223,27-31,Female,Japan,Tokyo
+S_3224,27-31,Female,Philippines,Tuguegarao
+S_3225,59-64,Female,Kiribati,Tarawa
+S_3226,22-26,Male,México,Veracruz
+S_3227,32-36,Female,Philippines,Cavite
+S_3228,50-58,Female,United States,California
+S_3229,22-26,Male,Philippines,Caloocan city
+S_3230,22-26,Male,Philippines,Tacloban
+S_3231,18-21,Male,United States,Idaho
+S_3232,18-21,Female,USA,Pennsylvania
+S_3233,22-26,Female,Philippines,Davao City
+S_3234,37-42,Female,Japan,Tokyo
+S_3235,18-21,Male,Philippines,Caloocan city
+S_3236,27-31,Female,Us,Utah
+S_3237,22-26,Male,America,California
+S_3238,22-26,Male,USA,Hawaii
+S_3239,18-21,Female,Philippines,Alicia
+S_3240,18-21,Female,United States,Utah
+S_3241,43-49,Male,Philippines,Dagupan
+S_3242,22-26,Male,Tonga,Nuku'alofa
+S_3243,18-21,Female,Canada,British Columbia
+S_3244,22-26,Female,USA,Idaho
+S_3245,22-26,Female,Philippines,Pampanga
+S_3246,22-26,Female,French Polynesia,Mataiea
+S_3247,22-26,Female,Philippines,Philippines
+S_3248,18-21,Male,Samoa,Apia
+S_3249,18-21,Female,USA,Washington
+S_3250,18-21,Female,USA,Arizona
+S_3251,18-21,Female,United States,Missouri
+S_3252,22-26,Female,Japan,Tokyo
+S_3253,22-26,Female,United State,California
+S_3254,18-21,Female,United States,Utah
+S_3255,22-26,Female,Fiji,Suva
+S_3256,22-26,Female,Philippines,Dagupan
+S_3257,50-58,Female,Canada,Lethbridge
+S_3258,18-21,Female,United States,Montana
+S_3259,18-21,Female,United States,"Kamas, Utah."
+S_3260,18-21,Male,United States,Leesburg
+S_3261,18-21,Male,Philippines,Davao
+S_3262,18-21,Male,Philippines,Southern Leyte
+S_3263,27-31,Female,United States,"Salt Lake City, Utah"
+S_3264,18-21,Female,USA,Utah
+S_3265,22-26,Female,United States,"Lehi, UT"
+S_3266,43-49,Female,Tonga,Nuku’alofa
+S_3267,22-26,Male,new zealand,auckland
+S_3268,22-26,Female,US,Lincoln
+S_3269,27-31,Male,Usa,Louisiana
+S_3270,22-26,Female,United States,California
+S_3271,18-21,Male,South Korea,Gwangju
+S_3272,22-26,Female,united states,airway heights
+S_3273,22-26,Male,Mongolia,Ulaanbaatar
+S_3274,22-26,Female,United States,Indiana
+S_3275,18-21,Male,Usa,Phoenix AZ
+S_3276,18-21,Female,United States,Martinsburg
+S_3277,32-36,Male,United States,Bountiful
+S_3278,50-58,Male,United States,Washington
+S_3279,22-26,Female,Sāmoa,Hawaii
+S_3280,18-21,Female,United States,Arizona
+S_3281,22-26,Male,Tonga,Fo'ui
+S_3282,27-31,Female,Philippines,Bacolod City
+S_3283,18-21,Female,USA,Utah
+S_3284,18-21,Female,Philippines,Alicia
+S_3285,22-26,Female,usa,Utah
+S_3286,22-26,Female,USA,California
+S_3287,18-21,Female,United States,Sacramento
+S_3288,18-21,Male,Canada,British Columbia
+S_3289,22-26,Female,Kiribati,Tarawa
+S_3290,22-26,Female,mexico,monterrey
+S_3291,22-26,Female,India,New Delhi
+S_3292,32-36,Female,Fiji,Suva
+S_3293,27-31,Female,United States,Hawaii
+S_3294,22-26,Female,Wisconsin,Ladysmith
+S_3295,22-26,Male,Philippines,Cavite city
+S_3296,22-26,Male,Philippines,Cebu
+S_3297,32-36,Female,Ghana,Accra
+S_3298,27-31,Female,United States,"Wichita Falls, Texas"
+S_3299,27-31,Male,USA,Utah
+S_3300,22-26,Female,Malaysia,Kuala Lumpur
+S_3301,27-31,Female,United States,Maryland
+S_3302,27-31,Female,United States,Utah
+S_3303,18-21,Female,United States,Oregon
+S_3304,59-64,Female,Kiribati,Tarawa
+S_3305,22-26,Male,United States,Utah
+S_3306,18-21,Female,USA,Oklahoma
+S_3307,22-26,Female,United States,New Mexico
+S_3308,27-31,Female,Kiribati,Tarawa
+S_3309,22-26,Male,Philippines,Pasig City
+S_3310,22-26,Female,United States,Colorado
+S_3311,27-31,Female,Philippines,Nueva Vizcaya
+S_3312,59-64,Female,United States,Utah
+S_3313,27-31,Female,Mexico,Veracruz
+S_3314,22-26,Male,United States,Newport
+S_3315,22-26,Female,Fiji,Lautoka
+S_3316,22-26,Female,PHILIPPINES,Hawaii
+S_3317,27-31,Male,Vietnam,Dong Xoai
+S_3318,22-26,Female,Philippines,General Santos City
+S_3319,22-26,Female,Philippines,Davao City
+S_3320,22-26,Female,Kiribati,Tarawa
+S_3321,27-31,Male,mongolia,ulaanbaatar
+S_3322,22-26,Female,Unite States,"Springville, UT"
+S_3323,32-36,Male,Tonga,Hateo
+S_3324,22-26,Female,United States,Phoenix Arizona
+S_3325,22-26,Female,United States,Bountiful
+S_3326,18-21,Female,Tahiti,Tahiti
+S_3327,22-26,Male,United States,Utah
+S_3328,32-36,Female,United States of America,"Albany, Oregon"
+S_3329,18-21,Female,Philippines,Manila
+S_3330,18-21,Male,USA,Palo alto
+S_3331,43-49,Female,Malaysia,Subang Jaya
+S_3332,18-21,Female,Tonga,Hateo
+S_3333,22-26,Male,Tonga,Nuku'alofa
+S_3334,22-26,Female,USA,Utah
+S_3335,22-26,Female,United States,"Ridgefield, WA"
+S_3336,37-42,Female,Indonesia,Jakarta
+S_3337,59-64,Female,Philippines,Bacolod
+S_3338,22-26,Female,United States,Utah
+S_3339,22-26,Male,United States,"Kamas, UT"
+S_3340,18-21,Female,Mongolia,Ulaanbaatar
+S_3341,22-26,Female,Kiribati,Tarawa
+S_3342,22-26,Male,Papua New Guinea,Port Moresby
+S_3343,22-26,Female,USA,Hawaii
+S_3344,22-26,Male,PNG,PORT MORESBY
+S_3345,22-26,Male,Usa,Utah
+S_3346,27-31,Female,México,Veracruz
+S_3347,27-31,Female,Mongolia,Ulaanbaatar
+S_3348,27-31,Male,USA,Utah
+S_3349,22-26,Male,United States,Utah
+S_3350,22-26,Female,USA,Hawaii
+S_3351,22-26,Male,USA,Texas
+S_3352,22-26,Female,sri lanka,colombo
+S_3353,22-26,Male,America,Idaho
+S_3354,22-26,Female,Philippines,Ballesteros
+S_3355,18-21,Female,USA,Utah
+S_3356,18-21,Female,United States,Utah
+S_3357,22-26,Male,new zealand,auckland
+S_3358,22-26,Male,United States of America,Colorado
+S_3359,22-26,Male,USA,Washington
+S_3360,27-31,Male,Tonga,Nuku'alofa
+S_3361,18-21,Female,america,michigan
+S_3362,22-26,Male,United States,Utah
+S_3363,22-26,Male,United States,Salt Lake City
+S_3364,22-26,Male,United States,Arizona
+S_3365,22-26,Female,United States,West Virginia
+S_3366,43-49,Male,Canada,BC
+S_3367,50-58,Male,USA,Hawaii
+S_3368,22-26,Female,Pakistan,Punjab
+S_3369,22-26,Female,United States,Idaho
+S_3370,22-26,Male,USA,Oregon
+S_3371,22-26,Male,America,Utah
+S_3372,27-31,Female,India,New Delhi
+S_3373,22-26,Male,United States,Utah
+S_3374,43-49,Male,Philippines,"Balanga City, Bataan"
+S_3375,18-21,Male,Kiribati,Tarawa
+S_3376,22-26,Male,United States,"Kamas, UT"
+S_3377,22-26,Female,USA,Oklahoma
+S_3378,22-26,Female,USA,Wisconsin
+S_3379,22-26,Male,Philippines,Santiago City
+S_3380,18-21,Female,Philippines,Taguig
+S_3381,22-26,Female,Philippines,Naga
+S_3382,32-36,Male,South Korea,Gwangju
+S_3383,22-26,Female,United States of America,"Draper, Utah"
+S_3384,22-26,Male,Philippines,Pangsinan
+S_3385,22-26,Female,United States,Utah
+S_3386,22-26,Female,United States,"Mesa, AZ"
+S_3387,22-26,Female,México,Tamaulipas
+S_3388,50-58,Female,Philippines,Alicia
+S_3389,22-26,Male,Philippines,Laguna
+S_3390,43-49,Female,Samoa,Apia
+S_3391,18-21,Female,Philippines,Cebu
+S_3392,59-64,Female,United States,"Logan, Utah"
+S_3393,32-36,Male,Philippines,Pangasinan
+S_3394,22-26,Male,Philippines,Cabanatuan
+S_3395,71-77,Male,Mongolia,Ulaanbaatar
+S_3396,22-26,Female,usa,colorado
+S_3397,18-21,Male,Philippines,Taguig City
+S_3398,22-26,Female,United states,Hawaii
+S_3399,43-49,Female,USA,California
+S_3400,22-26,Male,US,AZ
+S_3401,50-58,Male,Malaysia,Kuala Lumpur
+S_3402,22-26,Female,U.S.,Utah
+S_3403,22-26,Female,Philippines,Cavite city
+S_3404,18-21,Female,USA,Herriman
+S_3405,18-21,Female,Mongolia,Ulaanbaatar
+S_3406,22-26,Male,Philippines,"Naga City, Camarines Sur"
+S_3407,18-21,Male,United States,Utah
+S_3408,18-21,Female,usa,colorado
+S_3409,27-31,Female,America,Las Vegas
+S_3410,22-26,Male,Philippines,Santiago City
+S_3411,32-36,Male,USA,California
+S_3412,22-26,Male,USA,Montana
+S_3413,18-21,Female,Kiribati,Tarawa
+S_3414,22-26,Female,Philippines,Nueva Ecija
+S_3415,22-26,Male,USA,Utah
+S_3416,22-26,Female,China,Tianjin
+S_3417,66-70,Female,Philippines,Pangasinan
+S_3418,18-21,Female,United States,Arizona
+S_3419,22-26,Male,Thailand,Nonthaburi
+S_3420,22-26,Female,Tonga,Nuku'alofa
+S_3421,18-21,Male,United States,"Atlanta, GA"
+S_3422,22-26,Male,Indonesia,Surakarta
+S_3423,27-31,Female,United States,"Boise, Idaho"
+S_3424,66-70,Male,China,Yunnan
+S_3425,18-21,Female,Canada,Lethbridge
+S_3426,37-42,Female,Malaysia,Kuala Lumpur
+S_3427,22-26,Female,Kiribati,Tarawa
+S_3428,18-21,Male,United States,Utah
+S_3429,22-26,Female,United States,Bluffdale Utah
+S_3430,22-26,Female,United States,"Lehi, UT"
+S_3431,27-31,Male,United States,Boise
+S_3432,37-42,Female,United States,Florida
+S_3433,22-26,Male,US,Utah
+S_3434,71-77,Male,USA,California/Hawaii
+S_3435,22-26,Male,tahiti,papeete
+S_3436,22-26,Female,Tahiti,Papeete
+S_3437,18-21,Female,Kiribati,Tarawa
+S_3438,22-26,Female,US,Utah
+S_3439,22-26,Female,Kiribati,Betio
+S_3440,22-26,Male,United States,Oregon
+S_3441,22-26,Female,Tahiti,Papeete
+S_3442,22-26,Female,French Polynesia,Marquesas Islands
+S_3443,22-26,Male,United States,Wyoming
+S_3444,22-26,Female,USA,Colorado
+S_3445,22-26,Male,United States,Utah
+S_3446,22-26,Male,Philippines,Bacolod
+S_3447,22-26,Female,United States,San Diego
+S_3448,22-26,Female,Papua New Guinea,Papua New Guinea
+S_3449,22-26,Female,United States,Texas
+S_3450,22-26,Female,Kiribati,Tarawa
+S_3451,18-21,Female,America,Utah
+S_3452,27-31,Female,Philippines,Naga Cith
+S_3453,22-26,Male,PNG,PORT MORESBY
+S_3454,27-31,Female,United States,"Boise, Idaho"
+S_3455,37-42,Female,Philippines,Davao City
+S_3456,22-26,Female,United states,Utah
+S_3457,27-31,Male,United States,Idaho
+S_3458,50-58,Female,USA,"Las Vegas, NV"
+S_3459,18-21,Female,Wisconsin,Ladysmith
+S_3460,18-21,Female,US,Oregon
+S_3461,22-26,Male,New Zealand,Auckland
+S_3462,22-26,Female,USA,Utah
+S_3463,18-21,Male,Korea,Seoul
+S_3464,37-42,Female,United States,Idaho
+S_3465,22-26,Female,Canada,Pincher Creek
+S_3466,27-31,Male,México,Veracruz
+S_3467,27-31,Female,USA,California
+S_3468,22-26,Male,Philippines,Malaybalay
+S_3469,22-26,Male,Philippines,Cagayan
+S_3470,18-21,Female,USA,CT
+S_3471,27-31,Female,United States,"Billings, Montana"
+S_3472,22-26,Female,Tonga,Haapai
+S_3473,22-26,Female,United States of America,Phoenix arizona
+S_3474,18-21,Male,United States,Hawaii
+S_3475,43-49,Female,United States,"Wichita Falls, Texas"
+S_3476,22-26,Female,USA,LOGAN
+S_3477,18-21,Female,United States,Hawaii
+S_3478,22-26,Female,United States,California
+S_3479,18-21,Female,French Polynesia,Marquesas Islands
+S_3480,22-26,Male,Unite States,"Springville, UT"
+S_3481,18-21,Male,Philipphines,Manila
+S_3482,50-58,Female,Usa,Washington
+S_3483,22-26,Female,Fiji,Laie
+S_3484,22-26,Female,USA,"Provo, Utah"
+S_3485,22-26,Male,philippines,alicia
+S_3486,18-21,Female,USA,Utah
+S_3487,22-26,Female,United States,Provo Utah
+S_3488,32-36,Female,USA,Hawaii
+S_3489,18-21,Female,Canada,Langley
+S_3490,22-26,Male,NZ,Hastings
+S_3491,18-21,Female,Philippines,Manila
+S_3492,27-31,Female,USA,CT
+S_3493,18-21,Female,Philippines,Leyte
+S_3494,27-31,Female,USA,Arizona
+S_3495,22-26,Male,Aotearoa,Hastings
+S_3496,22-26,Female,Kiribati,Tarawa
+S_3497,22-26,Female,USA,Arizona
+S_3498,22-26,Female,Samoa,Apia
+S_3499,50-58,Female,USA,Guam
+S_3500,18-21,Female,United States of America,Sacramento California
+S_3501,59-64,Female,Philippines,Cebu
+S_3502,27-31,Male,Philippines,Alicia
+S_3503,18-21,Female,Kiribati,Tarawa
+S_3504,22-26,Male,United States,"Alpine, UT"
+S_3505,37-42,Female,America,Utah
+S_3506,18-21,Female,United States,Davenport
+S_3507,43-49,Female,United States,Newport
+S_3508,22-26,Female,Japan,Tokyo
+S_3509,18-21,Female,Mongolia,Ulaanbaatar
+S_3510,22-26,Female,USA,Fort Worth Texas
+S_3511,18-21,Male,USA,California
+S_3512,32-36,Female,PHILIPPINES,Bulacan
+S_3513,27-31,Female,USA,"Provo, Utah"
+S_3514,18-21,Female,Indonesia,Yogyakarta
+S_3515,27-31,Female,England,London
+S_3516,50-58,Female,United States,Utah
+S_3517,27-31,Female,USA,Florida
+S_3518,22-26,Male,China,JiangXi
+S_3519,43-49,Male,Monterrey,Mexico
+S_3520,22-26,Female,United States,Houston
+S_3521,22-26,Female,United States,"Providence, UT"
+S_3522,43-49,Male,US,HI
+S_3523,18-21,Male,United States,"Logan, UT"
+S_3524,18-21,Female,United States of America,Utah
+S_3525,22-26,Female,Canada,BC
+S_3526,18-21,Male,Japan,Tokyo
+S_3527,27-31,Female,Canada,Langley
+S_3528,22-26,Female,United States,Hawaii
+S_3529,22-26,Male,Philippines,Allen
+S_3530,50-58,Male,Indonesia,Bogor
+S_3531,22-26,Male,Japan,Toyama
+S_3532,32-36,Female,Indonesia,Malang
+S_3533,22-26,Male,Philippines,Bacolod City
+S_3534,50-58,Female,Philippines,Camarines Norte
+S_3535,27-31,Female,Japan,Sendai
+S_3536,22-26,Female,Philippines,Taguig
+S_3537,18-21,Female,Canada,Alberta
+S_3538,22-26,Female,Taiwan,New Taipei City
+S_3539,27-31,Female,United States,Utah
+S_3540,18-21,Male,United States,Utah
+S_3541,22-26,Female,USA,Hawaii
+S_3542,59-64,Female,US,"Hawaii, Laie"
+S_3543,27-31,Female,Japan,Japan
+S_3544,22-26,Female,Philippines,Dagupan
+S_3545,50-58,Male,US,Utah
+S_3546,43-49,Female,United States,Oregon
+S_3547,22-26,Male,Samoa,Aleisa
+S_3548,22-26,Female,Tonga,Haapai
+S_3549,22-26,Male,Philippines,Cebu
+S_3550,18-21,Female,Philippines,Davao City
+S_3551,22-26,Female,Kiribati,Tarawa
+S_3552,18-21,Female,United States,Utah
+S_3553,22-26,Female,Tonga,Liahona
+S_3554,22-26,Female,United States,Laie Hawaii
+S_3555,27-31,Male,Sāmoa,Hawaii
+S_3556,18-21,Female,USA,Oregon
+S_3557,18-21,Female,United States,Montana
+S_3558,22-26,Male,Japan,"Kagawa prefecture, Kanonji city"
+S_3559,43-49,Female,United States,New Mexico
+S_3560,22-26,Male,United States,Idaho
+S_3561,50-58,Male,United States,Logan
+S_3562,27-31,Female,United States,Utah
+S_3563,32-36,Female,United States,Arizona
+S_3564,32-36,Male,United States,Utah
+S_3565,22-26,Male,USA,NorCal
+S_3566,22-26,Female,USA,Washington
+S_3567,22-26,Female,Fiji,Suva
+S_3568,22-26,Male,USA,Utah
+S_3569,27-31,Female,Philippines,Unknown
+S_3570,22-26,Female,Philippines,"Palawan, Puerto Prinsesa City"
+S_3571,18-21,Male,USA,Utah
+S_3572,18-21,Female,Indonesia,Jakarta
+S_3573,22-26,Male,NZ,Hastings
+S_3574,22-26,Male,New Zealand,Tūrangi
+S_3575,18-21,Female,mongolia,ub
+S_3576,22-26,Female,Malaysia,Subang Jaya
+S_3577,27-31,Female,Kiribati,Tarawa
+S_3578,22-26,Female,Philippines,Dagupan City
+S_3579,22-26,Male,Tarawa,Kiribati
+S_3580,27-31,Female,Fiji,Suva
+S_3581,22-26,Female,USA,California
+S_3582,22-26,Male,USA,Utah
+S_3583,18-21,Female,Philippines,General Santos City
+S_3584,22-26,Female,United States,Bountiful
+S_3585,22-26,Female,Japan,Saitama
+S_3586,27-31,Male,Philippines,DAGUPAN
+S_3587,22-26,Male,United States,Valencia
+S_3588,22-26,Female,United States,Oregon
+S_3589,27-31,Female,United States,"Eagle, Idaho"
+S_3590,32-36,Female,Samoa,Apia
+S_3591,18-21,Female,Mongolia,Ulaanbaatar
+S_3592,18-21,Female,India,Delhi
+S_3593,22-26,Female,USA,West Virginia
+S_3594,22-26,Female,USA,Arizona
+S_3595,22-26,Female,Tonga,Haapai
+S_3596,22-26,Female,Philippines,Manila
+S_3597,22-26,Female,Kiribati,Kiritimati Island
+S_3598,22-26,Female,India,Delhi
+S_3599,22-26,Male,United States,"Ridgefield, WA"
+S_3600,22-26,Male,Fiji,Suva
+S_3601,27-31,Female,United States,Utah
+S_3602,18-21,Female,Tahiti,Faa'a
+S_3603,22-26,Female,Philippines,Ilagan City
+S_3604,27-31,Male,New Zealand,Gold COast
+S_3605,22-26,Female,Kiribati,Tarawa
+S_3606,27-31,Female,United States,West Virginia
+S_3607,22-26,Male,Mongolia,Ulaanbaatar
+S_3608,43-49,Male,USA,Colorado
+S_3609,27-31,Male,Usa,Ohio
+S_3610,22-26,Female,United States,Utah
+S_3611,27-31,Female,United states,Utah
+S_3612,43-49,Male,USA,Arizona
+S_3613,59-64,Female,United States,Provo Utah
+S_3614,22-26,Female,United States,American Samoa
+S_3615,22-26,Female,Aotearoa,Hastings
+S_3616,27-31,Male,Japan,Osaka
+S_3617,37-42,Male,Philippines,Surigao City
+S_3618,22-26,Male,Kiribati,Tarawa
+S_3619,18-21,Female,México,Veracruz
+S_3620,22-26,Female,Philippines,General Santos City
+S_3621,27-31,Female,Canada,Pincher Creek
+S_3622,27-31,Female,Philippines,Cavite
+S_3623,22-26,Female,Samoa,Apia
+S_3624,27-31,Female,Indonesia,Jakarta
+S_3625,22-26,Female,Philippines,Pasuquin
+S_3626,22-26,Female,America,California
+S_3627,22-26,Female,Papua New Guinea,Lae City
+S_3628,22-26,Female,PNG,Port Moresby
+S_3629,22-26,Female,Philippines,Pangasinan
+S_3630,22-26,Female,United States,New Mexico
+S_3631,32-36,Female,Tonga,Tongatapu
+S_3632,18-21,Female,United States,Utah
+S_3633,50-58,Female,United States,"Tooele, UT"
+S_3634,43-49,Male,Papua New Guinea,Port Morgan
+S_3635,22-26,Female,Philippines,Santa Barbara
+S_3636,27-31,Female,Philippines,Manila
+S_3637,22-26,Female,Kingdom of Hawai’i,Makawao
+S_3638,43-49,Female,usa,colorado
+S_3639,50-58,Male,Philippines,Cebu
+S_3640,22-26,Female,United States,Utah
+S_3641,22-26,Female,Papua New Guinea,Port Moresby
+S_3642,22-26,Female,Australia,Melbourne
+S_3643,27-31,Male,China,Harbin
+S_3644,22-26,Female,Philippines,Pasig
+S_3645,37-42,Female,PNG,PORT MORESBY
+S_3646,22-26,Female,Mongolia,Ulaanbaatar
+S_3647,43-49,Male,Philippines,Cagayan
+S_3648,18-21,Female,United States,Utah
+S_3649,50-58,Female,USA,Utah
+S_3650,50-58,Female,Kiribati,Tarawa
+S_3651,50-58,Female,USA,Texas
+S_3652,22-26,Female,USA,Wisconsin
+S_3653,18-21,Male,Kiribati,Tarawa
+S_3654,22-26,Female,United States,Hawaii
+S_3655,22-26,Female,Philippines,General Santos City
+S_3656,27-31,Male,Tonga,Pangai
+S_3657,22-26,Male,Philippines,Pangasinan
+S_3658,22-26,Female,Mexico,Monterrey
+S_3659,32-36,Female,United States,California
+S_3660,43-49,Male,Philippines,"Naga City, Camarines Sur"
+S_3661,18-21,Male,USA,oceanside
+S_3662,18-21,Male,United States,West Virginia
+S_3663,27-31,Male,Philippines,Dagupan
+S_3664,22-26,Male,United States,"Boise, Idaho"
+S_3665,27-31,Male,America,Oregon
+S_3666,18-21,Female,Philippines,Tuguegarao
+S_3667,22-26,Female,United States,California
+S_3668,22-26,Female,United States,Utah
+S_3669,18-21,Female,USA,Utah
+S_3670,27-31,Female,New Zealand,Bay Of islands
+S_3671,22-26,Male,Malaysia,Kuala Lumpur
+S_3672,22-26,Female,Philippines,Cebu City
+S_3673,18-21,Female,Usa,Spokane
+S_3674,22-26,Female,Philippines,Camarines Sur
+S_3675,22-26,Male,USA,Minnesota
+S_3676,22-26,Female,Tahiti,Mahina
+S_3677,22-26,Female,Mexico,Puebla
+S_3678,59-64,Female,Kiribati,South-Tarawa
+S_3679,22-26,Female,United States,Utah
+S_3680,27-31,Female,New Zeland,Auckland
+S_3681,22-26,Female,Philippines,Pangasinan
+S_3682,18-21,Male,USA,Hawaii
+S_3683,22-26,Female,México,Veracruz
+S_3684,22-26,Male,United States,Washington
+S_3685,22-26,Male,New Zealand,Hastings
+S_3686,22-26,Female,United States,Idaho
+S_3687,27-31,Male,United States of America,Phoenix arizona
+S_3688,18-21,Female,Canada,British Columbia
+S_3689,18-21,Female,USA,California
+S_3690,43-49,Male,USA,Utah
+S_3691,59-64,Male,Philippines,General Santos City
+S_3692,22-26,Male,Kiribati,Tarawa
+S_3693,27-31,Female,USA,Utah
+S_3694,43-49,Male,USA,California
+S_3695,18-21,Female,United States of America,Georgia
+S_3696,43-49,Female,Tonga,Nuku'alofa
+S_3697,22-26,Male,United States,Oregon
+S_3698,22-26,Female,United States,Montana
+S_3699,22-26,Female,Philippines,Naga Cith
+S_3700,27-31,Female,Philippines,Cavite
+S_3701,22-26,Female,India,Hyderabad
+S_3702,22-26,Female,USA,Utah
+S_3703,27-31,Female,United States,California
+S_3704,27-31,Female,USA,Texas
+S_3705,22-26,Male,Philippines,Unknown
+S_3706,37-42,Male,USA,Utah
+S_3707,22-26,Female,United States,Oregon
+S_3708,27-31,Female,Tahiti,Faa'a
+S_3709,22-26,Female,United States,Orem
+S_3710,50-58,Female,Montana,Charlo Montana
+S_3711,22-26,Female,Philippines,Cebu
+S_3712,22-26,Male,United States,Colorado
+S_3713,22-26,Female,Philippines,Malaybalay
+S_3714,22-26,Male,U.S.,Utah
+S_3715,50-58,Female,New Zealand,Hamilton
+S_3716,22-26,Male,Philippines,Baguio
+S_3717,22-26,Male,United States,Newport
+S_3718,27-31,Female,Philippines,"Jaen, Nueva Ecija"
+S_3719,22-26,Female,Fiji,Suva
+S_3720,27-31,Male,USA,Guam
+S_3721,18-21,Male,Unite States,"Springville, UT"
+S_3722,22-26,Female,Japan,Yamaguchi
+S_3723,22-26,Male,philippines,manila
+S_3724,22-26,Female,Tonga,Tongatapu
+S_3725,22-26,Male,Canada,Lethbridge
+S_3726,50-58,Male,USA,Utah
+S_3727,22-26,Female,Aotearoa,Hastings
+S_3728,22-26,Female,Usa,Bountiful Utah
+S_3729,22-26,Female,Philippines,Cagayan
+S_3730,22-26,Male,Kiribati,Tarawa
+S_3731,22-26,Female,Tonga,Nuku'alofa
+S_3732,18-21,Male,Japan,"Kagawa prefecture, Kanonji city"
+S_3733,59-64,Male,USA,Florida
+S_3734,22-26,Female,usa,allentown
+S_3735,18-21,Female,Philippines,Valencia City.
+S_3736,22-26,Female,USA,Texas
+S_3737,22-26,Female,Philippines,Ramon
+S_3738,22-26,Male,new zealand,auckland
+S_3739,18-21,Male,United States,Utah
+S_3740,22-26,Female,Philippines,Cebu
+S_3741,18-21,Female,Kiribati,Tarawa
+S_3742,22-26,Male,Philippines,Surigao City
+S_3743,22-26,Female,Mexico,Nuevo Leon
+S_3744,22-26,Male,Kiribati,Tarawa
+S_3745,22-26,Female,America,Utah
+S_3746,22-26,Female,USA,Fort Worth Texas
+S_3747,18-21,Male,Kingdom of Hawai’i,Makawao
+S_3748,22-26,Female,USA,California
+S_3749,18-21,Male,United States,Salt Lake City
+S_3750,18-21,Female,Philippines,Utah
+S_3751,18-21,Female,mongolia,ulaanbaatar
+S_3752,22-26,Female,USA,Florida
+S_3753,22-26,Female,Philippines,"Balanga City, Bataan"
+S_3754,22-26,Male,United States,Utah
+S_3755,18-21,Male,USA,"Hauula, Hawaii"
+S_3756,22-26,Female,Unknown,Unknown
+S_3757,22-26,Male,Philippines,Pangasinan
+S_3758,18-21,Female,United States,Hawaii
+S_3759,18-21,Female,United States,Utah
+S_3760,18-21,Female,United States,Washington
+S_3761,22-26,Male,United States,"Providence, UT"
+S_3762,22-26,Female,USA,"Anchorage, AK"
+S_3763,27-31,Male,Peru,Arequipa
+S_3764,22-26,Male,Samoa,Tafuna
+S_3765,22-26,Male,Malaysia,Sarawak
+S_3766,22-26,Female,Tonga,Tongatapu
+S_3767,43-49,Female,India,New Delhi
+S_3768,43-49,Female,Tonga,Nuku’alofa
+S_3769,22-26,Male,Taiwan,Taichung City
+S_3770,22-26,Female,Philippines,Quezon City
+S_3771,22-26,Female,China,Shanghai
+S_3772,22-26,Male,México,Veracruz
+S_3773,27-31,Female,United States,"Kamas, UT"
+S_3774,27-31,Male,Japan,Kannonnji
+S_3775,18-21,Female,Japan,Osaka
+S_3776,22-26,Female,United States,"Anthem, AZ"
+S_3777,18-21,Female,Philippines,Cebu City
+S_3778,50-58,Male,United States,"Salt Lake City, Utah"
+S_3779,22-26,Male,Philippines,Quezon City
+S_3780,27-31,Female,mexico,monterrey
+S_3781,22-26,Female,United States,Arizona
+S_3782,37-42,Female,Usa,"Burley, Idaho"
+S_3783,27-31,Male,New Zealand,Hastings
+S_3784,27-31,Male,Japan,Ibaraki
+S_3785,18-21,Female,Tonga,Haapai
+S_3786,22-26,Female,America,Colorado
+S_3787,22-26,Female,Philippines,Dagupan City
+S_3788,22-26,Male,USA,Utah
+S_3789,22-26,Female,USA,Oregon
+S_3790,22-26,Male,Indonesia,Surakarta
+S_3791,27-31,Female,papua new guinea,Hawaii
+S_3792,22-26,Female,Kingdom of Hawai’i,Makawao
+S_3793,18-21,Female,Philippines,Camarines Norte
+S_3794,22-26,Female,Usa,Phoenix AZ
+S_3795,27-31,Female,Philippines,Santa Barbara
+S_3796,59-64,Male,Philippines,Philippines
+S_3797,22-26,Male,United States of America,California
+S_3798,27-31,Female,USA,Utah
+S_3799,22-26,Female,United States,Colorado
+S_3800,27-31,Male,Japan,Toride
+S_3801,18-21,Male,USA,Utah
+S_3802,18-21,Female,Kiribati,Betio
+S_3803,22-26,Male,USA,Sandy
+S_3804,22-26,Male,Kiribati,Tarawa
+S_3805,22-26,Female,United States of America,Colorado
+S_3806,22-26,Female,Papua New Guinea,Port Moresby
+S_3807,22-26,Female,United States,Florida
+S_3808,22-26,Female,Indonesia,Bogor
+S_3809,22-26,Male,Wisconsin,Ladysmith
+S_3810,22-26,Female,Philippines,Ramon
+S_3811,22-26,Male,Samoa,Apia
+S_3812,18-21,Female,Philippines,Santiago City
+S_3813,22-26,Female,United States,Utah
+S_3814,18-21,Male,usa,North Carolina
+S_3815,66-70,Female,Philippines,Camarines Norte
+S_3816,22-26,Male,Tonga,Nuku'alofa
+S_3817,22-26,Male,Kiribati,Tarawa
+S_3818,22-26,Female,India New Delhi,New Delhi
+S_3819,22-26,Male,United States,Utah
+S_3820,18-21,Female,Canada,Lethbridge
+S_3821,27-31,Female,Kiribati,Tarawa
+S_3822,22-26,Male,U.S,California
+S_3823,18-21,Male,United States,Utah
+S_3824,22-26,Female,United States,CO
+S_3825,22-26,Male,USA,California
+S_3826,50-58,Male,Philippines,Isabela
+S_3827,71-77,Female,United States of America,California
+S_3828,18-21,Female,USA,California/Hawaii
+S_3829,22-26,Female,United States,San Diego
+S_3830,37-42,Female,Japan,Okinawa
+S_3831,18-21,Male,Taiwan,New Taipei City
+S_3832,43-49,Male,United States,Utah
+S_3833,18-21,Male,Unknown,India
+S_3834,27-31,Female,US,"Hawaii, Laie"
+S_3835,18-21,Male,United States,Utah
+S_3836,50-58,Female,Philippines,Laie
+S_3837,18-21,Male,United States,California
+S_3838,50-58,Female,USA,"Cedar Hills, Utah"
+S_3839,37-42,Male,United States,Martinsburg
+S_3840,22-26,Female,usa,Utah
+S_3841,22-26,Male,United States,Arizona
+S_3842,43-49,Male,USA,oceanside
+S_3843,27-31,Male,Philippines,Cavite
+S_3844,22-26,Female,Japan,Tokyo
+S_3845,22-26,Female,america,michigan
+S_3846,22-26,Female,Fiji,Suva
+S_3847,22-26,Female,United States,Oregon
+S_3848,22-26,Female,United States,Utah
+S_3849,27-31,Male,united states of america,Texas
+S_3850,22-26,Female,India,Delhi
+S_3851,27-31,Female,USA,Oregon
+S_3852,22-26,Male,United States,Utah
+S_3853,27-31,Female,America,Idaho
+S_3854,22-26,Female,USA,Hawaii
+S_3855,27-31,Female,Philippines,Davao City
+S_3856,22-26,Male,Samoa,Aleisa
+S_3857,22-26,Male,USA,Hawaii
+S_3858,22-26,Female,Philippines,Negros Occidental
+S_3859,18-21,Male,United States,Hawaii
+S_3860,22-26,Female,USA,Utah
+S_3861,18-21,Male,USA,North Carolina
+S_3862,22-26,Male,Tarawa,Kiribati
+S_3863,22-26,Female,Mongolia,Ulaanbaatar
+S_3864,18-21,Male,United States,Idaho
+S_3865,43-49,Female,PHILIPPINES,Hawaii
+S_3866,27-31,Female,Philippines,Pasuquin
+S_3867,18-21,Male,United States,"Alpine, UT"
+S_3868,22-26,Male,Philippines,Valencia City.
+S_3869,18-21,Male,Canada,HI
+S_3870,22-26,Female,Fiji,Suva
+S_3871,18-21,Female,United States,Utah
+S_3872,22-26,Female,Fiji,Suva
+S_3873,22-26,Female,Canada,Cardston
+S_3874,18-21,Female,Tonga,Tongatapu
+S_3875,50-58,Male,México,Tamaulipas
+S_3876,27-31,Female,Philippines,Cebu
+S_3877,50-58,Male,Philippines,General Santos City
+S_3878,50-58,Male,United States,Arizona
+S_3879,22-26,Male,United States,Utah
+S_3880,22-26,Male,United States,"Alpine, UT"
+S_3881,22-26,Female,Usa,Spokane
+S_3882,22-26,Female,USA,Texas
+S_3883,22-26,Female,Kiribati,Tarawa
+S_3884,22-26,Male,United States,West Virginia
+S_3885,27-31,Female,USA,West Virginia
+S_3886,22-26,Female,Philippines,Pangasinan
+S_3887,50-58,Male,Philippines,Pasig City
+S_3888,22-26,Male,USA,LOGAN
+S_3889,18-21,Female,Philippines,Bohol
+S_3890,18-21,Male,United States,Boise
+S_3891,22-26,Male,United States of America,"Draper, Utah"
+S_3892,22-26,Female,United States of America,"Draper, Utah"
+S_3893,22-26,Male,Us,Utah
+S_3894,22-26,Male,Philippines,Pangasinan
+S_3895,59-64,Female,Philippines,Tarlac
+S_3896,27-31,Female,Philippines,DAGUPAN
+S_3897,18-21,Male,Tonga,Haapai
+S_3898,22-26,Female,Tonga,Hateo
+S_3899,27-31,Male,United States,Texas
+S_3900,22-26,Female,USA,California
+S_3901,22-26,Male,Kiribati,South-Tarawa
+S_3902,18-21,Female,USA,Washington
+S_3903,43-49,Female,Philippines,Marikina
+S_3904,22-26,Male,United States,"Providence, UT"
+S_3905,18-21,Female,United States,Utah
+S_3906,22-26,Male,US,HI
+S_3907,27-31,Male,United States,Phoenix Arizona
+S_3908,18-21,Male,Samoa,Apia
+S_3909,18-21,Male,New Zealand,Hamilton
+S_3910,18-21,Female,United States of America,Colorado
+S_3911,18-21,Female,United States of America,Florida
+S_3912,18-21,Male,Indonesia,Jakarta
+S_3913,18-21,Male,United States,"Logan, UT"
+S_3914,18-21,Male,Mongolia,Ulaanbaatar
+S_3915,22-26,Male,United States,Utah
+S_3916,27-31,Female,united states of america,Texas
+S_3917,32-36,Male,United States of America,Phoenix arizona
+S_3918,50-58,Female,Philippines,Makati
+S_3919,59-64,Male,United States,Houston
+S_3920,43-49,Female,Hong Kong,Hong Kong
+S_3921,22-26,Male,Philippines,Pasig City
+S_3922,43-49,Female,South Korea,Ulsan
+S_3923,22-26,Male,Japan,Fukoyoka
+S_3924,43-49,Female,Philippines,Lubao
+S_3925,18-21,Male,Philippines,Quezon City
+S_3926,18-21,Male,Philippines,Unknown
+S_3927,18-21,Female,Kiribati,Tarawa
+S_3928,22-26,Male,United States,Indiana
+S_3929,22-26,Male,Philippines,Isabela
+S_3930,22-26,Female,New Zealand,Hastings
+S_3931,18-21,Female,Fiji,Hawaii
+S_3932,18-21,Female,Tonga,Holonga
+S_3933,22-26,Female,Papua New Guinea,Hawaii
+S_3934,18-21,Female,china,jiangsu
+S_3935,18-21,Male,China,Chengdu
+S_3936,22-26,Male,Japan,Miyagi
+S_3937,22-26,Female,Philippines,Pangasinan
+S_3938,27-31,Female,USA,LOGAN
+S_3939,27-31,Female,Japan,Kanagawa
+S_3940,18-21,Female,Kiribati,Tarawa
+S_3941,18-21,Male,Kiribati,Tarawa
+S_3942,22-26,Male,United States of America,"Draper, Utah"
+S_3943,22-26,Male,United States,Utah
+S_3944,18-21,Female,USA,"Provo, Utah"
+S_3945,18-21,Female,Japan,Osaka
+S_3946,27-31,Male,Philippines,Pampanga
+S_3947,22-26,Male,United States,Utah
+S_3948,27-31,Female,USA,Washington
+S_3949,18-21,Male,America,California
+S_3950,22-26,Female,Kiribati,Tarawa
+S_3951,50-58,Male,Malaysia,bintulu
+S_3952,27-31,Male,Mexico,Veracruz
+S_3953,22-26,Male,United States,Colorado
+S_3954,32-36,Female,Philippines,Bohol
+S_3955,22-26,Male,Argentina,San Martín de los Andes
+S_3956,18-21,Female,USA,Kailua Hawaii
+S_3957,32-36,Male,Phiilippines,Mapandan
+S_3958,22-26,Female,Fiji,Menlo Park
+S_3959,18-21,Female,French Polynesia,Mataiea
+S_3960,22-26,Male,United States,Colorado
+S_3961,22-26,Female,United States,"Lehi, UT"
+S_3962,18-21,Female,United States,Utah
+S_3963,22-26,Female,USA,Texas
+S_3964,50-58,Male,United States of America,"Logan, Utah"
+S_3965,18-21,Female,Philippines,Cebu
+S_3966,18-21,Female,United states,Utah
+S_3967,22-26,Male,USA,Logan
+S_3968,22-26,Female,Canada,Alberta
+S_3969,22-26,Female,USA,Utah
+S_3970,50-58,Female,Indonesia,Bogor
+S_3971,22-26,Female,Jaoan,Chiba
+S_3972,18-21,Female,United states,Minnesota
+S_3973,18-21,Male,United States,Utah
+S_3974,18-21,Male,Usa,Washington
+S_3975,22-26,Female,Tonga,Nuku’alofa
+S_3976,22-26,Male,Sāmoa,Hawaii
+S_3977,22-26,Male,Kiribati,Tarawa
+S_3978,22-26,Male,Indonesia,Jakarta
+S_3979,22-26,Male,Kiribati,Tarawa
+S_3980,22-26,Female,Philippines,Pangsinan
+S_3981,22-26,Female,Fiji,Hawaii
+S_3982,18-21,Female,Sri Lanka,Negombo
+S_3983,22-26,Female,United States,San Diego
+S_3984,22-26,Female,United States,Provo
+S_3985,22-26,Female,United States,Provo Utah
+S_3986,22-26,Female,Usa,Arizona
+S_3987,18-21,Male,United States,Minnesota
+S_3988,32-36,Male,Philippines,Laguna
+S_3989,27-31,Female,United States of America,"Draper, Utah"
+S_3990,22-26,Female,Indonesia,Central Java
+S_3991,27-31,Female,United States,"Atlanta, GA"
+S_3992,22-26,Male,United States,Texas
+S_3993,18-21,Female,USA,las vegas
+S_3994,27-31,Female,Weisheng,Kuala Lumpur
+S_3995,18-21,Female,Kiribati,Tarawa
+S_3996,32-36,Female,Tonga,Nuku’alofa
+S_3997,22-26,Female,USA,Utah
+S_3998,22-26,Female,United States of America,California
+S_3999,22-26,Male,Philippines,Laguna
+S_4000,32-36,Male,United States,Maryland
+S_4001,22-26,Female,French Polynesia,Tahiti
+S_4002,18-21,Female,United States,Hawaii
+S_4003,22-26,Male,Japan,Japan
+S_4004,27-31,Female,Japan,TOKYO
+S_4005,22-26,Male,Philippines,Davao City
+S_4006,22-26,Female,Usa,Washington
+S_4007,18-21,Female,Tonga,Vava’u
+S_4008,22-26,Female,Kiribati,Tarawa
+S_4009,22-26,Female,French Polynesia,Mataiea
+S_4010,32-36,Male,USA,California
+S_4011,18-21,Female,United States,Sacramento
+S_4012,18-21,Female,PHILIPPINES,MANILA
+S_4013,22-26,Female,United States,Utah
+S_4014,22-26,Female,Vietnam,Saigon
+S_4015,27-31,Female,US,HI
+S_4016,22-26,Female,Philippines,Cebu
+S_4017,22-26,Male,USA,Honolulu
+S_4018,22-26,Male,Mongolia,Ulaanbaatar
+S_4019,22-26,Male,Philippines,Pasuquin
+S_4020,22-26,Male,Kiribati,Tarawa
+S_4021,22-26,Male,china,jiangsu
+S_4022,22-26,Female,United states,Draper Utah
+S_4023,22-26,Male,Philippines,Nueva Vizcaya
+S_4024,22-26,Female,Tonga,Haapai
+S_4025,22-26,Female,Papua New Guinea,Madang
+S_4026,18-21,Female,Indonesia,Jakarta
+S_4027,50-58,Male,United States,Indiana
+S_4028,27-31,Male,Kiribati,Tarawa
+S_4029,22-26,Female,United States,Sacramento
+S_4030,27-31,Male,United States,Houston
+S_4031,22-26,Female,United States,Utah
+S_4032,18-21,Male,United States,"Providence, UT"
+S_4033,22-26,Male,United States,Utah
+S_4034,22-26,Female,USA,Utah
+S_4035,18-21,Female,United States,American Samoa
+S_4036,18-21,Male,Mexico,Veracruz
+S_4037,18-21,Female,United States,Colorado
+S_4038,43-49,Male,United States,Utah
+S_4039,22-26,Female,United States,"Boise, Idaho"
+S_4040,43-49,Female,USA,NY
+S_4041,37-42,Male,United States,California
+S_4042,22-26,Male,Philippines,Hinunangan
+S_4043,27-31,Female,USA,West Virginia
+S_4044,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_4045,22-26,Male,Kiribati,Tarawa
+S_4046,18-21,Male,United States,Colorado
+S_4047,22-26,Male,Usa,Phoenix AZ
+S_4048,22-26,Female,New Zealand,Auckland
+S_4049,27-31,Female,usa,Utah
+S_4050,27-31,Male,USA,Washington
+S_4051,18-21,Female,United States,Hawaii
+S_4052,22-26,Female,Fiji,Suva
+S_4053,22-26,Female,United States,"Alpine, UT"
+S_4054,22-26,Male,United States,Newport
+S_4055,22-26,Male,Kiribati,Tarawa
+S_4056,50-58,Male,United States,Minnesota
+S_4057,22-26,Female,New Zealand,Auckland
+S_4058,22-26,Female,United States,"Billings, Montana"
+S_4059,18-21,Female,Jaoan,Chiba
+S_4060,22-26,Female,Japan,Saitama
+S_4061,18-21,Male,Vietnam,Saigon
+S_4062,22-26,Male,Philippines,Naga
+S_4063,27-31,Male,United States,CO
+S_4064,22-26,Male,United States,Colorado
+S_4065,32-36,Female,United States,Utah
+S_4066,22-26,Male,USA,Utah
+S_4067,22-26,Female,Samoa,Apia
+S_4068,22-26,Female,Kingdom of Hawai’i,Makawao
+S_4069,22-26,Female,United States of America,Minnesota
+S_4070,22-26,Female,Philippines,Nueva Ecija
+S_4071,22-26,Male,USA,Florida
+S_4072,18-21,Male,United States,"Lehi, UT"
+S_4073,43-49,Female,New Zealand,Hamilton
+S_4074,18-21,Male,papua new guinea,Hawaii
+S_4075,18-21,Female,USA,Utah
+S_4076,22-26,Female,Indonesia,Bogor
+S_4077,37-42,Male,Usa,Spokane
+S_4078,18-21,Male,United States,"Kamas, UT"
+S_4079,22-26,Male,Fiji,Suva
+S_4080,18-21,Male,Usa,Phoenix AZ
+S_4081,50-58,Male,Philippines,Manila
+S_4082,27-31,Female,United States,Utah
+S_4083,37-42,Female,Canada,Cardston
+S_4084,22-26,Female,USA,Kailua Hawaii
+S_4085,18-21,Female,Cambodia,Phnom Penh
+S_4086,27-31,Female,USA,Utah
+S_4087,22-26,Male,Tonga,Nuku'alofa
+S_4088,43-49,Female,United States of America,Oregon
+S_4089,22-26,Male,Fiji,Suva
+S_4090,22-26,Male,Philippines,Malasiqui
+S_4091,50-58,Female,China,Harbin
+S_4092,18-21,Female,Philippines,Malasiqui
+S_4093,22-26,Male,New Zealand,Auckland
+S_4094,27-31,Female,USA,Utah
+S_4095,37-42,Female,Philippines,Baguio
+S_4096,22-26,Female,Usa,Bountiful Utah
+S_4097,18-21,Male,Tonga,Nuku'alofa
+S_4098,22-26,Male,México,Veracruz
+S_4099,18-21,Female,USA,Washington
+S_4100,27-31,Male,Philippines,Pasig City
+S_4101,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_4102,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_4103,22-26,Female,United States,Texas
+S_4104,22-26,Male,USA,California
+S_4105,27-31,Female,United States of America,Minnesota
+S_4106,22-26,Female,Philippines,Laguna
+S_4107,22-26,Female,India New Delhi,New Delhi
+S_4108,18-21,Male,New Zealand,Hamilton
+S_4109,18-21,Male,USA,Hawaii
+S_4110,18-21,Female,USA,Pennsylvania
+S_4111,27-31,Female,Japan,Saitama
+S_4112,18-21,Male,United States,Boise
+S_4113,22-26,Female,Indonesia,Bogor
+S_4114,22-26,Male,China,Hebei
+S_4115,22-26,Female,USA,California
+S_4116,18-21,Male,United States of America,Phoenix arizona
+S_4117,22-26,Female,USA,"Atlanta, Ga"
+S_4118,18-21,Female,Philippines,Pangasinan
+S_4119,22-26,Male,Philippines,Isabela
+S_4120,37-42,Male,French Polynesia,Tahiti
+S_4121,27-31,Male,Tonga,Haapai
+S_4122,22-26,Female,USA,California
+S_4123,22-26,Female,USA,las vegas
+S_4124,22-26,Female,USA,Arizona
+S_4125,22-26,Female,USA,Utah
+S_4126,18-21,Female,USA,Idaho
+S_4127,18-21,Female,United States,Idaho
+S_4128,22-26,Female,Mexico,Monterrey
+S_4129,18-21,Male,United States,Boise
+S_4130,22-26,Female,United States,Utah
+S_4131,22-26,Female,USA,Pennsylvania
+S_4132,27-31,Male,Japan,Kanagawa
+S_4133,18-21,Female,Canada,Lethbridge
+S_4134,43-49,Male,Malaysia,Subang Jaya
+S_4135,22-26,Female,Fiji,Suva
+S_4136,18-21,Female,Japan,Toride
+S_4137,50-58,Male,USA,California
+S_4138,18-21,Female,Fiji,Lautoka
+S_4139,22-26,Male,United States,Hawaii
+S_4140,18-21,Female,USA,Texas
+S_4141,27-31,Female,Malaysia,Perak state
+S_4142,18-21,Male,New Zealand,Auckland
+S_4143,27-31,Male,United States,Missouri
+S_4144,18-21,Female,Japan,Yamaguchi
+S_4145,27-31,Female,United States,"Billings, Montana"
+S_4146,22-26,Female,Tonga,Nuku'alofa
+S_4147,22-26,Male,Tonga,Tongatapu
+S_4148,22-26,Male,Philippines,Davao City
+S_4149,18-21,Female,Philippines,Davao City
+S_4150,43-49,Female,Indonesia,Central Java
+S_4151,37-42,Female,United States,Laie Hawaii
+S_4152,22-26,Female,Philippine,Alicia
+S_4153,22-26,Male,USA,CA
+S_4154,22-26,Female,Papua New Guinea,Hawaii
+S_4155,43-49,Male,Canada,Alberta
+S_4156,50-58,Male,PH,Tarlac
+S_4157,22-26,Female,French Polynesia,Tahiti
+S_4158,22-26,Female,USA,Hawaii
+S_4159,18-21,Female,USA,Florida
+S_4160,50-58,Male,USA,Sacramento
+S_4161,22-26,Male,Fiji,Suva
+S_4162,18-21,Male,Tonga,Nuku'alofa
+S_4163,22-26,Male,USA,Honolulu
+S_4164,18-21,Female,United States,Florida
+S_4165,27-31,Male,French Polynesia,Marquesas Islands
+S_4166,18-21,Female,Philippines,Cebu City
+S_4167,43-49,Male,Tonga,Nuku’alofa
+S_4168,22-26,Female,USA,"Edison, New Jersey"
+S_4169,18-21,Male,Ghana,Accra
+S_4170,22-26,Male,Samoa,Apia
+S_4171,59-64,Female,Tahiti,French Polynesia
+S_4172,27-31,Male,Phiilippines,Mapandan
+S_4173,18-21,Female,United States,Utah
+S_4174,18-21,Female,usa,North Carolina
+S_4175,18-21,Female,United States,Hawaii
+S_4176,27-31,Male,United States,"Alpine, UT"
+S_4177,22-26,Female,Brazil,Sao Paulo
+S_4178,32-36,Male,Tonga,Nuku'alofa
+S_4179,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_4180,27-31,Female,Philippines,Baguio
+S_4181,22-26,Female,United States,Arizona
+S_4182,18-21,Female,United State,Utah
+S_4183,22-26,Female,America,Texas
+S_4184,22-26,Female,Philippines,Pasuquin
+S_4185,22-26,Male,United States,"Laie, Hawaii"
+S_4186,18-21,Male,United States,Texas
+S_4187,22-26,Female,Philippines,Taguig City
+S_4188,18-21,Female,USA,Utah
+S_4189,18-21,Female,Japan,Sapporo
+S_4190,27-31,Female,Philippines,"San Pedro City, Laguna"
+S_4191,22-26,Male,United States of America,Colorado
+S_4192,22-26,Female,united states,airway heights
+S_4193,27-31,Female,United States,"Boise, Idaho"
+S_4194,18-21,Female,United State,Utah
+S_4195,18-21,Female,Indonesia,Jakarta
+S_4196,50-58,Female,USA,Colorado
+S_4197,22-26,Male,Philippines,Pasuquin
+S_4198,18-21,Male,USA,Minnesota
+S_4199,18-21,Female,United States,Missouri
+S_4200,27-31,Female,Indonesia,Cikarang
+S_4201,43-49,Female,United States,Texas
+S_4202,22-26,Female,Canada,British Columbia
+S_4203,22-26,Male,Kiribati,Tarawa
+S_4204,18-21,Male,USA,California
+S_4205,18-21,Male,USA,Az
+S_4206,22-26,Female,USA,California
+S_4207,18-21,Male,Us,Utah
+S_4208,27-31,Male,Mexico,Monterrey
+S_4209,43-49,Male,Indonesia,Central Java
+S_4210,22-26,Male,USA,Utah
+S_4211,22-26,Male,Japan,Sendai
+S_4212,22-26,Male,Japan,Tokyo
+S_4213,22-26,Male,Philippines,Cavite
+S_4214,27-31,Female,United States,Utah
+S_4215,18-21,Female,"French Polynesia, Tahiti",Pirae
+S_4216,32-36,Female,Kiribati,Tarawa
+S_4217,22-26,Male,Fiji,Suva
+S_4218,22-26,Male,United States,Colorado
+S_4219,22-26,Male,Kiribati,Butaritari
+S_4220,27-31,Male,USA,ARIZONA
+S_4221,18-21,Female,United States,Boise Idaho
+S_4222,22-26,Female,PHILIPPINES,Hawaii
+S_4223,18-21,Female,Philippines,Cebu
+S_4224,22-26,Male,Philippines,Pangasinan
+S_4225,22-26,Male,United States,Martinsburg
+S_4226,22-26,Male,Philippines,La carlota
+S_4227,18-21,Male,USA,"Anchorage, AK"
+S_4228,43-49,Female,China,Tianjin
+S_4229,27-31,Female,United States,Davenport
+S_4230,18-21,Male,USA,Utah
+S_4231,22-26,Female,USA,Washington
+S_4232,22-26,Male,New Zeland,Auckland
+S_4233,22-26,Female,america,michigan
+S_4234,37-42,Male,United States,Boise
+S_4235,18-21,Female,Philippines,Tuguegarao
+S_4236,18-21,Female,Philippines,Tagum
+S_4237,22-26,Female,United States,"Kamas, UT"
+S_4238,22-26,Female,India,Hyderabad
+S_4239,27-31,Male,Fiji,Suva
+S_4240,22-26,Female,Samoa,Tafuna
+S_4241,27-31,Male,United States,Pleasant Grove
+S_4242,50-58,Female,French Polynesia,Tahiti
+S_4243,18-21,Male,Indonesia,Malang
+S_4244,18-21,Male,United States,North Las Vegas
+S_4245,22-26,Male,Philippines,Pasig City
+S_4246,22-26,Male,USA,Sacramento
+S_4247,50-58,Male,Philippines,Unknown
+S_4248,27-31,Male,US,Sacramento
+S_4249,22-26,Female,United States,Texas
+S_4250,50-58,Male,Philippines,Pasig City
+S_4251,22-26,Male,USA,Utah
+S_4252,18-21,Female,Philippines,Cebu
+S_4253,22-26,Female,Peru,Arequipa
+S_4254,22-26,Female,Indonesia,Bogor
+S_4255,22-26,Female,Tonga,Nuku’alofa
+S_4256,22-26,Male,Tonga,Tongatapu
+S_4257,43-49,Female,United States,Utah
+S_4258,22-26,Female,Us,Utah
+S_4259,22-26,Female,USA,Utah
+S_4260,22-26,Female,Tonga,Nuku'alofa
+S_4261,43-49,Male,USA,Utah
+S_4262,22-26,Female,United States,Oregon
+S_4263,22-26,Female,USA,California
+S_4264,32-36,Female,New Zealand,Auckland
+S_4265,50-58,Female,Philippines,Quezon City
+S_4266,18-21,Male,Japan,Okinawa
+S_4267,22-26,Female,Jaoan,Chiba
+S_4268,43-49,Female,United States of America,California
+S_4269,18-21,Male,Philippines,Cebu
+S_4270,18-21,Male,Philippines,Negros Occidental
+S_4271,18-21,Male,Philippines,Cagayan
+S_4272,18-21,Female,Philippines,Southern Leyte
+S_4273,22-26,Female,India,Delhi
+S_4274,22-26,Male,Tahiti,Tahiti
+S_4275,18-21,Female,United States,Utah
+S_4276,18-21,Male,United States of America,Oregon
+S_4277,50-58,Female,USA,Utah
+S_4278,22-26,Female,United States,Utah
+S_4279,27-31,Female,Kiribati,Tarawa
+S_4280,27-31,Female,mongolia,ulaanbatar
+S_4281,18-21,Female,United States,CO
+S_4282,22-26,Female,United States of America,California
+S_4283,27-31,Male,United States,Colorado
+S_4284,18-21,Female,America,Texas
+S_4285,22-26,Female,Philippines,Pampanga
+S_4286,22-26,Female,USA,Spokane
+S_4287,27-31,Female,New Zealand,Bay Of islands
+S_4288,22-26,Female,NZ,Hastings
+S_4289,18-21,Male,United States,California
+S_4290,22-26,Female,China,Chengdu
+S_4291,50-58,Female,Philippines,Cebu
+S_4292,43-49,Female,Philippines,Pangasinan
+S_4293,22-26,Male,USA,ARIZONA
+S_4294,22-26,Male,Canada,British Columbia
+S_4295,22-26,Female,USA,California
+S_4296,27-31,Female,United States,Pleasant Grove
+S_4297,27-31,Male,India,New Delhi
+S_4298,37-42,Male,Philippines,Santiago City
+S_4299,22-26,Female,Philippines,Isabela
+S_4300,22-26,Female,US,Spokane Washington
+S_4301,50-58,Female,USA,Utah
+S_4302,22-26,Female,USA,Wisconsin
+S_4303,27-31,Female,Japan,Okinawa
+S_4304,22-26,Female,Weisheng,Kuala Lumpur
+S_4305,22-26,Female,America,Utah
+S_4306,37-42,Male,Philippines,Legazpi
+S_4307,22-26,Male,United States,Florida
+S_4308,18-21,Male,US,Oregon
+S_4309,22-26,Male,Japan,Tokyo
+S_4310,27-31,Female,Tonga,Nuku'alofa
+S_4311,22-26,Female,United States,"Eagle, Idaho"
+S_4312,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_4313,27-31,Female,United States,Utah
+S_4314,18-21,Female,China,Yunnan
+S_4315,22-26,Male,United States of America,California
+S_4316,22-26,Male,United States of America,Utah
+S_4317,37-42,Female,South Korea,Gwangju
+S_4318,27-31,Female,Fiji,Suva
+S_4319,22-26,Female,USA,Pennsylvania
+S_4320,22-26,Female,Philippines,Cavite
+S_4321,27-31,Male,Hawaii,Oahu
+S_4322,18-21,Male,america,michigan
+S_4323,22-26,Female,India,New Delhi
+S_4324,22-26,Male,USA,Oregon
+S_4325,18-21,Female,USA,Utah
+S_4326,18-21,Female,Philippines,Cebu
+S_4327,50-58,Female,Japan,Kannonnji
+S_4328,18-21,Male,Indonesia,Yogyakarta
+S_4329,27-31,Female,Usa,Ohio
+S_4330,22-26,Female,United States,Boise Idaho
+S_4331,22-26,Male,USA,Utah
+S_4332,22-26,Female,Tonga,Nuku'alofa
+S_4333,27-31,Male,America,Idaho
+S_4334,18-21,Female,Kiribati,Tarawa
+S_4335,18-21,Male,Australia,Melbourne
+S_4336,18-21,Male,USA,Kailua Hawaii
+S_4337,32-36,Female,Indonesia,Jakarta
+S_4338,22-26,Female,philippines,tuguegarao
+S_4339,27-31,Male,United States,Oregon
+S_4340,43-49,Female,United States,Wyoming
+S_4341,22-26,Male,Hong Kong,Hong Kong
+S_4342,22-26,Female,United States,West Virginia
+S_4343,22-26,Female,USA,Hawaii
+S_4344,22-26,Male,Korea,Seoul
+S_4345,22-26,Female,Philippines,Hawaii
+S_4346,43-49,Female,Kiribati,Tarawa
+S_4347,22-26,Female,Tonga,Vava’u
+S_4348,22-26,Female,Utah,Orem
+S_4349,22-26,Female,United States,Texas
+S_4350,22-26,Male,Philippines,Manila
+S_4351,59-64,Male,Montana,Charlo Montana
+S_4352,27-31,Male,Indonesia,Jakarta
+S_4353,27-31,Female,Kiribati,Betio
+S_4354,22-26,Male,USA,Hawaii
+S_4355,27-31,Female,México,Tamaulipas
+S_4356,18-21,Male,United States,Utah
+S_4357,22-26,Male,"French Polynesia, Tahiti",Pirae
+S_4358,22-26,Male,Philippines,Tarlac
+S_4359,18-21,Female,america,michigan
+S_4360,18-21,Female,Usa,Bountiful Utah
+S_4361,43-49,Male,Philippines,Muntinlupa
+S_4362,22-26,Male,México,Veracruz
+S_4363,27-31,Male,Tahiti,Papeete
+S_4364,27-31,Female,Philippines,Ballesteros
+S_4365,32-36,Male,United States,Utah
+S_4366,18-21,Male,Philippines,Tagum
+S_4367,18-21,Male,Usa,Arizona
+S_4368,22-26,Male,South Korea,Ulsan
+S_4369,18-21,Male,Papua New Guinea,Hawaii
+S_4370,22-26,Female,United States,Arizona
+S_4371,18-21,Male,United States,Bluffdale Utah
+S_4372,27-31,Male,Indonesia,Bogor
+S_4373,43-49,Female,Cook Islands,Hawaii
+S_4374,37-42,Male,USA,Hawaii
+S_4375,22-26,Female,mongolia,ub
+S_4376,50-58,Female,Usa,Bountiful Utah
+S_4377,22-26,Female,Australia,Gold Coast
+S_4378,27-31,Female,Kiribati,Tarawa
+S_4379,18-21,Male,Philippines,Cebu
+S_4380,27-31,Male,Philippines,Allen
+S_4381,18-21,Female,USA,California
+S_4382,27-31,Female,United States,American Samoa
+S_4383,18-21,Male,Philippines,Taguig
+S_4384,18-21,Female,United States,"Alpine, UT"
+S_4385,66-70,Female,Mexico,Cedar Park
+S_4386,22-26,Male,USA,NY
+S_4387,22-26,Female,United States,Iowa
+S_4388,22-26,Female,Philippines,Makati City
+S_4389,71-77,Female,United States of America,"Salt Lake City, Utah"
+S_4390,50-58,Female,Philippines,Malaybalay
+S_4391,22-26,Male,Philippines,Isabela
+S_4392,22-26,Male,USA,Sacramento
+S_4393,22-26,Female,United States,Utah
+S_4394,50-58,Female,Japan,Okinawa
+S_4395,43-49,Female,Indonesia,Bogor
+S_4396,18-21,Female,United States,Phoenix Arizona
+S_4397,18-21,Female,USA,Palo alto
+S_4398,18-21,Female,United States,Colorado
+S_4399,18-21,Female,United States,Missouri
+S_4400,22-26,Male,United States of America,Sacramento California
+S_4401,22-26,Female,United States,California
+S_4402,22-26,Female,USA,Utah
+S_4403,22-26,Female,Mexico,Puebla
+S_4404,27-31,Female,Usa,Nashville
+S_4405,27-31,Male,PNG,Port Moresby
+S_4406,22-26,Male,Indonesia,Jakarta
+S_4407,18-21,Female,USA,Hawaii
+S_4408,50-58,Male,China,Harbin
+S_4409,22-26,Female,United States,Virginia
+S_4410,18-21,Male,United States,Arizona
+S_4411,50-58,Female,Philippines,Cebu
+S_4412,18-21,Male,New Zealand,Paihia
+S_4413,22-26,Female,USA,Arizona
+S_4414,22-26,Male,USA,"Lewiston, Idaho"
+S_4415,22-26,Female,"Tahiti, French Polynesia","Punaauia, Taravao, and Papeete"
+S_4416,18-21,Female,Philippines,Santa Barbara
+S_4417,22-26,Female,Monterrey,Mexico
+S_4418,22-26,Female,Japan,Miyagi
+S_4419,22-26,Male,Japan,"Kagawa prefecture, Kanonji city"
+S_4420,32-36,Male,USA,Herriman
+S_4421,22-26,Female,Philippines,Unknown
+S_4422,22-26,Female,United States,Laie
+S_4423,18-21,Female,Philippines,"Naga City, Camarines Sur"
+S_4424,22-26,Female,Philippines,General Santos City
+S_4425,22-26,Female,Philippines,"Balanga City, Bataan"
+S_4426,27-31,Female,Australia,Melbourne
+S_4427,22-26,Female,Philippines,"Naga City, Camarines Sur"
+S_4428,27-31,Male,USA,Utah
+S_4429,22-26,Female,Vietnam,Dong Xoai
+S_4430,18-21,Female,USA,CA
+S_4431,22-26,Female,US,Sacramento
+S_4432,27-31,Female,United States,Utah
+S_4433,18-21,Female,Japan,Tokyo
+S_4434,22-26,Male,Mexico,Cedar Park
+S_4435,50-58,Female,Monterrey,Mexico
+S_4436,27-31,Female,Tonga,Hateo
+S_4437,22-26,Female,Usa,Phoenix AZ
+S_4438,22-26,Female,United states,Utah
+S_4439,22-26,Male,Philippines,Banga
+S_4440,22-26,Male,Taiwan,Hualien
+S_4441,43-49,Female,Philippines,Tanauan
+S_4442,18-21,Female,KSA,Dhahran
+S_4443,43-49,Female,Tonga,Haapai
+S_4444,22-26,Female,Mongolia,Ulaanbaatar
+S_4445,50-58,Male,Fiji,Suva
+S_4446,22-26,Female,Philippines,Pangasinan
+S_4447,22-26,Male,United States,Washington
+S_4448,22-26,Female,Tahiti,Tahiti
+S_4449,27-31,Male,United States,California
+S_4450,18-21,Female,Philippines,Allen
+S_4451,18-21,Male,United States,Colorado
+S_4452,18-21,Male,PNG,Port Moresby
+S_4453,22-26,Male,India,Chennai
+S_4454,27-31,Female,United States,Utah
+S_4455,18-21,Female,United States,Utah
+S_4456,50-58,Female,America,Utah
+S_4457,18-21,Female,México,Veracruz
+S_4458,18-21,Female,United States,Utah
+S_4459,18-21,Male,United States,Missouri
+S_4460,22-26,Female,Kiribati,Tarawa
+S_4461,22-26,Female,Canada,Langley
+S_4462,22-26,Male,Australia,Gold Coast
+S_4463,22-26,Female,New Zealand,Hastings
+S_4464,22-26,Male,USA,California
+S_4465,27-31,Male,USA,Utah
+S_4466,22-26,Male,USA,Kailua Hawaii
+S_4467,18-21,Male,Us,Hawaii
+S_4468,22-26,Female,Usa,Arizona
+S_4469,22-26,Female,Canada,Alberta
+S_4470,43-49,Male,United States,"Salt lake city, Utah"
+S_4471,59-64,Male,Philippines,Santa Barbara
+S_4472,18-21,Male,Tahiti,French Polynesia
+S_4473,18-21,Male,United States of America,Utah
+S_4474,22-26,Male,Philippines,SURIGAO CITY
+S_4475,50-58,Female,Kiribati,Tarawa
+S_4476,22-26,Female,United States,"Lehi, UT"
+S_4477,22-26,Male,United States,Utah
+S_4478,27-31,Male,Malaysia,Sarawak
+S_4479,18-21,Male,USA,Utah
+S_4480,22-26,Male,Fiji,Suva
+S_4481,22-26,Female,Philippines,Cavite
+S_4482,18-21,Female,Kiribati,Tarawa
+S_4483,43-49,Female,papua new guinea,Hawaii
+S_4484,59-64,Female,Philipphines,Manila
+S_4485,18-21,Female,Philippines,Cagayan
+S_4486,27-31,Male,Japan,Osaka
+S_4487,22-26,Male,USA,Oklahoma
+S_4488,18-21,Male,Philippines,Bohol
+S_4489,22-26,Female,United States,San diego
+S_4490,50-58,Female,United States,California
+S_4491,22-26,Female,USA,North Carolina
+S_4492,18-21,Female,India New Delhi,New Delhi
+S_4493,22-26,Female,United States,"Eagle, Idaho"
+S_4494,27-31,Female,PNG,Port Moresby
+S_4495,22-26,Female,United States,Utah
+S_4496,22-26,Female,USA,Kailua Hawaii
+S_4497,22-26,Female,Fiji,Suva
+S_4498,22-26,Female,Fiji,Menlo Park
+S_4499,22-26,Male,USA,"Alpine, Utah"
+S_4500,22-26,Male,US,Spokane Washington
+S_4501,22-26,Male,United States,Utah
+S_4502,22-26,Female,philippines,tuguegarao
+S_4503,37-42,Female,United States,California
+S_4504,22-26,Female,USA,Hawaii
+S_4505,37-42,Female,England,London
+S_4506,22-26,Male,México,Veracruz
+S_4507,22-26,Female,South Korea,Ulsan
+S_4508,18-21,Female,USA,Arizona
+S_4509,22-26,Female,Taiwan,Taipei
+S_4510,18-21,Male,china,jiangsu
+S_4511,37-42,Female,USA,Arizona
+S_4512,18-21,Female,United States,Hawaii
+S_4513,50-58,Female,United states,North Carolina
+S_4514,32-36,Female,USA,Oregon
+S_4515,22-26,Male,United States,Laie Hawaii
+S_4516,18-21,Female,Indonesia,Seko
+S_4517,22-26,Female,Monterrey,Mexico
+S_4518,18-21,Female,United States,Utah
+S_4519,22-26,Male,India,New Delhi
+S_4520,22-26,Male,United States,Texas
+S_4521,50-58,Male,Korea,Suwon
+S_4522,43-49,Female,United States,Phoenix Arizona
+S_4523,22-26,Female,Mongolia,Ulaanbaatar
+S_4524,22-26,Female,Utah,Highland
+S_4525,22-26,Female,United States,Boise Idaho
+S_4526,22-26,Male,Philippines,Sta. Barbara
+S_4527,43-49,Female,USA,Utah
+S_4528,22-26,Female,Philippines,Hawaii
+S_4529,18-21,Female,Phiilippines,Mapandan
+S_4530,22-26,Female,Philippines,Cebu
+S_4531,18-21,Male,New Zealand,Auckland
+S_4532,27-31,Female,Sāmoa,Hawaii
+S_4533,18-21,Female,United States,UT
+S_4534,22-26,Male,PNG,PORT MORESBY
+S_4535,18-21,Male,Philippines,Baguio
+S_4536,18-21,Female,United states,Minnesota
+S_4537,18-21,Male,Philippines,SURIGAO CITY
+S_4538,27-31,Female,Samoa,Aleisa
+S_4539,43-49,Female,Philippines,Surigao City
+S_4540,18-21,Male,Philippines,Manila
+S_4541,50-58,Female,United States,Utah
+S_4542,18-21,Male,USA,Oregon
+S_4543,18-21,Female,United States of America,Utah
+S_4544,18-21,Female,Philippines,Nueva Vizcaya
+S_4545,27-31,Male,U.S,Hawaii
+S_4546,27-31,Female,Usa,Ohio
+S_4547,18-21,Female,Japan,Saitama
+S_4548,18-21,Female,United States,Hawaii
+S_4549,22-26,Male,Mongolia,Ulaanbaatar
+S_4550,18-21,Female,Philippines,Marikina
+S_4551,18-21,Female,United States of America,Oregon
+S_4552,22-26,Male,Phiilippines,Mapandan
+S_4553,22-26,Female,PHILIPPINES,Bulacan
+S_4554,22-26,Female,United States,Utah
+S_4555,18-21,Female,South Korea,Ulsan
+S_4556,22-26,Male,Philippines,Valenzuela
+S_4557,22-26,Male,philippines,tuguegarao
+S_4558,27-31,Female,United States,"Billings, Montana"
+S_4559,27-31,Male,Philippines,Taguig
+S_4560,22-26,Male,USA,California/Hawaii
+S_4561,22-26,Female,Philippines,Tuguegarao City
+S_4562,32-36,Male,Kiribati,Tarawa
+S_4563,22-26,Male,America,Ohio
+S_4564,22-26,Female,USA,Utah
+S_4565,18-21,Male,Philippines,Pangasinan
+S_4566,22-26,Male,Fiji,Suva
+S_4567,18-21,Female,United States,Providence
+S_4568,18-21,Female,El Salvador,"Phoenix, Arizona"
+S_4569,18-21,Female,United States,Texas
+S_4570,22-26,Male,Fiji,Hawaii
+S_4571,18-21,Male,Taiwan,Changhua
+S_4572,22-26,Female,Philippines,Quezon
+S_4573,50-58,Female,Mexico,Puebla
+S_4574,18-21,Male,Indonesia,Central Java
+S_4575,22-26,Male,Kiribati,Tarawa
+S_4576,18-21,Male,Brazil,Sao Paulo
+S_4577,50-58,Male,United States,Orem
+S_4578,18-21,Male,Kiribati,Tarawa
+S_4579,59-64,Male,Philippines,Surigao
+S_4580,22-26,Male,Philippines,Banga
+S_4581,27-31,Female,Philippines,Cebu
+S_4582,50-58,Female,Philippines,Laguna
+S_4583,18-21,Female,Philippines,Butuan
+S_4584,18-21,Female,United States,Utah
+S_4585,18-21,Male,Japan,Okinawa
+S_4586,18-21,Female,USA,Az
+S_4587,22-26,Male,Indonesia,Central Java
+S_4588,22-26,Male,United States,Idaho
+S_4589,22-26,Female,China,Chengdu
+S_4590,37-42,Male,Philippines,General Santos City
+S_4591,43-49,Female,mexico,monterrey
+S_4592,18-21,Female,Jaoan,Chiba
+S_4593,22-26,Female,United States,Utah
+S_4594,22-26,Female,India,Deli
+S_4595,27-31,Female,United States of America,Florida
+S_4596,22-26,Female,Kiribati,Tarawa
+S_4597,22-26,Male,Mexico,Monterrey
+S_4598,22-26,Female,Indonesia,Seko
+S_4599,22-26,Female,French Polynesia,Tahiti
+S_4600,18-21,Male,Indonesia,Malang
+S_4601,22-26,Female,USA,Utah
+S_4602,22-26,Female,Samoa,Apia
+S_4603,22-26,Female,USA,oceanside
+S_4604,32-36,Female,Philippines,Allen
+S_4605,32-36,Female,Kiribati,Kiritimati Island
+S_4606,22-26,Female,PNG,Port Moresby
+S_4607,22-26,Male,USA,Virginia
+S_4608,37-42,Female,Indonesia,Jakarta
+S_4609,27-31,Female,America,Idaho
+S_4610,22-26,Female,China,Tianjin
+S_4611,22-26,Male,Tonga,Nuku’alofa
+S_4612,18-21,Male,Canada,Alberta
+S_4613,32-36,Male,United States,San diego
+S_4614,18-21,Female,Wisconsin,Ladysmith
+S_4615,18-21,Male,Vietnam,Saigon
+S_4616,18-21,Female,Philippines,General Santos City
+S_4617,22-26,Female,USA,Arizona
+S_4618,50-58,Female,Japan,Tokyo
+S_4619,22-26,Female,USA,Oregon
+S_4620,18-21,Female,United States,Laie Hawaii
+S_4621,50-58,Female,United States,California
+S_4622,27-31,Female,United States,Arizona
+S_4623,22-26,Female,USA,Wisconsin
+S_4624,27-31,Male,USA,"Cedar Hills, Utah"
+S_4625,18-21,Female,usa,colorado
+S_4626,22-26,Female,Indonesia,Bogor
+S_4627,27-31,Male,United States,Idaho
+S_4628,22-26,Male,United States,"Boise, Idaho"
+S_4629,59-64,Male,Japan,Ibaraki
+S_4630,22-26,Female,Malaysia,Kuala Lumpur
+S_4631,50-58,Female,Philippines,Pangasinan
+S_4632,22-26,Female,USA,Utah
+S_4633,59-64,Female,United States,Utah
+S_4634,22-26,Female,US,Sacramento
+S_4635,22-26,Male,Philippines,Cebu
+S_4636,18-21,Female,United States,Utah
+S_4637,18-21,Female,Philippines,Hawaii
+S_4638,22-26,Female,Philippines,Santiago City
+S_4639,66-70,Male,Korea,Seoul
+S_4640,18-21,Female,United States,Bountiful
+S_4641,18-21,Male,Philippines,Butuan
+S_4642,18-21,Male,"Tahiti, French Polynesia","Punaauia, Taravao, and Papeete"
+S_4643,22-26,Female,Taiwan,Taichung City
+S_4644,32-36,Female,USA,Colorado
+S_4645,37-42,Female,Samoa,Apia
+S_4646,22-26,Male,United States,Utah
+S_4647,22-26,Male,United States,"Providence, UT"
+S_4648,18-21,Male,Japan,Fukuoka
+S_4649,18-21,Female,Philippines,Santiago City
+S_4650,27-31,Female,Tahiti,French Polynesia
+S_4651,22-26,Male,United States,Idaho
+S_4652,22-26,Female,US,"Hawaii, Laie"
+S_4653,22-26,Female,Philippines,Nueva Ecija
+S_4654,43-49,Female,United States,"Providence, UT"
+S_4655,22-26,Male,United States,Utah
+S_4656,27-31,Female,New Zealand,Hamilton
+S_4657,27-31,Female,United States,Salt Lake City
+S_4658,22-26,Female,United States,Arizona
+S_4659,32-36,Female,Papua New Guinea,Port Morgan
+S_4660,50-58,Male,Fiji,Lautoka
+S_4661,22-26,Female,Philippines,Santa Barbara
+S_4662,59-64,Female,USA,California
+S_4663,22-26,Male,PHILIPPINES,Bulacan
+S_4664,50-58,Male,United States,Utah
+S_4665,22-26,Female,Philippines,Taguig
+S_4666,22-26,Male,Kiribati,Betio
+S_4667,22-26,Female,Japan,Saitama
+S_4668,18-21,Male,Australia,Melbourne
+S_4669,22-26,Female,Philippines,Cebu
+S_4670,22-26,Male,United States of America,"Salt Lake City, Utah"
+S_4671,22-26,Male,United States,Boise Idaho
+S_4672,22-26,Female,Japan,TOKYO
+S_4673,50-58,Female,Mongolia,Ulaanbaatar
+S_4674,18-21,Male,Indonesia,Malang
+S_4675,22-26,Female,United States,Utah
+S_4676,37-42,Female,Mongolia,Ulaanbaatar
+S_4677,22-26,Female,United States,San diego
+S_4678,22-26,Male,El Salvador,"Phoenix, Arizona"
+S_4679,22-26,Female,Korea,Seoul
+S_4680,50-58,Female,Japan,TOKYO
+S_4681,18-21,Female,Papua New Guinea,Papua New Guinea
+S_4682,27-31,Female,Philippines,Sta. Barbara
+S_4683,22-26,Female,Papua New Guinea,Port Moresby
+S_4684,50-58,Female,Indonesia,Jakarta
+S_4685,18-21,Male,Philippines,Naga city
+S_4686,22-26,Female,Philippines,Pangasinan
+S_4687,22-26,Male,United States,Hawaii
+S_4688,22-26,Female,Sāmoa,Hawaii
+S_4689,43-49,Female,Japan,Sendai
+S_4690,27-31,Female,Indonesia,Surabaya
+S_4691,27-31,Female,Taiwan,Taichung City
+S_4692,32-36,Male,China,Chengdu
+S_4693,50-58,Female,Tahiti,Maraea
+S_4694,18-21,Male,Canada,British Columbia
+S_4695,18-21,Male,Weisheng,Kuala Lumpur
+S_4696,43-49,Male,Indonesia,Jakarta
+S_4697,22-26,Female,Philippines,Cebu
+S_4698,18-21,Male,United States,"Anthem, AZ"
+S_4699,22-26,Male,America,Utah
+S_4700,22-26,Male,Japan,Okinawa
+S_4701,22-26,Female,PHILIPPINES,Bulacan
+S_4702,22-26,Female,USA,Colorado
+S_4703,18-21,Male,USA,Utah
+S_4704,18-21,Male,Tonga,Nuku'alofa
+S_4705,22-26,Male,Philippines,Pasuquin
+S_4706,18-21,Female,Philippines,Cavite
+S_4707,27-31,Male,Philippines,Valencia City.
+S_4708,22-26,Male,Philippines,Unknown
+S_4709,22-26,Female,Brazil,Sao Paulo
+S_4710,18-21,Male,Mongolia,Ulaanbaatar
+S_4711,27-31,Male,United States,Utah
+S_4712,22-26,Male,United States,Utah
+S_4713,27-31,Female,Utah,Highland
+S_4714,22-26,Female,USA,Utah
+S_4715,18-21,Male,United States,Utah
+S_4716,37-42,Female,United States,Salt Lake City
+S_4717,22-26,Female,Philippines,Alicia
+S_4718,22-26,Female,United States,Utah
+S_4719,18-21,Female,Unite States,"Springville, UT"
+S_4720,37-42,Female,Philippines,"Palawan, Puerto Prinsesa City"
+S_4721,18-21,Female,USA,California
+S_4722,22-26,Female,United State,Utah
+S_4723,22-26,Male,United States,Idaho
+S_4724,37-42,Female,United States,Providence
+S_4725,22-26,Male,Kiribati,Tarawa
+S_4726,22-26,Female,Monterrey,Mexico
+S_4727,18-21,Male,Japan,Sendai
+S_4728,27-31,Male,United States,Utah
+S_4729,27-31,Female,Fiji,Suva
+S_4730,22-26,Male,Philippines,Alicia
+S_4731,22-26,Male,United States,Utah
+S_4732,18-21,Male,United States,hawaii
+S_4733,22-26,Female,USA,Sacramento
+S_4734,27-31,Male,USA,California
+S_4735,18-21,Female,United States,California
+S_4736,22-26,Female,Scotland,Aberdeen
+S_4737,22-26,Female,Kiribati,Butaritari
+S_4738,22-26,Female,Philippines,Quezon
+S_4739,22-26,Male,Hong Kong,Hong Kong
+S_4740,18-21,Male,Japan,Okinawa
+S_4741,22-26,Male,Papua New Guinea,Port Moresby
+S_4742,43-49,Female,Philippines,Bulacan
+S_4743,22-26,Female,US,HI
+S_4744,43-49,Female,Tahiti,Papeete
+S_4745,22-26,Female,Japan,Nara
+S_4746,22-26,Male,United States,"Laie, Hawaii"
+S_4747,22-26,Female,United States,San Diego
+S_4748,18-21,Female,United States,Utah
+S_4749,22-26,Male,Philippines,Bulacan
+S_4750,27-31,Female,Philippines,Pangasinan
+S_4751,22-26,Male,Philippines,Allen
+S_4752,37-42,Female,United States,Texas
+S_4753,22-26,Female,USA,"Anchorage, AK"
+S_4754,27-31,Female,Kiribati,Tarawa
+S_4755,18-21,Female,Canada,Langley
+S_4756,18-21,Male,México,Veracruz
+S_4757,22-26,Male,Fiji,Lautoka
+S_4758,27-31,Male,Japan,Kannonnji
+S_4759,22-26,Female,French Polynesia,Tahiti
+S_4760,43-49,Male,USA,California
+S_4761,27-31,Female,USA,"Lewiston, Idaho"
+S_4762,18-21,Male,United States,Texas
+S_4763,18-21,Male,United States,Utah
+S_4764,22-26,Female,USA,Colorado
+S_4765,22-26,Male,United States,Utah
+S_4766,22-26,Female,Philippines,Puerto Prinsesa Palawan
+S_4767,27-31,Male,Canada,Alberta
+S_4768,22-26,Male,USA,"Anchorage, AK"
+S_4769,22-26,Male,United States,American Samoa
+S_4770,22-26,Female,US,HI
+S_4771,22-26,Male,United States,California
+S_4772,59-64,Female,Tonga,Nuku'alofa
+S_4773,22-26,Female,Philippines,Bacolod
+S_4774,22-26,Male,Philippines,Pangasinan
+S_4775,22-26,Male,United States,"Morgantown, WV"
+S_4776,18-21,Male,Papua New Guinea,Papua New Guinea
+S_4777,27-31,Female,Philippines,Ramon
+S_4778,22-26,Female,United States,"Boise, Idaho"
+S_4779,22-26,Male,USA,Utah
+S_4780,22-26,Female,Usa,Louisiana
+S_4781,22-26,Male,Japan,Sapporo
+S_4782,27-31,Female,USA,Hawaii
+S_4783,22-26,Female,United States,Missouri
+S_4784,27-31,Female,United States,Hawaii
+S_4785,27-31,Female,Mexico,Veracruz
+S_4786,22-26,Female,United States,Virginia
+S_4787,22-26,Female,Papua New Guinea,Hawaii
+S_4788,22-26,Female,Indonesia,Bogor
+S_4789,22-26,Male,United States,Arizona
+S_4790,18-21,Male,China,Yunnan
+S_4791,18-21,Female,USA,Sacramento
+S_4792,18-21,Female,USA,"Hauula, Hawaii"
+S_4793,18-21,Female,Samoa,Apia
+S_4794,22-26,Female,Philippines,Naga Cith
+S_4795,18-21,Female,new zealand,auckland
+S_4796,22-26,Female,America,Utah
+S_4797,18-21,Female,USA,Utah
+S_4798,18-21,Female,Philippines,Legazpi
+S_4799,22-26,Male,Mongolia,Ulaanbaatar
+S_4800,22-26,Female,USA,Utah
+S_4801,18-21,Male,Philippines,Pasig
+S_4802,27-31,Female,China,Chengdu
+S_4803,18-21,Male,United States,Texas
+S_4804,22-26,Male,USA,Palo alto
+S_4805,18-21,Female,Philippines,Cavite
+S_4806,22-26,Female,Japan,Ibaraki
+S_4807,22-26,Female,USA,San Francisco
+S_4808,27-31,Female,Philippines,Davao City
+S_4809,43-49,Male,USA,California
+S_4810,22-26,Male,Vietnam,Dong Xoai
+S_4811,43-49,Female,Tonga,Nuku'alofa
+S_4812,22-26,Female,Philippines,Philippines
+S_4813,22-26,Male,Usa,Ohio
+S_4814,22-26,Female,Canada,Langley
+S_4815,22-26,Female,United States,Sacramento
+S_4816,18-21,Male,Philippines,Unknown
+S_4817,27-31,Female,Usa,Arizona
+S_4818,22-26,Male,Philippines,Naga
+S_4819,22-26,Female,United States,Colorado
+S_4820,22-26,Female,USA,California
+S_4821,27-31,Female,Vietnam,Saigon
+S_4822,22-26,Male,USA,Spokane
+S_4823,18-21,Female,Kiribati,Tarawa
+S_4824,18-21,Female,USA,Hawaii
+S_4825,43-49,Female,Taiwan,Taichung City
+S_4826,43-49,Male,NZ,Hastings
+S_4827,18-21,Male,Philippines,Tuguegarao City
+S_4828,22-26,Male,usa,Utah
+S_4829,22-26,Female,USA,Utah
+S_4830,18-21,Male,Australia,Melbourne
+S_4831,27-31,Female,Usa,Arizona
+S_4832,18-21,Female,United States,Utah
+S_4833,43-49,Male,Philippines,Quezon City
+S_4834,22-26,Male,USA,California
+S_4835,22-26,Male,Kiribati,Kiritimati Island
+S_4836,27-31,Male,Peru,Arequipa
+S_4837,27-31,Female,USA,Texas
+S_4838,50-58,Male,Philippine,Alicia
+S_4839,18-21,Male,United States,NC
+S_4840,18-21,Female,Philippines,Gumaca
+S_4841,22-26,Female,United States,"Atlanta, GA"
+S_4842,18-21,Female,PNG,Port Moresby
+S_4843,18-21,Male,Kiribati,Tarawa
+S_4844,27-31,Female,Mongolia,Ulaanbaatar
+S_4845,22-26,Male,Sri Lanka,Negombo
+S_4846,22-26,Female,Papua New Guinea,Port Moresby
+S_4847,18-21,Female,United States,Leesburg
+S_4848,22-26,Female,Philippines,Taguig City
+S_4849,22-26,Male,New Zealand,Auckland
+S_4850,27-31,Female,United States,Sacramento
+S_4851,43-49,Female,Mongolia,Ulaanbaatar
+S_4852,50-58,Male,Philippines,Cebu
+S_4853,22-26,Female,Mexico,Cedar Park
+S_4854,50-58,Female,Hawaii,Oahu
+S_4855,22-26,Male,USA,Utah
+S_4856,22-26,Female,Philippines,Cebu City
+S_4857,22-26,Male,U.S,Colorado
+S_4858,43-49,Male,United States,Newport
+S_4859,27-31,Male,Philippines,Legazpi
+S_4860,32-36,Male,USA,Hawaii
+S_4861,22-26,Female,Philippines,Pasig City
+S_4862,18-21,Male,Philippines,Camarines Norte
+S_4863,27-31,Female,Kiribati,Tarawa
+S_4864,22-26,Female,Samoa,Apia
+S_4865,22-26,Male,India,Chennai
+S_4866,18-21,Female,Tonga,Hateo
+S_4867,18-21,Female,Usa,Utah
+S_4868,18-21,Female,Fiji,Laie
+S_4869,22-26,Female,PNG,Port Moresby
+S_4870,22-26,Male,Indonesia,Cikarang
+S_4871,22-26,Male,Fiji,Lautoka
+S_4872,32-36,Female,USA,Utah
+S_4873,22-26,Female,USA,Utah
+S_4874,18-21,Male,United States,California
+S_4875,22-26,Female,Philippines,Taguig
+S_4876,22-26,Male,Philippines,Manila
+S_4877,22-26,Female,USA,CT
+S_4878,22-26,Male,Usa,Louisiana
+S_4879,22-26,Female,United States of America,California
+S_4880,27-31,Female,Thailand,Chiang Mai
+S_4881,22-26,Female,USA,Logan
+S_4882,50-58,Female,Tonga,Nuku’alofa
+S_4883,50-58,Male,India,Chennai
+S_4884,22-26,Female,Taiwan,New Taipei City
+S_4885,18-21,Female,México,Veracruz
+S_4886,43-49,Female,Kiribati,Tarawa
+S_4887,18-21,Female,India,Chennai
+S_4888,27-31,Female,New Zealand,Auckland
+S_4889,18-21,Male,United States of America,Colorado
+S_4890,27-31,Female,United States,Hawaii
+S_4891,18-21,Female,USA,Hawaii
+S_4892,27-31,Female,Philippines,Laie
+S_4893,18-21,Female,Phiilippines,Mapandan
+S_4894,27-31,Female,United States,Utah
+S_4895,27-31,Female,Philippines,Laguna
+S_4896,27-31,Female,Canada,Lethbridge
+S_4897,50-58,Female,USA,Washington
+S_4898,22-26,Male,Samoa,Fale Lili
+S_4899,32-36,Male,America,Idaho
+S_4900,18-21,Male,Mongolia,Ulaanbaatar
+S_4901,22-26,Female,China,Chengdu
+S_4902,22-26,Female,United States,Hawaii
+S_4903,22-26,Male,Usa,Utah
+S_4904,22-26,Male,Philippines,Alaminos City
+S_4905,22-26,Female,United States,Utah
+S_4906,43-49,Female,Philippines,Bacolod
+S_4907,27-31,Female,papua new guinea,Hawaii
+S_4908,18-21,Female,United States,CO
+S_4909,22-26,Female,India,Chennai
+S_4910,43-49,Female,USA,Sacramento
+S_4911,22-26,Male,USA,Florida
+S_4912,22-26,Female,china,jiangsu
+S_4913,22-26,Female,United States,West Virginia
+S_4914,22-26,Female,Tahiti,French Polynesia
+S_4915,66-70,Female,US,Utah
+S_4916,22-26,Female,USA,Utah
+S_4917,32-36,Male,Us,Utah
+S_4918,50-58,Male,Philippines,Manila
+S_4919,27-31,Male,Japan,"Kagawa prefecture, Kanonji city"
+S_4920,27-31,Male,Philippines,Laie
+S_4921,22-26,Female,USA,"Lewiston, Idaho"
+S_4922,18-21,Female,Malaysia,Sarawak
+S_4923,22-26,Male,Japan,Miyagi
+S_4924,22-26,Female,USA,California
+S_4925,22-26,Female,USA,Hawaii
+S_4926,22-26,Female,United States,Bluffdale Utah
+S_4927,22-26,Female,United States of America,Utah
+S_4928,27-31,Female,Usa,Arizona
+S_4929,22-26,Female,Philippines,Pasuquin
+S_4930,18-21,Female,United States,"Ridgefield, WA"
+S_4931,18-21,Male,India,New Delhi
+S_4932,27-31,Female,French Polynesia,Mataiea
+S_4933,22-26,Female,Philippines,Cabatuan
+S_4934,18-21,Male,United States,Hawaii
+S_4935,22-26,Female,Indonesia,Cikarang
+S_4936,22-26,Male,Tonga,Nuku'alofa
+S_4937,22-26,Female,Philippines,Pasig City
+S_4938,18-21,Female,Tahiti,French Polynesia
+S_4939,22-26,Female,United states,Utah
+S_4940,18-21,Female,Usa,Washington
+S_4941,22-26,Female,Canada,British Columbia
+S_4942,27-31,Female,Taiwan,Changhua
+S_4943,43-49,Female,Kiribati,Tarawa
+S_4944,27-31,Female,Philippines,Davao City
+S_4945,22-26,Female,New Zealand,Northland
+S_4946,27-31,Male,USA,Oklahoma
+S_4947,37-42,Male,Japan,Hyogo
+S_4948,22-26,Female,philippines,manila
+S_4949,22-26,Male,United States,Utah
+S_4950,27-31,Female,USA,Logan
+S_4951,22-26,Female,Philippines,Muntinlupa
+S_4952,22-26,Female,Fiji,Suva
+S_4953,18-21,Female,Philippines,Santa Barbara
+S_4954,22-26,Female,Mongolia,Ulaanbaatar
+S_4955,18-21,Female,Kiribati,Butaritari
+S_4956,27-31,Female,United states,Utah
+S_4957,22-26,Male,United States,Texas
+S_4958,43-49,Female,Kiribati,Tarawa
+S_4959,22-26,Male,Philippines,Leyte
+S_4960,22-26,Male,Hong Kong,Hong Kong
+S_4961,22-26,Male,Kiribati,Tarawa
+S_4962,22-26,Male,USA,Virginia
+S_4963,22-26,Male,united states,airway heights
+S_4964,18-21,Female,Thailand,Chiang Mai
+S_4965,22-26,Male,Philippines,Hawaii
+S_4966,27-31,Male,united states of america,Texas
+S_4967,18-21,Female,United States,Utah
+S_4968,18-21,Female,USA,Utah
+S_4969,50-58,Female,Mexico,Nuevo Leon
+S_4970,22-26,Male,Fiji,Suva
+S_4971,22-26,Female,Philippines,Pangsinan
+S_4972,66-70,Male,Tonga,Nuku'alofa
+S_4973,43-49,Female,Tonga,Haakame
+S_4974,22-26,Male,United States,"Anthem, AZ"
+S_4975,22-26,Female,United States,Utah
+S_4976,22-26,Female,Canada,Cardston
+S_4977,22-26,Female,United States,Utah
+S_4978,18-21,Male,Philippines,Tuguegarao City
+S_4979,18-21,Female,Japan,Tokyo
+S_4980,59-64,Male,United States,Wyoming
+S_4981,37-42,Female,Philippines,Cebu
+S_4982,37-42,Female,Japan,Toride
+S_4983,22-26,Male,Philippines,Quezon City
+S_4984,59-64,Female,Philippines,Legazpi
+S_4985,22-26,Female,United States,Utah
+S_4986,37-42,Male,Canada,Calgary
+S_4987,18-21,Female,United States,California
+S_4988,18-21,Male,USA,Hawaii
+S_4989,18-21,Male,Taiwan,New Taipei City
+S_4990,18-21,Female,Japan,Saitama
+S_4991,22-26,Male,Japan,Kobe
+S_4992,18-21,Female,Philippines,"Naga City, Camarines Sur"
+S_4993,18-21,Male,USA,Virginia
+S_4994,18-21,Female,Unite States,"Springville, UT"
+S_4995,22-26,Male,United States,Idaho
+S_4996,32-36,Female,United States,New Mexico
+S_4997,22-26,Female,United States,Idaho
+S_4998,22-26,Male,United States,Valencia
+S_4999,43-49,Female,United States,Utah
+S_5000,50-58,Female,Philippines,Bacolod City

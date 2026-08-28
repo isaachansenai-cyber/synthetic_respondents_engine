@@ -1,0 +1,6 @@
+source_human_id,error
+H_0007,"Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbQ51Y8Yk3Vdm44BnEtGu'}"
+H_0008,"Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbQ51okeYGPPT9T3JEEoa'}"
+H_0009,"Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbQ527EcyzXnPxxHqHuP8'}"
+H_0010,"Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbQ52UoQDpdzngxgWCHS5'}"
+H_0011,"Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbQ52oXHgAXgsoXNtCs1a'}"

@@ -1,0 +1,7 @@
+model,scale_group,syn_mean,human_mean,ACI,t_stat,p_val
+gpt4,scale_agree,2.9115,3.842,-0.9305,-146.8162,0.0
+gpt4,scale_useful,3.3233,3.8561,-0.5328,-46.7398,0.0
+gpt4,scale_likely,3.3035,3.8237,-0.5202,-41.0894,0.0
+claude,scale_agree,2.8538,3.842,-0.9881,-155.7737,0.0
+claude,scale_useful,3.1154,3.8561,-0.7407,-56.1622,0.0
+claude,scale_likely,2.8862,3.8237,-0.9375,-66.148,0.0

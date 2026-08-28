@@ -1,0 +1,5 @@
+{"reasoning": "I find ChatGPT to be a convenient tool for obtaining quick information and ideas about travel destinations, though I still rely on other sources for detailed planning. It's user-friendly, and I enjoy using it as a supplementary resource.",
+ "q4_1": 4, "q4_2": 4, "q4_3": 5, "q4_4": 3, "q4_5": 3, "q4_6": 2, "q4_7": 4,
+ "q5_1": 4, "q5_2": 4, "q5_3": 4, "q5_4": 4, "q5_5": 4, "q5_6": 3, "q5_7": 3, "q5_8": 5,
+ "q7_1": 5, "q7_2": 4, "q7_3": 5, "q7_4": 4, "q7_5": 4, "q7_6": 1,
+ "q9_1": 5, "q9_2": 4, "q9_3": 4, "q10_1": 4, "q10_2": 3, "q10_3": 3, "q10_4": 4}
